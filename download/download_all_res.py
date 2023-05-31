@@ -1,7 +1,7 @@
 import json
 import re
 
-from download import *
+from download.download import *
 from path_and_json import *
 
 
