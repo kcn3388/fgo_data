@@ -128,6 +128,8 @@ def get_base(base_soup: BeautifulSoup, svt: dict, svt_data: dict):
         for each_sp_data in sp_svt_detail:
             sp_svt_detail[each_sp_data] = base_data[counter]
             counter += 1
+        if svt_data["id"] == "151":
+            sp_svt_detail["画师"] = "山中虎铁"
         svt["detail"] = sp_svt_detail
 
 
@@ -150,32 +152,32 @@ def get_nick_name(svt: dict, soup: BeautifulSoup):
 def get_card_url(svt: dict, raw_html: str, card_soup: BeautifulSoup):
     cards_url = []
     try:
-        if not svt["id"] in banned_id:
-            rule_cs_card = re.compile(r"graphpicker-graph-\d")
-            all_cs = card_soup.find_all("div", class_=rule_cs_card)
-            all_cs = all_cs[:int(len(all_cs) / 2)]
-            rule_card = re.compile(r"/images/.+?.\.(?:png|jpg)")
-            for each_cs in all_cs:
-                card_srcset = each_cs.find_next("img").get("data-srcset")
-                card_set = re.findall(rule_card, card_srcset)
-                cards_url.append(card_set[-1])
-        if svt["id"] in banned_id and not svt["id"] == "83":
-            b_soup = card_soup.find_all("th")
-            beast = None
-            for each_b in b_soup:
-                if each_b.get("rowspan") == "22":
-                    beast = each_b
-            beast_rule = re.compile(r"/images/.+?.\.(?:png|jpg)")
-            beast_srcset = beast.find_next("img").get("data-srcset")
-            beast_set = re.findall(beast_rule, beast_srcset)
-            cards_url.append(beast_set[-1])
-        if svt["id"] == "83":
-            solomon_soup = card_soup.find_all("div", class_="tabbertab")[:2]
-            rule_solomon = re.compile(r"/images/.+?.\.(?:png|jpg)")
-            for each_solomon in solomon_soup:
-                solomon_srcset = each_solomon.find_next("img").get("data-srcset")
-                solomon_set = re.findall(rule_solomon, solomon_srcset)
-                cards_url.append(solomon_set[-1])
+        # if not svt["id"] in banned_id:
+        rule_cs_card = re.compile(r"graphpicker-graph-\d")
+        all_cs = card_soup.find_all("div", class_=rule_cs_card)
+        all_cs = all_cs[:int(len(all_cs) / 2)]
+        rule_card = re.compile(r"/images/.+?.\.(?:png|jpg)")
+        for each_cs in all_cs:
+            card_srcset = each_cs.find_next("img").get("data-src")
+            card = re.search(rule_card, card_srcset).group(0).replace("/thumb", "")
+            cards_url.append(card)
+        # if svt["id"] in banned_id and not svt["id"] == "83":
+        #     b_soup = card_soup.find_all("th")
+        #     beast = None
+        #     for each_b in b_soup:
+        #         if each_b.get("rowspan") == "22":
+        #             beast = each_b
+        #     beast_rule = re.compile(r"/images/.+?.\.(?:png|jpg)")
+        #     beast_srcset = beast.find_next("img").get("data-srcset")
+        #     beast_set = re.findall(beast_rule, beast_srcset)
+        #     cards_url.append(beast_set[-1])
+        # if svt["id"] == "83":
+        #     solomon_soup = card_soup.find_all("div", class_="tabbertab")[:2]
+        #     rule_solomon = re.compile(r"/images/.+?.\.(?:png|jpg)")
+        #     for each_solomon in solomon_soup:
+        #         solomon_srcset = each_solomon.find_next("img").get("data-srcset")
+        #         solomon_set = re.findall(rule_solomon, solomon_srcset)
+        #         cards_url.append(solomon_set[-1])
     except Exception as e:
         if "error" in svt:
             svt["error"].append(f"svt{svt['id']} get card img error: {e}")
@@ -417,6 +419,9 @@ def get_ultimate(svt: dict, base: list):
 
 
 def get_skills(svt: dict, base: list, raw_html: str):
+    if svt["id"] == "151":
+        svt["技能"] = lib_svt_151_skill
+        return
     skill_soup = base[len(svt["宝具信息"]):]
     skill_list = []
     for i in range(len(skill_soup)):
