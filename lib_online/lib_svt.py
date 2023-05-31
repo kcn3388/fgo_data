@@ -452,9 +452,9 @@ def get_skills(svt: dict, base: list, raw_html: str):
                     ]
         except KeyError:
             if skill_type == "持有技能" or skill_flag == 0:
-                skills[
-                    each_skill_list[0].find_previous("b").text
-                ] = [each_skill_list[1], skill_icon, each_skill_list[0]]
+                skills[each_skill_list[0].find_previous("b").text] = [
+                    each_skill_list[1], skill_icon, each_skill_list[0]
+                ]
         except AttributeError:
             title = each_skill_list[0].find_parent("div")["title"]
             skills[f'特殊技能({title})'] = [each_skill_list[1], skill_icon, each_skill_list[0]]
