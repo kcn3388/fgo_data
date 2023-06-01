@@ -1,4 +1,6 @@
 import bs4
+import copy
+import json
 import re
 
 from bs4 import BeautifulSoup
@@ -88,33 +90,37 @@ def get_base(base_soup: BeautifulSoup, svt: dict, svt_data: dict):
         return
     base_data = []
     info: List[bs4.Tag] = base_table.find_all("td")
+    artists_counter = 0
     for each_info in info:
-        try:
-            arg = each_info.contents[0].text.strip()
-        except AttributeError:
-            arg = each_info.text.strip()
+        arg = each_info.text.strip()
+        if artists_counter > 1:
+            arg = [x.text for x in each_info.contents if not x.text == "\n"]
+            artists_counter = -2
+        if artists_counter > -1:
+            artists_counter += 1
         if arg:
             base_data.append(arg)
 
     base_data = base_data[2:-1]
     counter = 0
     if not svt["id"] in banned_id:
+        single_svt_detail = copy.deepcopy(base_svt_detail)
         try:
-            for each_data in base_svt_detail:
-                if svt_data["id"] == "351":
-                    if each_data == "特性":
-                        base_svt_detail[each_data] = ""
-                        continue
+            for each_data in single_svt_detail:
                 if each_data == "ATK" or each_data == "职阶补正后" or each_data == "HP":
-                    base_svt_detail[each_data] = base_data[counter: counter + 5]
+                    single_svt_detail[each_data] = base_data[counter: counter + 5]
                     counter += 5
+                elif each_data == "画师":
+                    for index in range(len(base_data[counter])):
+                        single_svt_detail[each_data][f"卡面{index + 1}"] = base_data[counter][index]
+                    counter += 1
                 elif each_data == "能力":
                     continue
                 elif each_data.startswith("Hit信息"):
-                    base_svt_detail[each_data] = ""
+                    single_svt_detail[each_data] = ""
                     continue
                 elif each_data == "NP获得率":
-                    base_svt_detail[each_data] = {
+                    single_svt_detail[each_data] = {
                         "Quick": base_data[counter],
                         "Arts": base_data[counter + 1],
                         "Buster": base_data[counter + 2],
@@ -123,17 +129,22 @@ def get_base(base_soup: BeautifulSoup, svt: dict, svt_data: dict):
                     }
                     counter += 5
                 else:
-                    base_svt_detail[each_data] = base_data[counter]
+                    single_svt_detail[each_data] = base_data[counter]
                     counter += 1
         except IndexError:
             print(svt_data["id"])
             pass
-        svt["detail"] = base_svt_detail
+        svt["detail"] = single_svt_detail
     else:
-        for each_sp_data in sp_svt_detail:
-            sp_svt_detail[each_sp_data] = base_data[counter]
+        single_svt_detail = copy.deepcopy(sp_svt_detail)
+        for each_sp_data in single_svt_detail:
+            if each_sp_data == "画师":
+                for index in range(len(base_data[counter])):
+                    single_svt_detail[each_sp_data][f"卡面{index + 1}"] = base_data[counter][index]
+            else:
+                single_svt_detail[each_sp_data] = base_data[counter]
             counter += 1
-        svt["detail"] = sp_svt_detail
+        svt["detail"] = single_svt_detail
 
 
 def get_nick_name(svt: dict, soup: BeautifulSoup):
@@ -155,7 +166,6 @@ def get_nick_name(svt: dict, soup: BeautifulSoup):
 def get_card_url(svt: dict, raw_html: str, card_soup: BeautifulSoup):
     cards_url = []
     try:
-        # if not svt["id"] in banned_id:
         rule_cs_card = re.compile(r"graphpicker-graph-\d")
         all_cs = card_soup.find_all("div", class_=rule_cs_card)
         all_cs = all_cs[:int(len(all_cs) / 2)]
@@ -164,23 +174,6 @@ def get_card_url(svt: dict, raw_html: str, card_soup: BeautifulSoup):
             card_srcset = each_cs.find_next("img").get("data-src")
             card = re.search(rule_card, card_srcset).group(0).replace("/thumb", "")
             cards_url.append(card)
-        # if svt["id"] in banned_id and not svt["id"] == "83":
-        #     b_soup = card_soup.find_all("th")
-        #     beast = None
-        #     for each_b in b_soup:
-        #         if each_b.get("rowspan") == "22":
-        #             beast = each_b
-        #     beast_rule = re.compile(r"/images/.+?.\.(?:png|jpg)")
-        #     beast_srcset = beast.find_next("img").get("data-srcset")
-        #     beast_set = re.findall(beast_rule, beast_srcset)
-        #     cards_url.append(beast_set[-1])
-        # if svt["id"] == "83":
-        #     solomon_soup = card_soup.find_all("div", class_="tabbertab")[:2]
-        #     rule_solomon = re.compile(r"/images/.+?.\.(?:png|jpg)")
-        #     for each_solomon in solomon_soup:
-        #         solomon_srcset = each_solomon.find_next("img").get("data-srcset")
-        #         solomon_set = re.findall(rule_solomon, solomon_srcset)
-        #         cards_url.append(solomon_set[-1])
     except Exception as e:
         if "error" in svt:
             svt["error"].append(f"svt{svt['id']} get card img error: {e}")
@@ -189,17 +182,16 @@ def get_card_url(svt: dict, raw_html: str, card_soup: BeautifulSoup):
         pass
 
     cards_name = []
-    if svt["id"] not in banned_id:
-        try:
-            rule_names = re.compile(r"var\sarrayTitle\s=new\sArray\(.+\);")
-            names = re.search(rule_names, raw_html).group(0)
-            names = names.replace("var arrayTitle =new Array(", "").replace(");", "").replace("\"", "")
-            names = names.split(",")
-            for each_name in names:
-                if not each_name == "":
-                    cards_name.append(each_name)
-        except AttributeError:
-            pass
+    try:
+        rule_names = re.compile(r"(const\s?arrayTitle\s?=)(\[.+])")
+        names = re.search(rule_names, raw_html).group(2)
+        names = json.loads(names)
+        names = list(filter(None, names))
+        for each_name in names:
+            if not each_name == "":
+                cards_name.append(each_name)
+    except AttributeError:
+        pass
 
     svt["cards_url"] = {}
     if len(cards_name) == len(cards_url):
@@ -208,6 +200,13 @@ def get_card_url(svt: dict, raw_html: str, card_soup: BeautifulSoup):
     else:
         for i in range(len(cards_url)):
             svt["cards_url"][f"卡面{i + 1}"] = cards_url[i]
+
+    artists = [svt["detail"]["画师"][x] for x in svt["detail"]["画师"]]
+    cards = [x for x in svt["cards_url"]]
+    real_artists = {}
+    for index in range(len(artists)):
+        real_artists[cards[index]] = artists[index]
+    svt["detail"]["画师"] = real_artists
 
 
 def get_fool(svt: dict, soup: BeautifulSoup):
@@ -223,32 +222,14 @@ def get_fool(svt: dict, soup: BeautifulSoup):
 def get_star(svt: dict, raw_html: str):
     star = ""
     try:
-        rule_star = re.compile(r"wgCategories.+星")
-        star = re.search(rule_star, raw_html).group(0)
-        star = star.split("\"")[-1].split("星")[0]
-    except AttributeError:
-        if svt["id"] in banned_id:
-            try:
-                rule_star = re.compile(r"<img\salt=\"\d星")
-                star = re.search(rule_star, raw_html).group(0)
-                star = star.split("\"")[-1].split("星")[0]
-            except Exception as e:
-                if "error" in svt:
-                    svt["error"].append(f"svt{svt['id']} get star error: {e}")
-                else:
-                    svt["error"] = [f"svt{svt['id']} get star error: {e}"]
-                pass
+        rule_star = re.compile(r"title=\"分类:(\d)星\"")
+        star = re.search(rule_star, raw_html).group(1)
+    except Exception as e:
+        if "error" in svt:
+            svt["error"].append(f"svt{svt['id']} get star error: {e}")
         else:
-            try:
-                rule_star = re.compile(r"wgCategories.+星")
-                star = re.search(rule_star, raw_html).group(0)
-                star = star.split("\"")[-1].split("星")[0]
-            except Exception as e:
-                if "error" in svt:
-                    svt["error"].append(f"svt{svt['id']} get star error: {e}")
-                else:
-                    svt["error"] = [f"svt{svt['id']} get star error: {e}"]
-                pass
+            svt["error"] = [f"svt{svt['id']} get star error: {e}"]
+        pass
 
     svt["rare"] = star + "星"
 
@@ -577,15 +558,6 @@ def get_voice(svt: dict, soup: BeautifulSoup):
     for each_type in svt_voice:
         for each_voice in svt_voice[each_type]:
             text = svt_voice[each_type][each_voice]["文本"]
-            # text = text.replace("。", "。\n").strip()
-            # text = text.replace("(持有", "\n(持有")
-            # text = text.replace("\n\n(持有", "\n(持有")
-            # text = text.replace("(通关", "\n(通关")
-            # text = text.replace("\n\n(通关", "\n(通关")
-            # text = text.replace("(牵绊", "\n(牵绊")
-            # text = text.replace("\n\n(牵绊", "\n(牵绊")
-            # text = text.replace("(战斗", "\n(战斗")
-            # text = text.replace("\n\n(战斗", "\n(战斗")
             svt_voice[each_type][each_voice]["文本"] = text
 
     svt["语音"] = svt_voice

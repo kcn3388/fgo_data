@@ -1,3 +1,4 @@
+import copy
 import re
 
 from bs4 import BeautifulSoup
@@ -56,11 +57,12 @@ def lib_cmd(cmd_data: dict) -> dict:
             info.append("")
 
     detail_counter = 0
-    for each_cd in cmd_detail:
-        cmd_detail[each_cd] = info[detail_counter]
+    single_cmd_detail = copy.deepcopy(cmd_detail)
+    for each_cd in single_cmd_detail:
+        single_cmd_detail[each_cd] = info[detail_counter]
         detail_counter += 1
 
-    cmd["detail"] = cmd_detail
+    cmd["detail"] = single_cmd_detail
 
     card_url = ""
     curl_soup = cmds.find_all("span")

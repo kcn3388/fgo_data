@@ -1,3 +1,4 @@
+import copy
 import re
 
 from bs4 import BeautifulSoup
@@ -63,10 +64,11 @@ def lib_cft(cft_data: dict) -> dict:
             info.append("")
 
     detail_counter = 0
-    for each_cd in cft_detail:
-        cft_detail[each_cd] = info[detail_counter]
+    single_cft_detail = copy.deepcopy(cft_detail)
+    for each_cd in single_cft_detail:
+        single_cft_detail[each_cd] = info[detail_counter]
         detail_counter += 1
-    cft["detail"] = cft_detail
+    cft["detail"] = single_cft_detail
 
     card_url = ""
     curl_soup = cfts.find_all("span")
