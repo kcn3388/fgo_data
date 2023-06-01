@@ -1,6 +1,8 @@
+import bs4
 import re
 
 from bs4 import BeautifulSoup
+from typing import List
 
 from lib_online.lib_json import *
 from path_and_json import *
@@ -85,10 +87,13 @@ def get_base(base_soup: BeautifulSoup, svt: dict, svt_data: dict):
         svt["error"] = [f"svt{svt['id']} base soup error: {e}"]
         return
     base_data = []
-    info = base_table.find_all("td")
+    info: List[bs4.Tag] = base_table.find_all("td")
     for each_info in info:
-        arg = each_info.text.strip()
-        if not arg == '':
+        try:
+            arg = each_info.contents[0].text.strip()
+        except AttributeError:
+            arg = each_info.text.strip()
+        if arg:
             base_data.append(arg)
 
     base_data = base_data[2:-1]
@@ -128,8 +133,6 @@ def get_base(base_soup: BeautifulSoup, svt: dict, svt_data: dict):
         for each_sp_data in sp_svt_detail:
             sp_svt_detail[each_sp_data] = base_data[counter]
             counter += 1
-        if svt_data["id"] == "151":
-            sp_svt_detail["画师"] = "山中虎铁"
         svt["detail"] = sp_svt_detail
 
 
