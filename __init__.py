@@ -21,7 +21,7 @@ except Exception as e:
     pass
 
 try:
-    down_all_card_res(
+    down_all_card_res()
 except Exception as e:
     with open(warning_log, 'a', encoding='utf-8') as file:
         file.write(f"{e}\n")
