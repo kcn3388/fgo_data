@@ -5,7 +5,7 @@ from download.download import *
 from path_and_json import *
 
 
-async def download_svt():
+def download_svt():
     basic_url = "https://fgo.wiki"
     for each in res_paths:
         if not os.path.exists(each):
