@@ -1,1 +1,15 @@
 'str' object does not support item assignment
+'str' object does not support item assignment
+Traceback (most recent call last):
+  File "/home/runner/work/fgo_data/fgo_data/./__init__.py", line 19, in <module>
+    update_lib()
+  File "/home/runner/work/fgo_data/fgo_data/fgo_lib.py", line 18, in update_lib
+    data = lib_svt(each_svt)
+           ^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/fgo_data/fgo_data/lib_online/lib_svt.py", line 56, in lib_svt
+    get_base(soup, svt, svt_data)
+  File "/home/runner/work/fgo_data/fgo_data/lib_online/lib_svt.py", line 115, in get_base
+    single_svt_detail[each_data][f"卡面{index + 1}"] = base_data[counter][index]
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+TypeError: 'str' object does not support item assignment
+
