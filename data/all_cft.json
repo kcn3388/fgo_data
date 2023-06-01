@@ -1,5 +1,24 @@
 [
   {
+    "id": "1827",
+    "name": "混禍の爪飾り",
+    "name_link": "混禍の爪飾り",
+    "name_other": "",
+    "des": "〔混沌の爪〕のドロップ率を5%アップする<元のドロップ率に対して乗算>",
+    "des_max": "〔混沌の爪〕のドロップ率を25%アップする<元のドロップ率に対して乗算>[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/e/ee/礼装1827.jpg",
+      "skill_icon": "/images/0/0f/宝箱.png"
+    },
+    "local": {
+      "cft_icon": "礼装1827.jpg",
+      "skill_icon": "宝箱.png"
+    }
+  },
+  {
     "id": "1826",
     "name": "浮上眼帘",
     "name_link": "浮上眼帘",
