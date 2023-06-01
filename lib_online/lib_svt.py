@@ -94,7 +94,7 @@ def get_base(base_soup: BeautifulSoup, svt: dict, svt_data: dict):
     for each_info in info:
         arg = each_info.text.strip()
         if artists_counter > 1:
-            arg = [x.text for x in each_info.contents if not x.text == "\n"]
+            arg = [x.text for x in each_info.contents if not type(x) == bs4.NavigableString]
             artists_counter = -2
         if artists_counter > -1:
             artists_counter += 1
