@@ -1,4 +1,5 @@
 import datetime
+import traceback
 
 from fgo_lib import *
 from fgo_fetch_all import *
@@ -9,29 +10,33 @@ warning_log = os.path.join(os.path.dirname(__file__), 'warning.log')
 try:
     get_all_mooncell()
 except Exception as e:
+    print(traceback.format_exc())
     with open(warning_log, 'a', encoding='utf-8') as file:
-        file.write(f"{e}\n")
+        file.write(f"{e}\n{traceback.format_exc()}\n")
     pass
 
 try:
     update_lib()
 except Exception as e:
+    print(traceback.format_exc())
     with open(warning_log, 'a', encoding='utf-8') as file:
-        file.write(f"{e}\n")
+        file.write(f"{e}\n{traceback.format_exc()}\n")
     pass
 
 try:
     down_all_card_res()
 except Exception as e:
+    print(traceback.format_exc())
     with open(warning_log, 'a', encoding='utf-8') as file:
-        file.write(f"{e}\n")
+        file.write(f"{e}\n{traceback.format_exc()}\n")
     pass
 
 try:
     download_icons()
 except Exception as e:
+    print(traceback.format_exc())
     with open(warning_log, 'a', encoding='utf-8') as file:
-        file.write(f"{e}\n")
+        file.write(f"{e}\n{traceback.format_exc()}\n")
     pass
 
 now = datetime.datetime.now()
