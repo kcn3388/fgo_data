@@ -65,7 +65,7 @@ def lib_svt(svt_data: dict) -> dict:
 
     get_info(svt, soup)
 
-    get_pickup(svt, url)
+    get_pickup(svt, soup, url)
 
     try:
         base = soup.findAll(class_="wikitable nomobile logo")
@@ -563,7 +563,7 @@ def get_voice(svt: dict, soup: BeautifulSoup):
     svt["语音"] = svt_voice
 
 
-def get_pickup(svt: dict, url: str):
+def get_pickup(svt: dict, origin_soup: BeautifulSoup, url: str):
     new_url = f"{url}/未来Pick_Up情况"
 
     try:
@@ -587,7 +587,31 @@ def get_pickup(svt: dict, url: str):
         return
 
     if pup is None:
+        try:
+            all_method_dl = origin_soup.find(id="获得方法").find_next("dl")
+            all_method_ul = origin_soup.find(id="获得方法").find_next("ul")
+            methods = ""
+            how = all_method_dl.find_all("dt")
+            dd = all_method_dl.find_all("dd")
+            li = all_method_ul.find_all("li")
+            if len(how) == len(dd):
+                for index in range(len(how)):
+                    methods += f"{how[index].text}\n{dd[index].text}\n"
+            elif len(how) == len(li):
+                for index in range(len(how)):
+                    methods += f"{how[index].text}\n{li[index].text}\n"
+            else:
+                for index in range(len(how)):
+                    methods += f"{how[index].text}\n"
+            methods = methods.strip()
+            svt["method_get"] = methods
+        except AttributeError:
+            pass
         return
+
+    methods = pup.text.strip()
+    svt["method_get"] = methods
+    pup_status = []
 
     pup_status = []
 
