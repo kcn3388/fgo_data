@@ -24130,9 +24130,17 @@
     "type": "纪念",
     "cft_icon": "礼装622.jpg",
     "skill_icon": "经验增加.png",
-    "error": [
-      "cft622 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Read timed out."
-    ]
+    "detail": {
+      "画师": "下越",
+      "Cost": "9",
+      "初始/满级HP": "100",
+      "初始/满级ATK": "100",
+      "持有技能": "关卡通关时获得的魔术礼装经验值增加50",
+      "解说": "庆祝「Fate/Grand Order」二周年！！\n\n为纪念这值得庆祝的日子，\n英灵们身着特别的服饰前来迎接您。",
+      "日文解说": "祝・「Fate/Grand Order」二周年！！\n\nお祝いの日を記念して、\n英霊たちも特別な衣装でお出迎え。"
+    },
+    "cards_url": "/images/4/47/%E8%8B%B1%E7%81%B5%E6%AD%A3%E8%A3%85%EF%BC%9A%E8%8E%B1%E6%98%82%E7%BA%B3%E5%A4%9A%C2%B7%E8%BE%BE%C2%B7%E8%8A%AC%E5%A5%87.png",
+    "rare": "4星"
   },
   {
     "id": "621",
