@@ -1,5 +1,119 @@
 [
   {
+    "id": "1834",
+    "name": "シャクニの骰子",
+    "name_link": "シャクニの骰子",
+    "name_other": "",
+    "des": "难敌(Berserker)装备时，自身登场时获得30个暴击星(1次)",
+    "des_max": "",
+    "tag": "",
+    "type": "牵绊",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/c/cb/礼装1834.jpg",
+      "skill_icon": "/images/b/b6/出星.png"
+    },
+    "local": {
+      "cft_icon": "礼装1834.jpg",
+      "skill_icon": "出星.png"
+    }
+  },
+  {
+    "id": "1833",
+    "name": "バッラヴァの包丁",
+    "name_link": "バッラヴァの包丁",
+    "name_other": "",
+    "des": "怖军(Lancer)装备时，自身的宝具威力提升30% ＋ 自身登场时获得20个暴击星(1次)",
+    "des_max": "",
+    "tag": "",
+    "type": "牵绊",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/a/a4/礼装1833.jpg",
+      "skill_icon": "/images/b/b6/出星.png"
+    },
+    "local": {
+      "cft_icon": "礼装1833.jpg",
+      "skill_icon": "出星.png"
+    }
+  },
+  {
+    "id": "1832",
+    "name": "イッツ・オンリー・ア・ペーパームーン",
+    "name_link": "イッツ・オンリー・ア・ペーパームーン",
+    "name_other": "",
+    "des": "自身的Quick指令卡性能提升10%＆Arts指令卡性能提升10%",
+    "des_max": "自身的Quick指令卡性能提升15%＆Arts指令卡性能提升15%[最大解放]",
+    "tag": "",
+    "type": "剧情限定",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/4/4b/礼装1832.jpg",
+      "skill_icon": "/images/0/0a/蓝绿放.png"
+    },
+    "local": {
+      "cft_icon": "礼装1832.jpg",
+      "skill_icon": "蓝绿放.png"
+    }
+  },
+  {
+    "id": "1831",
+    "name": "赤き落胤の夢",
+    "name_link": "赤き落胤の夢",
+    "name_other": "",
+    "des": "自身的攻击力提升25%(3回合)＆被暴击发生耐性提升25%(3回合)",
+    "des_max": "自身的攻击力提升30%(3回合)＆被暴击发生耐性提升30%(3回合)[最大解放]",
+    "tag": "",
+    "type": "卡池常驻",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/3/30/礼装1831.jpg",
+      "skill_icon": "/images/e/e9/加攻.png"
+    },
+    "local": {
+      "cft_icon": "礼装1831.jpg",
+      "skill_icon": "加攻.png"
+    }
+  },
+  {
+    "id": "1830",
+    "name": "残花的迷宫",
+    "name_link": "残花的迷宫",
+    "name_other": "",
+    "des": "自身的Arts指令卡性能提升10%＆暴击威力提升15%＆Arts指令卡暴击星集中度100%",
+    "des_max": "自身的Arts指令卡性能提升15%＆暴击威力提升20%＆Arts指令卡暴击星集中度200%[最大解放]",
+    "tag": "",
+    "type": "卡池常驻",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/9/9b/礼装1830.jpg",
+      "skill_icon": "/images/0/03/蓝放.png"
+    },
+    "local": {
+      "cft_icon": "礼装1830.jpg",
+      "skill_icon": "蓝放.png"
+    }
+  },
+  {
+    "id": "1829",
+    "name": "忏悔之箱",
+    "name_link": "忏悔之箱",
+    "name_other": "",
+    "des": "自身的Buster指令卡性能提升10%＆暴击威力提升15%＆Buster指令卡暴击星集中度100%",
+    "des_max": "自身的Buster指令卡性能提升15%＆暴击威力提升20%＆Buster指令卡暴击星集中度200%[最大解放]",
+    "tag": "",
+    "type": "卡池常驻",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/e/ef/礼装1829.jpg",
+      "skill_icon": "/images/4/42/红放.png"
+    },
+    "local": {
+      "cft_icon": "礼装1829.jpg",
+      "skill_icon": "红放.png"
+    }
+  },
+  {
     "id": "1828",
     "name": "熹微的冥想",
     "name_link": "熹微的冥想",

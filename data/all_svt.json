@@ -1,5 +1,65 @@
 [
   {
+    "id": "382",
+    "name_cn": "难敌",
+    "name_jp": "ドゥリーヨダナ",
+    "name_en": "Duryodhana",
+    "name_link": "难敌",
+    "name_other": "",
+    "method": "剧情限定",
+    "tag": "",
+    "online": {
+      "svt_icon": "/images/8/85/Servant382.jpg",
+      "card1_icon": "/images/8/84/Quick.png",
+      "card2_icon": "/images/9/95/Arts.png",
+      "card3_icon": "/images/9/95/Arts.png",
+      "card4_icon": "/images/6/6e/Buster.png",
+      "card5_icon": "/images/6/6e/Buster.png",
+      "ultimate_icon": "/images/9/95/Arts.png",
+      "class_icon": "/images/9/9f/金卡Berserker.png"
+    },
+    "local": {
+      "svt_icon": "Servant382.jpg",
+      "card1_icon": "Quick.png",
+      "card2_icon": "Arts.png",
+      "card3_icon": "Arts.png",
+      "card4_icon": "Buster.png",
+      "card5_icon": "Buster.png",
+      "ultimate_icon": "Arts.png",
+      "class_icon": "金卡Berserker.png"
+    }
+  },
+  {
+    "id": "381",
+    "name_cn": "怖军",
+    "name_jp": "ビーマ",
+    "name_en": "Bhima",
+    "name_link": "怖军",
+    "name_other": "",
+    "method": "剧情限定",
+    "tag": "",
+    "online": {
+      "svt_icon": "/images/5/55/Servant381.jpg",
+      "card1_icon": "/images/8/84/Quick.png",
+      "card2_icon": "/images/8/84/Quick.png",
+      "card3_icon": "/images/9/95/Arts.png",
+      "card4_icon": "/images/6/6e/Buster.png",
+      "card5_icon": "/images/6/6e/Buster.png",
+      "ultimate_icon": "/images/6/6e/Buster.png",
+      "class_icon": "/images/d/dc/金卡Lancer.png"
+    },
+    "local": {
+      "svt_icon": "Servant381.jpg",
+      "card1_icon": "Quick.png",
+      "card2_icon": "Quick.png",
+      "card3_icon": "Arts.png",
+      "card4_icon": "Buster.png",
+      "card5_icon": "Buster.png",
+      "ultimate_icon": "Buster.png",
+      "class_icon": "金卡Lancer.png"
+    }
+  },
+  {
     "id": "380",
     "name_cn": "果心居士",
     "name_jp": "果心居士",
