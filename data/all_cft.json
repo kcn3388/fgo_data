@@ -1,5 +1,24 @@
 [
   {
+    "id": "1835",
+    "name": "勇猛なる神獣",
+    "name_link": "勇猛なる神獣",
+    "name_other": "",
+    "des": "杜尔伽(Archer)装备，且自身在场时，付与己方全体对〔拥有天之力的敌人〕15%的特攻状态＆对〔魔性〕15%的特攻状态",
+    "des_max": "",
+    "tag": "",
+    "type": "牵绊",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/4/46/礼装1835.jpg",
+      "skill_icon": "/images/3/3a/特攻.png"
+    },
+    "local": {
+      "cft_icon": "礼装1835.jpg",
+      "skill_icon": "特攻.png"
+    }
+  },
+  {
     "id": "1834",
     "name": "沙恭尼的骰子",
     "name_link": "沙恭尼的骰子",
