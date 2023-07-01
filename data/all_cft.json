@@ -1,5 +1,43 @@
 [
   {
+    "id": "1837",
+    "name": "strange Fake",
+    "name_link": "strange Fake",
+    "name_other": "",
+    "des": "クエストクリア時に得られるマスターEXPを50増やす",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/1/19/礼装1837.jpg",
+      "skill_icon": "/images/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装1837.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "1836",
+    "name": "霊樹の宿根",
+    "name_link": "霊樹の宿根",
+    "name_other": "",
+    "des": "〔精霊根〕のドロップ率を5%アップする<元のドロップ率に対して乗算>",
+    "des_max": "〔精霊根〕のドロップ率を25%アップする<元のドロップ率に対して乗算>[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/9/96/礼装1836.jpg",
+      "skill_icon": "/images/0/0f/宝箱.png"
+    },
+    "local": {
+      "cft_icon": "礼装1836.jpg",
+      "skill_icon": "宝箱.png"
+    }
+  },
+  {
     "id": "1835",
     "name": "勇猛なる神獣",
     "name_link": "勇猛なる神獣",
