@@ -1,5 +1,100 @@
 [
   {
+    "id": "1842",
+    "name": "怪物の黄金剣",
+    "name_link": "怪物の黄金剣",
+    "name_other": "",
+    "des": "メドゥーサ(セイバー)装備時のみ、自身がフィールドにいる間、味方全体のQuickカード性能を10%アップ ＋ 〔地の力を持つ味方〕全体の宝具威力を15%アップ",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/4/4d/礼装1842.jpg",
+      "skill_icon": "/images/4/45/绿放.png"
+    },
+    "local": {
+      "cft_icon": "礼装1842.jpg",
+      "skill_icon": "绿放.png"
+    }
+  },
+  {
+    "id": "1841",
+    "name": "匠たる心魂",
+    "name_link": "匠たる心魂",
+    "name_other": "",
+    "des": "自身に弱体無効状態(1回)を付与＆クリティカル威力を10%アップ＆NPを30%チャージした状態でバトルを開始する",
+    "des_max": "自身に弱体無効状態(1回)を付与＆クリティカル威力を15%アップ＆NPを50%チャージした状態でバトルを開始する[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/e/ea/礼装1841.jpg",
+      "skill_icon": "/images/3/3a/弱化无效.png"
+    },
+    "local": {
+      "cft_icon": "礼装1841.jpg",
+      "skill_icon": "弱化无效.png"
+    }
+  },
+  {
+    "id": "1840",
+    "name": "ビー・シェルヴド",
+    "name_link": "ビー・シェルヴド",
+    "name_other": "",
+    "des": "自身のArtsカード性能を3%アップ＆NPを10%チャージした状態でバトルを開始する",
+    "des_max": "自身のArtsカード性能を5%アップ＆NPを20%チャージした状態でバトルを開始する[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/0/0b/礼装1840.jpg",
+      "skill_icon": "/images/0/03/蓝放.png"
+    },
+    "local": {
+      "cft_icon": "礼装1840.jpg",
+      "skill_icon": "蓝放.png"
+    }
+  },
+  {
+    "id": "1839",
+    "name": "太陽の花",
+    "name_link": "太陽の花",
+    "name_other": "",
+    "des": "自身のQuickカード性能を4%アップ＆Artsカード性能を4%アップ＆毎ターンスター2個獲得状態を付与",
+    "des_max": "自身のQuickカード性能を6%アップ＆Artsカード性能を6%アップ＆毎ターンスター3個獲得状態を付与[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/3/32/礼装1839.jpg",
+      "skill_icon": "/images/0/0a/蓝绿放.png"
+    },
+    "local": {
+      "cft_icon": "礼装1839.jpg",
+      "skill_icon": "蓝绿放.png"
+    }
+  },
+  {
+    "id": "1838",
+    "name": "スウェット・ブラッド",
+    "name_link": "スウェット・ブラッド",
+    "name_other": "",
+    "des": "自身に無敵貫通状態を付与＆Artsカード性能を3%アップ＆NP獲得量を15%アップ",
+    "des_max": "自身に無敵貫通状態を付与＆Artsカード性能を5%アップ＆NP獲得量を20%アップ[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/a/ab/礼装1838.jpg",
+      "skill_icon": "/images/4/4a/无敌贯通.png"
+    },
+    "local": {
+      "cft_icon": "礼装1838.jpg",
+      "skill_icon": "无敌贯通.png"
+    }
+  },
+  {
     "id": "1837",
     "name": "strange Fake",
     "name_link": "strange Fake",

@@ -1,5 +1,35 @@
 [
   {
+    "id": "384",
+    "name_cn": "美杜莎",
+    "name_jp": "メドゥーサ",
+    "name_en": "---",
+    "name_link": "美杜莎(Saber)",
+    "name_other": "",
+    "method": "未知",
+    "tag": "",
+    "online": {
+      "svt_icon": "/images/c/c1/Servant384.jpg",
+      "card1_icon": "/images/8/84/Quick.png",
+      "card2_icon": "/images/8/84/Quick.png",
+      "card3_icon": "/images/8/84/Quick.png",
+      "card4_icon": "/images/9/95/Arts.png",
+      "card5_icon": "/images/6/6e/Buster.png",
+      "ultimate_icon": "/images/8/84/Quick.png",
+      "class_icon": "/images/4/41/金卡Saber.png"
+    },
+    "local": {
+      "svt_icon": "Servant384.jpg",
+      "card1_icon": "Quick.png",
+      "card2_icon": "Quick.png",
+      "card3_icon": "Quick.png",
+      "card4_icon": "Arts.png",
+      "card5_icon": "Buster.png",
+      "ultimate_icon": "Quick.png",
+      "class_icon": "金卡Saber.png"
+    }
+  },
+  {
     "id": "383",
     "name_cn": "杜尔伽",
     "name_jp": "ドゥルガー",
