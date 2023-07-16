@@ -5,7 +5,7 @@
     "name_jp": "メドゥーサ",
     "name_en": "Medusa",
     "name_link": "美杜莎(Saber)",
-    "name_other": "",
+    "name_other": "剑R姐",
     "method": "期间限定",
     "tag": "",
     "online": {
@@ -155,7 +155,7 @@
     "name_jp": "セタンタ",
     "name_en": "Sétanta",
     "name_link": "瑟坦特",
-    "name_other": "",
+    "name_other": "幼狗",
     "method": "活动赠送",
     "tag": "",
     "online": {
@@ -425,7 +425,7 @@
     "name_jp": "ニトクリス〔オルタ〕",
     "name_en": "Nitocris (Alter)",
     "name_link": "尼托克丽丝〔Alter〕",
-    "name_other": "",
+    "name_other": "黑尼托&仇尼托",
     "method": "圣晶石常驻",
     "tag": "",
     "online": {
@@ -695,7 +695,7 @@
     "name_jp": "オルトリンデ",
     "name_en": "Ortlinde",
     "name_link": "奥特琳德",
-    "name_other": "",
+    "name_other": "女武神",
     "method": "活动赠送",
     "tag": "泳装&水着",
     "online": {
@@ -725,7 +725,7 @@
     "name_jp": "ヒルド",
     "name_en": "Hildr",
     "name_link": "希露德",
-    "name_other": "",
+    "name_other": "女武神",
     "method": "活动赠送",
     "tag": "泳装&水着",
     "online": {
@@ -755,7 +755,7 @@
     "name_jp": "スルーズ",
     "name_en": "Thrúd",
     "name_link": "斯露德",
-    "name_other": "",
+    "name_other": "女武神",
     "method": "活动赠送",
     "tag": "泳装&水着",
     "online": {
@@ -785,7 +785,7 @@
     "name_jp": "武則天",
     "name_en": "Wu Zetian",
     "name_link": "武则天(Caster)",
-    "name_other": "",
+    "name_other": "周照",
     "method": "期间限定",
     "tag": "泳装&水着",
     "online": {
@@ -995,7 +995,7 @@
     "name_jp": "アーキタイプ：アース",
     "name_en": "Archetype: Earth",
     "name_link": "Archetype: Earth",
-    "name_other": "爱尔奎特·布伦史塔德&地球姬",
+    "name_other": "爱尔奎特·布伦史塔德&地球姬&公主",
     "method": "期间限定",
     "tag": "",
     "online": {
@@ -1175,7 +1175,7 @@
     "name_jp": "クリームヒルト",
     "name_en": "Kriemhild",
     "name_link": "克里姆希尔德",
-    "name_other": "飞嫂&克里姆希尔德",
+    "name_other": "飞嫂&克琳希德",
     "method": "剧情限定",
     "tag": "",
     "online": {
@@ -1265,7 +1265,7 @@
     "name_jp": "コンスタンティノス11世",
     "name_en": "Kōnstantînos XI",
     "name_link": "君士坦丁十一世",
-    "name_other": "",
+    "name_other": "君十一",
     "method": "期间限定",
     "tag": "",
     "online": {
@@ -1415,7 +1415,7 @@
     "name_jp": "徴姉妹",
     "name_en": "Hai Bà Trưng",
     "name_link": "征氏姐妹",
-    "name_other": "",
+    "name_other": "二征",
     "method": "期间限定",
     "tag": "",
     "online": {
@@ -1733,7 +1733,7 @@
     "name_jp": "エリザベート・バートリー〔シンデレラ〕",
     "name_en": "Elisabeth Báthory (Cinderella)",
     "name_link": "伊丽莎白·巴托里〔灰姑娘〕",
-    "name_other": "童话龙娘",
+    "name_other": "童话龙娘&R龙娘",
     "method": "活动赠送",
     "tag": "龙娘",
     "online": {
@@ -3323,7 +3323,7 @@
     "name_jp": "マンドリカルド",
     "name_en": "Mandricardo",
     "name_link": "曼迪卡尔多",
-    "name_other": "",
+    "name_other": "大老师",
     "method": "圣晶石常驻<br>友情点召唤",
     "tag": "",
     "online": {
@@ -3743,7 +3743,7 @@
     "name_jp": "シャルロット・コルデー",
     "name_en": "Charlotte Corday",
     "name_link": "夏洛特·科黛",
-    "name_other": "",
+    "name_other": "夏绿蒂",
     "method": "友情点召唤",
     "tag": "",
     "online": {
@@ -3923,7 +3923,7 @@
     "name_jp": "レオナルド・ダ・ヴィンチ",
     "name_en": "Leonardo da Vinci",
     "name_link": "莱昂纳多·达·芬奇(Rider)",
-    "name_other": "达·芬奇lily&小芬奇&小达芬奇&达芬骑",
+    "name_other": "达芬奇lily&小芬奇&小达芬奇&达芬骑",
     "method": "期间限定",
     "tag": "",
     "online": {
@@ -5711,7 +5711,7 @@
     "name_jp": "哪吒",
     "name_en": "Nezha",
     "name_link": "哪吒",
-    "name_other": "三公主",
+    "name_other": "三太子&莲偶",
     "method": "圣晶石常驻",
     "tag": "",
     "online": {
@@ -6071,7 +6071,7 @@
     "name_jp": "源頼光",
     "name_en": "Minamoto-no-Raikou",
     "name_link": "源赖光(Lancer)",
-    "name_other": "枪奶光",
+    "name_other": "枪奶光&枪赖光",
     "method": "期间限定",
     "tag": "泳装&水着",
     "online": {
@@ -6401,7 +6401,7 @@
     "name_jp": "不夜城のアサシン",
     "name_en": "Assassin of the Nightless City",
     "name_link": "不夜城的Assassin",
-    "name_other": "武则天",
+    "name_other": "武则天&周照",
     "method": "圣晶石常驻",
     "tag": "真名隐藏",
     "online": {
@@ -9191,7 +9191,7 @@
     "name_jp": "ジャック・ザ・リッパー",
     "name_en": "Jack the Ripper",
     "name_link": "开膛手杰克",
-    "name_other": "女儿",
+    "name_other": "女儿&雾都弃子",
     "method": "圣晶石常驻",
     "tag": "",
     "online": {
@@ -10181,7 +10181,7 @@
     "name_jp": "荊軻",
     "name_en": "Jing Ke",
     "name_link": "荆轲",
-    "name_other": "",
+    "name_other": "匕见",
     "method": "圣晶石常驻<br>友情点召唤",
     "tag": "",
     "online": {
@@ -10751,7 +10751,7 @@
     "name_jp": "メドゥーサ",
     "name_en": "Medusa",
     "name_link": "美杜莎",
-    "name_other": "R姐",
+    "name_other": "R姐&歌果",
     "method": "圣晶石常驻<br>友情点召唤",
     "tag": "",
     "online": {
