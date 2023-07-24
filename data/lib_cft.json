@@ -24230,9 +24230,17 @@
     "type": "纪念",
     "cft_icon": "礼装631.jpg",
     "skill_icon": "经验增加.png",
-    "error": [
-      "cft631 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Read timed out. (read timeout=20)"
-    ]
+    "detail": {
+      "画师": "本庄雷太",
+      "Cost": "9",
+      "初始/满级HP": "100",
+      "初始/满级ATK": "100",
+      "持有技能": "关卡通关时获得的魔术礼装经验值增加50",
+      "解说": "庆祝「Fate/Grand Order」二周年！！\n\n为纪念这值得庆祝的日子，\n英灵们身着特别的服饰前来迎接您。",
+      "日文解说": "祝・「Fate/Grand Order」二周年！！\n\nお祝いの日を記念して、\n英霊たちも特別な衣装でお出迎え。"
+    },
+    "cards_url": "/images/5/57/%E8%8B%B1%E7%81%B5%E6%AD%A3%E8%A3%85%EF%BC%9A%E5%9D%82%E7%94%B0%E9%87%91%E6%97%B6.png",
+    "rare": "4星"
   },
   {
     "id": "630",
