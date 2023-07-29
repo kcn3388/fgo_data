@@ -28110,17 +28110,9 @@
     "type": "情人节",
     "cft_icon": "礼装437.jpg",
     "skill_icon": "空白效果.png",
-    "detail": {
-      "画师": "---",
-      "Cost": "3",
-      "初始/满级HP": "0",
-      "初始/满级ATK": "0",
-      "持有技能": "无效果",
-      "解说": "剑之硬币巧克力的掉落获得数增加2个\n【『巧克力小姐的大惊小怪』活动限定】",
-      "日文解说": "增殖香料的掉落获得数增加1个\n【『情人节2018』活动限定】\n【『情人节2019』活动限定】"
-    },
-    "cards_url": "/images/b/ba/%E4%BC%A0%E8%AF%B4%E4%B8%AD%E7%9A%84%E5%AE%9D%E7%8E%89%E5%B7%A7%E5%85%8B%E5%8A%9B.png",
-    "rare": "4星"
+    "error": [
+      "cft437 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Read timed out. (read timeout=20)"
+    ]
   },
   {
     "id": "436",
