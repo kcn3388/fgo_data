@@ -1,5 +1,138 @@
 [
   {
+    "id": "1893",
+    "name": "一夏の城",
+    "name_link": "一夏の城",
+    "name_other": "",
+    "des": "雨の魔女トネリコ(キャスター)装備時のみ、自身がフィールドにいる間、味方全体に「HPが50%以下の間、宝具威力を30%アップする状態」を付与",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/3/35/礼装1893.jpg",
+      "skill_icon": "/images/d/d9/宝具威力提升.png"
+    },
+    "local": {
+      "cft_icon": "礼装1893.jpg",
+      "skill_icon": "宝具威力提升.png"
+    }
+  },
+  {
+    "id": "1892",
+    "name": "八叉の血脈",
+    "name_link": "八叉の血脈",
+    "name_other": "",
+    "des": "自身に毎ターンNP4%獲得状態を付与＆被ダメージを300カットする状態を付与",
+    "des_max": "自身に毎ターンNP5%獲得状態を付与＆被ダメージを400カットする状態を付与[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/e/ef/礼装1892.jpg",
+      "skill_icon": "/images/e/e2/回合充能.png"
+    },
+    "local": {
+      "cft_icon": "礼装1892.jpg",
+      "skill_icon": "回合充能.png"
+    }
+  },
+  {
+    "id": "1891",
+    "name": "オルレアンの羊",
+    "name_link": "オルレアンの羊",
+    "name_other": "",
+    "des": "自身に弱体無効状態(3回)を付与＆Artsカード性能を8%アップ",
+    "des_max": "自身に弱体無効状態(3回)を付与＆Artsカード性能を10%アップ[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/4/4e/礼装1891.jpg",
+      "skill_icon": "/images/3/3a/弱化无效.png"
+    },
+    "local": {
+      "cft_icon": "礼装1891.jpg",
+      "skill_icon": "弱化无效.png"
+    }
+  },
+  {
+    "id": "1890",
+    "name": "それは光の片隅で",
+    "name_link": "それは光の片隅で",
+    "name_other": "",
+    "des": "自身の強化解除耐性を5%アップ＆弱体耐性を5%アップ",
+    "des_max": "自身の強化解除耐性を10%アップ＆弱体耐性を10%アップ[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/1/18/礼装1890.jpg",
+      "skill_icon": "/images/e/e1/强化解除耐性提升.png"
+    },
+    "local": {
+      "cft_icon": "礼装1890.jpg",
+      "skill_icon": "强化解除耐性提升.png"
+    }
+  },
+  {
+    "id": "1889",
+    "name": "ビフォー・パーティー",
+    "name_link": "ビフォー・パーティー",
+    "name_other": "",
+    "des": "自身のスター集中度を300%アップ＆毎ターンHP200回復状態を付与",
+    "des_max": "自身のスター集中度を400%アップ＆毎ターンHP300回復状態を付与[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/0/02/礼装1889.jpg",
+      "skill_icon": "/images/7/7a/集星.png"
+    },
+    "local": {
+      "cft_icon": "礼装1889.jpg",
+      "skill_icon": "集星.png"
+    }
+  },
+  {
+    "id": "1888",
+    "name": "シャスマティス",
+    "name_link": "シャスマティス",
+    "name_other": "",
+    "des": "自身のNPを50%チャージした状態でバトルを開始する＆宝具使用時にチャージ段階を1段階分上げる(1回)＆NP獲得量を5%アップ",
+    "des_max": "自身のNPを60%チャージした状態でバトルを開始する＆宝具使用時にチャージ段階を1段階分上げる(1回)＆NP獲得量を10%アップ[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/a/ac/礼装1888.jpg",
+      "skill_icon": "/images/1/14/充能.png"
+    },
+    "local": {
+      "cft_icon": "礼装1888.jpg",
+      "skill_icon": "充能.png"
+    }
+  },
+  {
+    "id": "1887",
+    "name": "慰労会はおわらない",
+    "name_link": "慰労会はおわらない",
+    "name_other": "",
+    "des": "クエストクリア時に得られるマスターEXPを50増やす",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/a/a9/礼装1887.jpg",
+      "skill_icon": "/images/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装1887.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
     "id": "1886",
     "name": "英灵盛装：洛库斯塔",
     "name_link": "英灵盛装：洛库斯塔",

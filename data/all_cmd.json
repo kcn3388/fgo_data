@@ -1,5 +1,25 @@
 [
   {
+    "id": "146",
+    "name": "虚数羅針盤",
+    "name_link": "虚数羅針盤",
+    "name_other": "",
+    "des": "刻印されたカードのNP獲得量を3%アップ ＋ 刻印されたカードによる攻撃時にスターを1個獲得",
+    "tag": "",
+    "type": "未知",
+    "method": "",
+    "method_link": "",
+    "method_link_text": "",
+    "online": {
+      "cmd_icon": "/images/3/3b/纹章146.png",
+      "skill_icon": "/images/4/42/NP获得量提升.png"
+    },
+    "local": {
+      "cmd_icon": "纹章146.png",
+      "skill_icon": "NP获得量提升.png"
+    }
+  },
+  {
     "id": "145",
     "name": "人造女忍者",
     "name_link": "人造女忍者",
