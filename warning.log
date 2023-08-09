@@ -159,3 +159,15 @@ Traceback (most recent call last):
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 AttributeError: 'NoneType' object has no attribute 'group'
 
+2023-08-09 08:46:39.916692
+'NoneType' object has no attribute 'group'
+Traceback (most recent call last):
+  File "/home/runner/work/fgo_data/fgo_data/./__init__.py", line 13, in <module>
+    get_all_mooncell()
+  File "/home/runner/work/fgo_data/fgo_data/fgo_fetch_all.py", line 9, in get_all_mooncell
+    get_all_svt()
+  File "/home/runner/work/fgo_data/fgo_data/get/get_all_svt.py", line 16, in get_all_svt
+    data = re.search(rule, raw_data).group(0)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+
