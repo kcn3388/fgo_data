@@ -1,8 +1,8 @@
 [
   {
     "id": "146",
-    "name": "虚数羅針盤",
-    "name_link": "虚数羅針盤",
+    "name": "虚数指南针",
+    "name_link": "虚数指南针",
     "name_other": "",
     "des": "刻印されたカードのNP獲得量を3%アップ ＋ 刻印されたカードによる攻撃時にスターを1個獲得",
     "tag": "",
@@ -428,7 +428,7 @@
     "tag": "",
     "type": "活动奖励",
     "method": "活动%LINK%奖励",
-    "method_link": "北极夏日世界！ ～迦勒底的盛夏魔园观光～",
+    "method_link": "北极·夏日世界！～迦勒底盛夏魔园观光～",
     "method_link_text": "北极夏日世界！",
     "online": {
       "cmd_icon": "/images/8/8a/纹章125.png",
@@ -448,7 +448,7 @@
     "tag": "",
     "type": "活动奖励",
     "method": "活动%LINK%奖励",
-    "method_link": "北极夏日世界！ ～迦勒底的盛夏魔园观光～",
+    "method_link": "北极·夏日世界！～迦勒底盛夏魔园观光～",
     "method_link_text": "北极夏日世界！",
     "online": {
       "cmd_icon": "/images/7/72/纹章124.png",
@@ -468,7 +468,7 @@
     "tag": "",
     "type": "活动奖励",
     "method": "活动%LINK%奖励",
-    "method_link": "北极夏日世界！ ～迦勒底的盛夏魔园观光～",
+    "method_link": "北极·夏日世界！～迦勒底盛夏魔园观光～",
     "method_link_text": "北极夏日世界！",
     "online": {
       "cmd_icon": "/images/2/29/纹章123.png",
@@ -481,8 +481,8 @@
   },
   {
     "id": "122",
-    "name": "猫猫·猫猫莱特",
-    "name_link": "猫猫·猫猫莱特",
+    "name": "猫咪·猫咪莱特",
+    "name_link": "猫咪·猫咪莱特",
     "name_other": "",
     "des": "当使用被刻印的指令卡进行攻击时，获得1个暴击星＋解除1个自身的中毒、诅咒、灼伤状态",
     "tag": "",
