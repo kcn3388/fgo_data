@@ -429,7 +429,7 @@
     "type": "活动奖励",
     "method": "活动%LINK%奖励",
     "method_link": "北极·夏日世界！～迦勒底盛夏魔园观光～",
-    "method_link_text": "北极夏日世界！",
+    "method_link_text": "北极·夏日世界！",
     "online": {
       "cmd_icon": "/images/8/8a/纹章125.png",
       "skill_icon": "/images/e/ea/弱化解除.png"
@@ -449,7 +449,7 @@
     "type": "活动奖励",
     "method": "活动%LINK%奖励",
     "method_link": "北极·夏日世界！～迦勒底盛夏魔园观光～",
-    "method_link_text": "北极夏日世界！",
+    "method_link_text": "北极·夏日世界！",
     "online": {
       "cmd_icon": "/images/7/72/纹章124.png",
       "skill_icon": "/images/7/7a/集星.png"
@@ -469,7 +469,7 @@
     "type": "活动奖励",
     "method": "活动%LINK%奖励",
     "method_link": "北极·夏日世界！～迦勒底盛夏魔园观光～",
-    "method_link_text": "北极夏日世界！",
+    "method_link_text": "北极·夏日世界！",
     "online": {
       "cmd_icon": "/images/2/29/纹章123.png",
       "skill_icon": "/images/b/bf/封印.png"
