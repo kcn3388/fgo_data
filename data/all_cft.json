@@ -1,13 +1,317 @@
 [
   {
-    "id": "1894",
-    "name": "米の数だけ抱きしめて",
-    "name_link": "米の数だけ抱きしめて",
+    "id": "1910",
+    "name": "えっちゃん anko 写真集",
+    "name_link": "えっちゃん anko 写真集",
     "name_other": "",
-    "des": "クエストクリア時に得られる魔術礼装EXPを50増やす",
+    "des": "効果なし",
     "des_max": "",
     "tag": "",
-    "type": "未知",
+    "type": "活动奖励",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/6/65/礼装1910.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1910.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1909",
+    "name": "おしえて！ 健康のひみつ！",
+    "name_link": "おしえて！ 健康のひみつ！",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "活动奖励",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/c/cf/礼装1909.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1909.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1908",
+    "name": "泡影－Phantasma－モードレッド写真集",
+    "name_link": "泡影－Phantasma－モードレッド写真集",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "活动奖励",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/a/ac/礼装1908.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1908.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1907",
+    "name": "阿尔托莉雅梁山泊",
+    "name_link": "阿尔托莉雅梁山泊",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "活动奖励",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/1/11/礼装1907.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1907.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1906",
+    "name": "カルデアゲーム三昧 ～アルトリアさんと遊ぼう～",
+    "name_link": "カルデアゲーム三昧 ～アルトリアさんと遊ぼう～",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "活动奖励",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/b/b8/礼装1906.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1906.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1905",
+    "name": "今だけは、ただ友として",
+    "name_link": "今だけは、ただ友として",
+    "name_other": "",
+    "des": "クロエ・フォン・アインツベルン(アヴェンジャー)装備時のみ、自身の宝具威力を30%アップ ＋ 自身の登場時に味方全体に〔原稿完成〕状態(5ターン)を付与(3回)",
+    "des_max": "",
+    "tag": "",
+    "type": "牵绊",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/0/0c/礼装1905.jpg",
+      "skill_icon": "/images/d/d9/宝具威力提升.png"
+    },
+    "local": {
+      "cft_icon": "礼装1905.jpg",
+      "skill_icon": "宝具威力提升.png"
+    }
+  },
+  {
+    "id": "1904",
+    "name": "夏を駆ける",
+    "name_link": "夏を駆ける",
+    "name_other": "",
+    "des": "鈴鹿御前〔サマバケ〕(ライダー)装備時のみ、自身がフィールドにいる間、味方全体の〔夏モードのサーヴァント〕の宝具威力を25%アップ",
+    "des_max": "",
+    "tag": "",
+    "type": "牵绊",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/7/7c/礼装1904.jpg",
+      "skill_icon": "/images/d/d9/宝具威力提升.png"
+    },
+    "local": {
+      "cft_icon": "礼装1904.jpg",
+      "skill_icon": "宝具威力提升.png"
+    }
+  },
+  {
+    "id": "1903",
+    "name": "2023年の―――",
+    "name_link": "2023年の―――",
+    "name_other": "",
+    "des": "アルトリア・キャスター(バーサーカー)装備時のみ、自身がフィールドにいる間、味方全体に〔混沌〕特攻状態を15%付与＆〔神性〕特攻状態を15%付与",
+    "des_max": "",
+    "tag": "",
+    "type": "牵绊",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/6/69/礼装1903.jpg",
+      "skill_icon": "/images/3/3a/特攻.png"
+    },
+    "local": {
+      "cft_icon": "礼装1903.jpg",
+      "skill_icon": "特攻.png"
+    }
+  },
+  {
+    "id": "1902",
+    "name": "泡沫の彼方",
+    "name_link": "泡沫の彼方",
+    "name_other": "",
+    "des": "自身のQuickカード性能を10%アップ＆NP獲得量を10%アップ ＋ 登場時にスターを15個獲得(1回)",
+    "des_max": "自身のQuickカード性能を15%アップ＆NP獲得量を15%アップ ＋ 登場時にスターを20個獲得(1回)[最大解放]",
+    "tag": "",
+    "type": "活动奖励",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/3/3a/礼装1902.jpg",
+      "skill_icon": "/images/4/45/绿放.png"
+    },
+    "local": {
+      "cft_icon": "礼装1902.jpg",
+      "skill_icon": "绿放.png"
+    }
+  },
+  {
+    "id": "1901",
+    "name": "一衣带水",
+    "name_link": "一衣带水",
+    "name_other": "",
+    "des": "自身のArtsカード性能を8%アップ＆Busterカード性能を8%アップ＆被ダメージを100カットする状態を付与＆NPを30%チャージした状態でバトルを開始する",
+    "des_max": "自身のArtsカード性能を10%アップ＆Busterカード性能を10%アップ＆被ダメージを200カットする状態を付与＆NPを50%チャージした状態でバトルを開始する[最大解放]",
+    "tag": "",
+    "type": "活动奖励",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/b/b9/礼装1901.jpg",
+      "skill_icon": "/images/1/17/红蓝放.png"
+    },
+    "local": {
+      "cft_icon": "礼装1901.jpg",
+      "skill_icon": "红蓝放.png"
+    }
+  },
+  {
+    "id": "1900",
+    "name": "病める時も健やかなる時も",
+    "name_link": "病める時も健やかなる時も",
+    "name_other": "",
+    "des": "自身の弱体耐性を5%アップ＆NP獲得量を5%アップ",
+    "des_max": "自身の弱体耐性を10%アップ＆NP獲得量を10%アップ[最大解放]",
+    "tag": "",
+    "type": "期间限定",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/f/f3/礼装1900.jpg",
+      "skill_icon": "/images/6/6c/弱化耐性提升.png"
+    },
+    "local": {
+      "cft_icon": "礼装1900.jpg",
+      "skill_icon": "弱化耐性提升.png"
+    }
+  },
+  {
+    "id": "1899",
+    "name": "ラウンズ・ビーチ",
+    "name_link": "ラウンズ・ビーチ",
+    "name_other": "",
+    "des": "自身のArtsカード性能を4%アップ＆Busterカード性能を4%アップ＆毎ターンスター2個獲得状態を付与",
+    "des_max": "自身のArtsカード性能を6%アップ＆Busterカード性能を6%アップ＆毎ターンスター3個獲得状態を付与[最大解放]",
+    "tag": "",
+    "type": "期间限定",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/9/9f/礼装1899.jpg",
+      "skill_icon": "/images/1/17/红蓝放.png"
+    },
+    "local": {
+      "cft_icon": "礼装1899.jpg",
+      "skill_icon": "红蓝放.png"
+    }
+  },
+  {
+    "id": "1898",
+    "name": "サマー・ブレイク",
+    "name_link": "サマー・ブレイク",
+    "name_other": "",
+    "des": "自身に防御無視状態を付与＆Busterカード性能を8%アップ＆宝具威力を15%アップ",
+    "des_max": "自身に防御無視状態を付与＆Busterカード性能を10%アップ＆宝具威力を20%アップ[最大解放]",
+    "tag": "",
+    "type": "期间限定",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/1/14/礼装1898.jpg",
+      "skill_icon": "/images/3/3a/特攻.png"
+    },
+    "local": {
+      "cft_icon": "礼装1898.jpg",
+      "skill_icon": "特攻.png"
+    }
+  },
+  {
+    "id": "1897",
+    "name": "越过波涛",
+    "name_link": "越过波涛",
+    "name_other": "",
+    "des": "自身に回避状態(1回)を付与＆Artsカード性能を2%アップ＆Busterカード性能を2%アップ",
+    "des_max": "自身に回避状態(1回)を付与＆Artsカード性能を3%アップ＆Busterカード性能を3%アップ[最大解放]",
+    "tag": "",
+    "type": "期间限定",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/d/de/礼装1897.jpg",
+      "skill_icon": "/images/3/3e/回避.png"
+    },
+    "local": {
+      "cft_icon": "礼装1897.jpg",
+      "skill_icon": "回避.png"
+    }
+  },
+  {
+    "id": "1896",
+    "name": "仙人掌城",
+    "name_link": "仙人掌城",
+    "name_other": "",
+    "des": "自身に毎ターンNP3%獲得状態を付与＆Quickカード性能を3%アップ＆NP獲得量を5%アップ",
+    "des_max": "自身に毎ターンNP4%獲得状態を付与＆Quickカード性能を5%アップ＆NP獲得量を10%アップ[最大解放]",
+    "tag": "",
+    "type": "期间限定",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/7/7f/礼装1896.jpg",
+      "skill_icon": "/images/e/e2/回合充能.png"
+    },
+    "local": {
+      "cft_icon": "礼装1896.jpg",
+      "skill_icon": "回合充能.png"
+    }
+  },
+  {
+    "id": "1895",
+    "name": "炫目之月",
+    "name_link": "炫目之月",
+    "name_other": "",
+    "des": "自身に毎ターンスター3個獲得状態を付与＆Busterカード性能を8%アップ＆宝具使用時にチャージ段階を2段階分上げる(1回)",
+    "des_max": "自身に毎ターンスター4個獲得状態を付与＆Busterカード性能を10%アップ＆宝具使用時にチャージ段階を2段階分上げる(1回)[最大解放]",
+    "tag": "",
+    "type": "期间限定",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/7/73/礼装1895.jpg",
+      "skill_icon": "/images/f/f7/回合出星.png"
+    },
+    "local": {
+      "cft_icon": "礼装1895.jpg",
+      "skill_icon": "回合出星.png"
+    }
+  },
+  {
+    "id": "1894",
+    "name": "抱紧我，就像那大米一般",
+    "name_link": "抱紧我，就像那大米一般",
+    "name_other": "",
+    "des": "关卡通关时获得的魔术礼装经验增加50",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
     "event": "0",
     "online": {
       "cft_icon": "/images/5/5e/礼装1894.jpg",
@@ -3972,8 +4276,8 @@
   },
   {
     "id": "1685",
-    "name": "暗自落泪的恩克罗米亚",
-    "name_link": "暗自落泪的恩克罗米亚",
+    "name": "恩克洛米亚的暗泪",
+    "name_link": "恩克洛米亚的暗泪",
     "name_other": "",
     "des": "斯卡哈·斯卡蒂(Ruler)装备，且自身在场时，己方全体的Buster指令卡暴击威力提升30%",
     "des_max": "",
@@ -4010,8 +4314,8 @@
   },
   {
     "id": "1683",
-    "name": "夏日力量花球",
-    "name_link": "夏日力量花球",
+    "name": "夏日力量助威花",
+    "name_link": "夏日力量助威花",
     "name_other": "",
     "des": "伊吹童子(Berserker)装备，且自身在场时，己方全体的Arts指令卡性能提升8%＆Buster指令卡性能提升8%＆付与对〔拥有地之力的敌人〕10%的特攻状态",
     "des_max": "",

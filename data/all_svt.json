@@ -1,5 +1,95 @@
 [
   {
+    "id": "388",
+    "name_cn": "克洛伊・冯・爱因兹贝伦",
+    "name_jp": "クロエ・フォン・アインツベルン",
+    "name_en": "Chloe von Einzbern",
+    "name_link": "克洛伊·冯·爱因兹贝伦(Avenger)",
+    "name_other": "仇小黑",
+    "method": "期间限定",
+    "tag": "",
+    "online": {
+      "svt_icon": "/images/6/69/Servant388.jpg",
+      "card1_icon": "/images/8/84/Quick.png",
+      "card2_icon": "/images/8/84/Quick.png",
+      "card3_icon": "/images/8/84/Quick.png",
+      "card4_icon": "/images/9/95/Arts.png",
+      "card5_icon": "/images/6/6e/Buster.png",
+      "ultimate_icon": "/images/8/84/Quick.png",
+      "class_icon": "/images/d/db/金卡Avenger.png"
+    },
+    "local": {
+      "svt_icon": "Servant388.jpg",
+      "card1_icon": "Quick.png",
+      "card2_icon": "Quick.png",
+      "card3_icon": "Quick.png",
+      "card4_icon": "Arts.png",
+      "card5_icon": "Buster.png",
+      "ultimate_icon": "Quick.png",
+      "class_icon": "金卡Avenger.png"
+    }
+  },
+  {
+    "id": "387",
+    "name_cn": "铃鹿御前〔暑假〕",
+    "name_jp": "鈴鹿御前〔サマバケ〕",
+    "name_en": "Suzuka Gozen (Summevaca)",
+    "name_link": "铃鹿御前〔暑假〕",
+    "name_other": "",
+    "method": "期间限定",
+    "tag": "",
+    "online": {
+      "svt_icon": "/images/8/87/Servant387.jpg",
+      "card1_icon": "/images/8/84/Quick.png",
+      "card2_icon": "/images/8/84/Quick.png",
+      "card3_icon": "/images/9/95/Arts.png",
+      "card4_icon": "/images/9/95/Arts.png",
+      "card5_icon": "/images/6/6e/Buster.png",
+      "ultimate_icon": "/images/8/84/Quick.png",
+      "class_icon": "/images/5/5f/金卡Rider.png"
+    },
+    "local": {
+      "svt_icon": "Servant387.jpg",
+      "card1_icon": "Quick.png",
+      "card2_icon": "Quick.png",
+      "card3_icon": "Arts.png",
+      "card4_icon": "Arts.png",
+      "card5_icon": "Buster.png",
+      "ultimate_icon": "Quick.png",
+      "class_icon": "金卡Rider.png"
+    }
+  },
+  {
+    "id": "386",
+    "name_cn": "阿尔托莉雅・卡斯特",
+    "name_jp": "アルトリア・キャスター",
+    "name_en": "Altria Caster",
+    "name_link": "阿尔托莉雅·卡斯特(Berserker)",
+    "name_other": "水C呆&汇呆&呆B",
+    "method": "期间限定",
+    "tag": "",
+    "online": {
+      "svt_icon": "/images/f/f3/Servant386.jpg",
+      "card1_icon": "/images/8/84/Quick.png",
+      "card2_icon": "/images/9/95/Arts.png",
+      "card3_icon": "/images/9/95/Arts.png",
+      "card4_icon": "/images/6/6e/Buster.png",
+      "card5_icon": "/images/6/6e/Buster.png",
+      "ultimate_icon": "/images/9/95/Arts.png",
+      "class_icon": "/images/9/9f/金卡Berserker.png"
+    },
+    "local": {
+      "svt_icon": "Servant386.jpg",
+      "card1_icon": "Quick.png",
+      "card2_icon": "Arts.png",
+      "card3_icon": "Arts.png",
+      "card4_icon": "Buster.png",
+      "card5_icon": "Buster.png",
+      "ultimate_icon": "Arts.png",
+      "class_icon": "金卡Berserker.png"
+    }
+  },
+  {
     "id": "385",
     "name_cn": "雨之魔女梣",
     "name_jp": "雨の魔女トネリコ",

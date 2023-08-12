@@ -171,3 +171,16 @@ Traceback (most recent call last):
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 AttributeError: 'NoneType' object has no attribute 'group'
 
+2023-08-12 08:36:32.143485
+list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/fgo_data/fgo_data/./__init__.py", line 21, in <module>
+    update_lib()
+  File "/home/runner/work/fgo_data/fgo_data/fgo_lib.py", line 35, in update_lib
+    data = lib_cft(each_cft)
+           ^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/fgo_data/fgo_data/lib_online/lib_cft.py", line 69, in lib_cft
+    single_cft_detail[each_cd] = info[detail_counter]
+                                 ~~~~^^^^^^^^^^^^^^^^
+IndexError: list index out of range
+

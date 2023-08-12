@@ -1,5 +1,65 @@
 [
   {
+    "id": "149",
+    "name": "太陽の乙女狼",
+    "name_link": "太陽の乙女狼",
+    "name_other": "",
+    "des": "〔陽射し〕のあるフィールドにおいて、刻印されたカードのクリティカル威力を30%アップ",
+    "tag": "",
+    "type": "活动奖励",
+    "method": "",
+    "method_link": "",
+    "method_link_text": "",
+    "online": {
+      "cmd_icon": "/images/2/24/纹章149.png",
+      "skill_icon": "/images/d/db/暴击威力提升.png"
+    },
+    "local": {
+      "cmd_icon": "纹章149.png",
+      "skill_icon": "暴击威力提升.png"
+    }
+  },
+  {
+    "id": "148",
+    "name": "普利多温",
+    "name_link": "普利多温(指令纹章)",
+    "name_other": "",
+    "des": "刻印されたカードに防御無視効果を付与 ＋ 刻印されたカードによる攻撃時にスターを2個獲得",
+    "tag": "",
+    "type": "活动奖励",
+    "method": "",
+    "method_link": "",
+    "method_link_text": "",
+    "online": {
+      "cmd_icon": "/images/8/8c/纹章148.png",
+      "skill_icon": "/images/3/3a/特攻.png"
+    },
+    "local": {
+      "cmd_icon": "纹章148.png",
+      "skill_icon": "特攻.png"
+    }
+  },
+  {
+    "id": "147",
+    "name": "姉なる聖女の従者",
+    "name_link": "姉なる聖女の従者",
+    "name_other": "",
+    "des": "Artsカードに刻印時のみ、刻印されたカードのクリティカル威力を10%アップ ＋ 刻印されたカードによる攻撃時にスターを1個獲得",
+    "tag": "",
+    "type": "活动奖励",
+    "method": "",
+    "method_link": "",
+    "method_link_text": "",
+    "online": {
+      "cmd_icon": "/images/d/d5/纹章147.png",
+      "skill_icon": "/images/d/db/暴击威力提升.png"
+    },
+    "local": {
+      "cmd_icon": "纹章147.png",
+      "skill_icon": "暴击威力提升.png"
+    }
+  },
+  {
     "id": "146",
     "name": "虚数指南针",
     "name_link": "虚数指南针",
