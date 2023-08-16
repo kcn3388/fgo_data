@@ -1,5 +1,62 @@
 [
   {
+    "id": "1914",
+    "name": "『昏い森の優しい雨』",
+    "name_link": "『昏い森の優しい雨』",
+    "name_other": "",
+    "des": "ケット・クー・ミコケル(プリテンダー)装備時のみ、自身がフィールドにいる間、味方全体のBusterカード性能を10%アップ ＋ 〔祭神の怒り〕状態の味方全体のBusterカード性能を10%アップ",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/1/12/礼装1914.jpg",
+      "skill_icon": "/images/4/42/红放.png"
+    },
+    "local": {
+      "cft_icon": "礼装1914.jpg",
+      "skill_icon": "红放.png"
+    }
+  },
+  {
+    "id": "1913",
+    "name": "ＵＤＫ団員募集中",
+    "name_link": "ＵＤＫ団員募集中",
+    "name_other": "",
+    "des": "ＵＤＫ－バーゲスト(アーチャー)装備時のみ、自身がフィールドにいる間、味方全体のArtsカード性能を10%アップ ＋ 〔炎上〕しているフィールドにおいてのみ、味方全体のArtsカード性能を10%アップ",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/b/b4/礼装1913.jpg",
+      "skill_icon": "/images/0/03/蓝放.png"
+    },
+    "local": {
+      "cft_icon": "礼装1913.jpg",
+      "skill_icon": "蓝放.png"
+    }
+  },
+  {
+    "id": "1912",
+    "name": "きみに贈るトロフィー",
+    "name_link": "きみに贈るトロフィー",
+    "name_other": "",
+    "des": "メリュジーヌ(ルーラー)装備時のみ、自身がフィールドにいる間、味方全体のクリティカル威力を20%アップ ＋ 〔水辺〕または〔空中〕のフィールドにおいてのみ、味方全体のクリティカル威力を10%アップ",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/c/cc/礼装1912.jpg",
+      "skill_icon": "/images/d/db/暴击威力提升.png"
+    },
+    "local": {
+      "cft_icon": "礼装1912.jpg",
+      "skill_icon": "暴击威力提升.png"
+    }
+  },
+  {
     "id": "1911",
     "name": "ソールズベリーでもう一度",
     "name_link": "ソールズベリーでもう一度",
