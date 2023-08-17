@@ -1,13 +1,108 @@
 [
   {
-    "id": "1914",
-    "name": "『昏い森の優しい雨』",
-    "name_link": "『昏い森の優しい雨』",
+    "id": "1919",
+    "name": "EVER DARK －永夜戦線－",
+    "name_link": "EVER DARK －永夜戦線－",
     "name_other": "",
-    "des": "ケット・クー・ミコケル(プリテンダー)装備時のみ、自身がフィールドにいる間、味方全体のBusterカード性能を10%アップ ＋ 〔祭神の怒り〕状態の味方全体のBusterカード性能を10%アップ",
+    "des": "无效果",
     "des_max": "",
     "tag": "",
-    "type": "未知",
+    "type": "活动赠送",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/6/6e/礼装1919.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1919.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1918",
+    "name": "犬世説美少年録",
+    "name_link": "犬世説美少年録",
+    "name_other": "",
+    "des": "无效果",
+    "des_max": "",
+    "tag": "",
+    "type": "活动赠送",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/0/06/礼装1918.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1918.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1917",
+    "name": "スーパードクター",
+    "name_link": "スーパードクター",
+    "name_other": "",
+    "des": "无效果",
+    "des_max": "",
+    "tag": "",
+    "type": "活动赠送",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/7/7f/礼装1917.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1917.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1916",
+    "name": "ときめきアイアンウィップ",
+    "name_link": "ときめきアイアンウィップ",
+    "name_other": "",
+    "des": "无效果",
+    "des_max": "",
+    "tag": "",
+    "type": "活动赠送",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/6/69/礼装1916.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1916.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1915",
+    "name": "カルデアゲーム三昧",
+    "name_link": "カルデアゲーム三昧",
+    "name_other": "",
+    "des": "无效果",
+    "des_max": "",
+    "tag": "",
+    "type": "活动赠送",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/e/e4/礼装1915.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1915.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1914",
+    "name": "『昏暗森林里的温柔之雨』",
+    "name_link": "『昏暗森林里的温柔之雨』",
+    "name_other": "",
+    "des": "凯特·库·米可科尔(Pretender)装备，且自身在场时，己方全体的Buster指令卡性能提升10% ＋ 〔祭神之怒〕状态的己方全体Buster指令卡性能提升10%",
+    "des_max": "",
+    "tag": "",
+    "type": "牵绊",
     "event": "0",
     "online": {
       "cft_icon": "/images/1/12/礼装1914.jpg",
@@ -20,13 +115,13 @@
   },
   {
     "id": "1913",
-    "name": "ＵＤＫ団員募集中",
-    "name_link": "ＵＤＫ団員募集中",
+    "name": "UDK团员募集中",
+    "name_link": "UDK团员募集中",
     "name_other": "",
-    "des": "ＵＤＫ－バーゲスト(アーチャー)装備時のみ、自身がフィールドにいる間、味方全体のArtsカード性能を10%アップ ＋ 〔炎上〕しているフィールドにおいてのみ、味方全体のArtsカード性能を10%アップ",
+    "des": "UDK-巴格斯特(Archer)装备，且自身在场时，己方全体的Arts指令卡性能提升10% ＋ 仅自身在〔燃烧〕场地上时，己方全体的Arts指令卡性能提升10%",
     "des_max": "",
     "tag": "",
-    "type": "未知",
+    "type": "牵绊",
     "event": "0",
     "online": {
       "cft_icon": "/images/b/b4/礼装1913.jpg",
@@ -39,13 +134,13 @@
   },
   {
     "id": "1912",
-    "name": "きみに贈るトロフィー",
-    "name_link": "きみに贈るトロフィー",
+    "name": "赠予你的奖杯",
+    "name_link": "赠予你的奖杯",
     "name_other": "",
-    "des": "メリュジーヌ(ルーラー)装備時のみ、自身がフィールドにいる間、味方全体のクリティカル威力を20%アップ ＋ 〔水辺〕または〔空中〕のフィールドにおいてのみ、味方全体のクリティカル威力を10%アップ",
+    "des": "梅柳齐娜(Ruler)装备，且自身在场时，己方全体的暴击威力提升20% ＋ 仅在〔水边〕或〔空中〕场地上时，己方全体的暴击威力提升10%",
     "des_max": "",
     "tag": "",
-    "type": "未知",
+    "type": "牵绊",
     "event": "0",
     "online": {
       "cft_icon": "/images/c/cc/礼装1912.jpg",
@@ -58,8 +153,8 @@
   },
   {
     "id": "1911",
-    "name": "ソールズベリーでもう一度",
-    "name_link": "ソールズベリーでもう一度",
+    "name": "再度于索尔兹伯里",
+    "name_link": "再度于索尔兹伯里",
     "name_other": "",
     "des": "诺克娜蕾·雅兰杜(Foreigner)装备，且自身在场时，除自身以外〔我美丽的战士〕状态的己方全体NP获得量提升20% ＋ 自身的NP获得量提升15%",
     "des_max": "",
@@ -77,8 +172,8 @@
   },
   {
     "id": "1910",
-    "name": "えっちゃん anko 写真集",
-    "name_link": "えっちゃん anko 写真集",
+    "name": "小艾 红豆馅 写真集",
+    "name_link": "小艾 红豆馅 写真集",
     "name_other": "",
     "des": "无效果",
     "des_max": "",
@@ -96,8 +191,8 @@
   },
   {
     "id": "1909",
-    "name": "おしえて！ 健康のひみつ！",
-    "name_link": "おしえて！ 健康のひみつ！",
+    "name": "教教我吧！ 健康的秘诀！",
+    "name_link": "教教我吧！ 健康的秘诀！",
     "name_other": "",
     "des": "无效果",
     "des_max": "",
@@ -115,8 +210,8 @@
   },
   {
     "id": "1908",
-    "name": "泡影－Phantasma－モードレッド写真集",
-    "name_link": "泡影－Phantasma－モードレッド写真集",
+    "name": "泡影－Phantasma－莫德雷德写真集",
+    "name_link": "泡影－Phantasma－莫德雷德写真集",
     "name_other": "",
     "des": "无效果",
     "des_max": "",
@@ -153,8 +248,8 @@
   },
   {
     "id": "1906",
-    "name": "カルデアゲーム三昧 ～アルトリアさんと遊ぼう～",
-    "name_link": "カルデアゲーム三昧 ～アルトリアさんと遊ぼう～",
+    "name": "畅享迦勒底游戏 ～和阿尔托莉雅一起玩吧～",
+    "name_link": "畅享迦勒底游戏 ～和阿尔托莉雅一起玩吧～",
     "name_other": "",
     "des": "无效果",
     "des_max": "",
