@@ -1,5 +1,43 @@
 [
   {
+    "id": "1921",
+    "name": "南の島のフェスティバル",
+    "name_link": "南の島のフェスティバル",
+    "name_other": "",
+    "des": "无效果",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/d/db/礼装1921.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1921.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1920",
+    "name": "妖精國の夏やすみ",
+    "name_link": "妖精國の夏やすみ",
+    "name_other": "",
+    "des": "无效果",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/c/c8/礼装1920.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1920.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
     "id": "1919",
     "name": "EVER DARK －永夜戦線－",
     "name_link": "EVER DARK －永夜戦線－",
