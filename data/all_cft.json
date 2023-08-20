@@ -7,7 +7,7 @@
     "des": "无效果",
     "des_max": "",
     "tag": "",
-    "type": "未知",
+    "type": "活动奖励",
     "event": "0",
     "online": {
       "cft_icon": "/images/d/db/礼装1921.jpg",
@@ -26,7 +26,7 @@
     "des": "无效果",
     "des_max": "",
     "tag": "",
-    "type": "未知",
+    "type": "活动奖励",
     "event": "0",
     "online": {
       "cft_icon": "/images/c/c8/礼装1920.jpg",
@@ -45,7 +45,7 @@
     "des": "无效果",
     "des_max": "",
     "tag": "",
-    "type": "活动赠送",
+    "type": "活动奖励",
     "event": "0",
     "online": {
       "cft_icon": "/images/6/6e/礼装1919.jpg",
@@ -64,7 +64,7 @@
     "des": "无效果",
     "des_max": "",
     "tag": "",
-    "type": "活动赠送",
+    "type": "活动奖励",
     "event": "0",
     "online": {
       "cft_icon": "/images/0/06/礼装1918.jpg",
@@ -83,7 +83,7 @@
     "des": "无效果",
     "des_max": "",
     "tag": "",
-    "type": "活动赠送",
+    "type": "活动奖励",
     "event": "0",
     "online": {
       "cft_icon": "/images/7/7f/礼装1917.jpg",
@@ -102,7 +102,7 @@
     "des": "无效果",
     "des_max": "",
     "tag": "",
-    "type": "活动赠送",
+    "type": "活动奖励",
     "event": "0",
     "online": {
       "cft_icon": "/images/6/69/礼装1916.jpg",
@@ -121,7 +121,7 @@
     "des": "无效果",
     "des_max": "",
     "tag": "",
-    "type": "活动赠送",
+    "type": "活动奖励",
     "event": "0",
     "online": {
       "cft_icon": "/images/e/e4/礼装1915.jpg",
@@ -217,7 +217,7 @@
     "des_max": "",
     "tag": "",
     "type": "活动奖励",
-    "event": "1",
+    "event": "0",
     "online": {
       "cft_icon": "/images/6/65/礼装1910.jpg",
       "skill_icon": "/images/d/d7/空白效果.png"
@@ -236,7 +236,7 @@
     "des_max": "",
     "tag": "",
     "type": "活动奖励",
-    "event": "1",
+    "event": "0",
     "online": {
       "cft_icon": "/images/c/cf/礼装1909.jpg",
       "skill_icon": "/images/d/d7/空白效果.png"
@@ -255,7 +255,7 @@
     "des_max": "",
     "tag": "",
     "type": "活动奖励",
-    "event": "1",
+    "event": "0",
     "online": {
       "cft_icon": "/images/a/ac/礼装1908.jpg",
       "skill_icon": "/images/d/d7/空白效果.png"
@@ -274,7 +274,7 @@
     "des_max": "",
     "tag": "",
     "type": "活动奖励",
-    "event": "1",
+    "event": "0",
     "online": {
       "cft_icon": "/images/1/11/礼装1907.jpg",
       "skill_icon": "/images/d/d7/空白效果.png"
@@ -293,7 +293,7 @@
     "des_max": "",
     "tag": "",
     "type": "活动奖励",
-    "event": "1",
+    "event": "0",
     "online": {
       "cft_icon": "/images/b/b8/礼装1906.jpg",
       "skill_icon": "/images/d/d7/空白效果.png"
