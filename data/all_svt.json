@@ -1,5 +1,35 @@
 [
   {
+    "id": "393",
+    "name_cn": "旺吉娜",
+    "name_jp": "ワンジナ",
+    "name_en": "---",
+    "name_link": "旺吉娜",
+    "name_other": "",
+    "method": "未知",
+    "tag": "",
+    "online": {
+      "svt_icon": "/images/b/bd/Servant393.jpg",
+      "card1_icon": "/images/8/84/Quick.png",
+      "card2_icon": "/images/8/84/Quick.png",
+      "card3_icon": "/images/9/95/Arts.png",
+      "card4_icon": "/images/6/6e/Buster.png",
+      "card5_icon": "/images/6/6e/Buster.png",
+      "ultimate_icon": "/images/8/84/Quick.png",
+      "class_icon": "/images/c/c5/金卡Foreigner.png"
+    },
+    "local": {
+      "svt_icon": "Servant393.jpg",
+      "card1_icon": "Quick.png",
+      "card2_icon": "Quick.png",
+      "card3_icon": "Arts.png",
+      "card4_icon": "Buster.png",
+      "card5_icon": "Buster.png",
+      "ultimate_icon": "Quick.png",
+      "class_icon": "金卡Foreigner.png"
+    }
+  },
+  {
     "id": "392",
     "name_cn": "凯特・库・米可科尔",
     "name_jp": "ケット・クー・ミコケル",
