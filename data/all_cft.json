@@ -1,5 +1,100 @@
 [
   {
+    "id": "1927",
+    "name": "旺吉娜头盔",
+    "name_link": "旺吉娜头盔",
+    "name_other": "",
+    "des": "旺吉娜(Foreigner)装备，且自身在场时，己方全体的宝具威力提升15% ＋ 除自身以外的〔拥有人之力的己方〕全体宝具威力提升15%",
+    "des_max": "",
+    "tag": "",
+    "type": "牵绊",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/1/1e/礼装1927.jpg",
+      "skill_icon": "/images/d/d9/宝具威力提升.png"
+    },
+    "local": {
+      "cft_icon": "礼装1927.jpg",
+      "skill_icon": "宝具威力提升.png"
+    }
+  },
+  {
+    "id": "1926",
+    "name": "星之脚步",
+    "name_link": "星之脚步",
+    "name_other": "",
+    "des": "付与自身对〔诅咒〕20%的特攻状态＆以NP已达30%的状态开始战斗",
+    "des_max": "付与自身对〔诅咒〕25%的特攻状态＆以NP已达50%的状态开始战斗[最大解放]",
+    "tag": "",
+    "type": "活动奖励",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/6/64/礼装1926.jpg",
+      "skill_icon": "/images/3/3a/特攻.png"
+    },
+    "local": {
+      "cft_icon": "礼装1926.jpg",
+      "skill_icon": "特攻.png"
+    }
+  },
+  {
+    "id": "1925",
+    "name": "尚在旅途中",
+    "name_link": "尚在旅途中",
+    "name_other": "",
+    "des": "自身的Arts指令卡性能提升3%＆暴击威力提升3%＆NP获得量提升3%",
+    "des_max": "自身的Arts指令卡性能提升5%＆暴击威力提升5%＆NP获得量提升5%[最大解放]",
+    "tag": "",
+    "type": "期间限定",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/0/0d/礼装1925.jpg",
+      "skill_icon": "/images/0/03/蓝放.png"
+    },
+    "local": {
+      "cft_icon": "礼装1925.jpg",
+      "skill_icon": "蓝放.png"
+    }
+  },
+  {
+    "id": "1924",
+    "name": "微笑的骑士",
+    "name_link": "微笑的骑士",
+    "name_other": "",
+    "des": "付与自身被伤害减免300的状态＆宝具威力提升15%",
+    "des_max": "付与自身被伤害减免400的状态＆宝具威力提升20%[最大解放]",
+    "tag": "",
+    "type": "期间限定",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/e/ea/礼装1924.jpg",
+      "skill_icon": "/images/3/32/加防.png"
+    },
+    "local": {
+      "cft_icon": "礼装1924.jpg",
+      "skill_icon": "加防.png"
+    }
+  },
+  {
+    "id": "1923",
+    "name": "Ref rain",
+    "name_link": "Ref rain",
+    "name_other": "",
+    "des": "自身的Buster指令卡性能提升10%＆宝具威力提升10%＆付与每回合获得3个暴击星状态",
+    "des_max": "自身的Buster指令卡性能提升15%＆宝具威力提升15%＆付与每回合获得4个暴击星状态[最大解放]",
+    "tag": "",
+    "type": "期间限定",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/b/b7/礼装1923.jpg",
+      "skill_icon": "/images/4/42/红放.png"
+    },
+    "local": {
+      "cft_icon": "礼装1923.jpg",
+      "skill_icon": "红放.png"
+    }
+  },
+  {
     "id": "1922",
     "name": "大总统之海",
     "name_link": "大总统之海",
