@@ -1766,3 +1766,21 @@ Traceback (most recent call last):
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 AttributeError: 'NoneType' object has no attribute 'text'
 
+2023-10-20 08:39:43.811465
+object of type 'ReadTimeout' has no len()
+Traceback (most recent call last):
+  File "/home/runner/work/fgo_data/fgo_data/./__init__.py", line 21, in <module>
+    update_lib()
+  File "/home/runner/work/fgo_data/fgo_data/fgo_lib.py", line 18, in update_lib
+    data = lib_svt(each_svt)
+           ^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/fgo_data/fgo_data/lib_online/lib_svt.py", line 68, in lib_svt
+    get_pickup(svt, soup, url)
+  File "/home/runner/work/fgo_data/fgo_data/lib_online/lib_svt.py", line 636, in get_pickup
+    time_soup = BeautifulSoup(get_content(f"https://fgo.wiki{href}"), 'html.parser')
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.6/x64/lib/python3.11/site-packages/bs4/__init__.py", line 315, in __init__
+    elif len(markup) <= 256 and (
+         ^^^^^^^^^^^
+TypeError: object of type 'ReadTimeout' has no len()
+
