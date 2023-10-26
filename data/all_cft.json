@@ -1,5 +1,119 @@
 [
   {
+    "id": "1934",
+    "name": "狙い、構えて、撃つ",
+    "name_link": "狙い、構えて、撃つ",
+    "name_other": "",
+    "des": "杉谷善住坊(アーチャー)装備時のみ、自身がフィールドにいる間、回避状態の味方全体のクリティカル威力を35%アップ",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/0/02/礼装1934.jpg",
+      "skill_icon": "/images/d/db/暴击威力提升.png"
+    },
+    "local": {
+      "cft_icon": "礼装1934.jpg",
+      "skill_icon": "暴击威力提升.png"
+    }
+  },
+  {
+    "id": "1933",
+    "name": "蝋板と尖筆",
+    "name_link": "蝋板と尖筆",
+    "name_other": "",
+    "des": "プトレマイオス(アーチャー)装備時のみ、自身がフィールドにいる間、味方全体のArtsカード性能を8%アップ＆Busterカード性能を8%アップ＆宝具威力を10%アップ",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/e/e5/礼装1933.jpg",
+      "skill_icon": "/images/1/17/红蓝放.png"
+    },
+    "local": {
+      "cft_icon": "礼装1933.jpg",
+      "skill_icon": "红蓝放.png"
+    }
+  },
+  {
+    "id": "1932",
+    "name": "砂盤の残映",
+    "name_link": "砂盤の残映",
+    "name_other": "",
+    "des": "自身のArtsカード性能を8%アップ＆Busterカード性能を8%アップ＆クリティカル威力を3%アップ＆宝具威力を3%アップ＆NPを30%チャージした状態でバトルを開始する",
+    "des_max": "自身のArtsカード性能を10%アップ＆Busterカード性能を10%アップ＆クリティカル威力を5%アップ＆宝具威力を5%アップ＆NPを50%チャージした状態でバトルを開始する[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/7/71/礼装1932.jpg",
+      "skill_icon": "/images/1/17/红蓝放.png"
+    },
+    "local": {
+      "cft_icon": "礼装1932.jpg",
+      "skill_icon": "红蓝放.png"
+    }
+  },
+  {
+    "id": "1931",
+    "name": "きみのぼうけん",
+    "name_link": "きみのぼうけん",
+    "name_other": "",
+    "des": "自身に回避状態(1回)を付与＆Quickカード性能を2%アップ＆Artsカード性能を2%アップ",
+    "des_max": "自身に回避状態(1回)を付与＆Quickカード性能を3%アップ＆Artsカード性能を3%アップ[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/1/16/礼装1931.jpg",
+      "skill_icon": "/images/3/3e/回避.png"
+    },
+    "local": {
+      "cft_icon": "礼装1931.jpg",
+      "skill_icon": "回避.png"
+    }
+  },
+  {
+    "id": "1930",
+    "name": "デイ・アンド・ナイト",
+    "name_link": "デイ・アンド・ナイト",
+    "name_other": "",
+    "des": "自身のArtsカード性能を8%アップ＆Busterカード性能を8%アップ＆強化解除耐性を5%アップ",
+    "des_max": "自身のArtsカード性能を10%アップ＆Busterカード性能を10%アップ＆強化解除耐性を10%アップ[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/7/74/礼装1930.jpg",
+      "skill_icon": "/images/1/17/红蓝放.png"
+    },
+    "local": {
+      "cft_icon": "礼装1930.jpg",
+      "skill_icon": "红蓝放.png"
+    }
+  },
+  {
+    "id": "1929",
+    "name": "ビブリオフィリア",
+    "name_link": "ビブリオフィリア",
+    "name_other": "",
+    "des": "自身に毎ターンNP4%獲得状態を付与＆宝具威力を10%アップ＆宝具使用時にチャージ段階を2段階分上げる(1回)",
+    "des_max": "自身に毎ターンNP5%獲得状態を付与＆宝具威力を15%アップ＆宝具使用時にチャージ段階を2段階分上げる(1回)[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/d/d5/礼装1929.jpg",
+      "skill_icon": "/images/e/e2/回合充能.png"
+    },
+    "local": {
+      "cft_icon": "礼装1929.jpg",
+      "skill_icon": "回合充能.png"
+    }
+  },
+  {
     "id": "1928",
     "name": "Samurai Remnant",
     "name_link": "Samurai Remnant",

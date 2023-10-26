@@ -1,5 +1,65 @@
 [
   {
+    "id": "395",
+    "name_cn": "杉谷善住坊",
+    "name_jp": "杉谷善住坊",
+    "name_en": "---",
+    "name_link": "杉谷善住坊",
+    "name_other": "",
+    "method": "未知",
+    "tag": "",
+    "online": {
+      "svt_icon": "/images/b/bd/Servant395.jpg",
+      "card1_icon": "/images/8/84/Quick.png",
+      "card2_icon": "/images/9/95/Arts.png",
+      "card3_icon": "/images/9/95/Arts.png",
+      "card4_icon": "/images/6/6e/Buster.png",
+      "card5_icon": "/images/6/6e/Buster.png",
+      "ultimate_icon": "/images/6/6e/Buster.png",
+      "class_icon": "/images/d/db/银卡Archer.png"
+    },
+    "local": {
+      "svt_icon": "Servant395.jpg",
+      "card1_icon": "Quick.png",
+      "card2_icon": "Arts.png",
+      "card3_icon": "Arts.png",
+      "card4_icon": "Buster.png",
+      "card5_icon": "Buster.png",
+      "ultimate_icon": "Buster.png",
+      "class_icon": "银卡Archer.png"
+    }
+  },
+  {
+    "id": "394",
+    "name_cn": "托勒密",
+    "name_jp": "プトレマイオス",
+    "name_en": "---",
+    "name_link": "托勒密",
+    "name_other": "",
+    "method": "未知",
+    "tag": "",
+    "online": {
+      "svt_icon": "/images/d/d1/Servant394.jpg",
+      "card1_icon": "/images/8/84/Quick.png",
+      "card2_icon": "/images/9/95/Arts.png",
+      "card3_icon": "/images/9/95/Arts.png",
+      "card4_icon": "/images/6/6e/Buster.png",
+      "card5_icon": "/images/6/6e/Buster.png",
+      "ultimate_icon": "/images/6/6e/Buster.png",
+      "class_icon": "/images/8/81/金卡Archer.png"
+    },
+    "local": {
+      "svt_icon": "Servant394.jpg",
+      "card1_icon": "Quick.png",
+      "card2_icon": "Arts.png",
+      "card3_icon": "Arts.png",
+      "card4_icon": "Buster.png",
+      "card5_icon": "Buster.png",
+      "ultimate_icon": "Buster.png",
+      "class_icon": "金卡Archer.png"
+    }
+  },
+  {
     "id": "393",
     "name_cn": "旺吉娜",
     "name_jp": "ワンジナ",
