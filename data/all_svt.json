@@ -1,5 +1,35 @@
 [
   {
+    "id": "396",
+    "name_cn": "忒修斯",
+    "name_jp": "テセウス",
+    "name_en": "---",
+    "name_link": "忒修斯",
+    "name_other": "",
+    "method": "未知",
+    "tag": "",
+    "online": {
+      "svt_icon": "/images/e/ec/Servant396.jpg",
+      "card1_icon": "/images/8/84/Quick.png",
+      "card2_icon": "/images/9/95/Arts.png",
+      "card3_icon": "/images/9/95/Arts.png",
+      "card4_icon": "/images/6/6e/Buster.png",
+      "card5_icon": "/images/6/6e/Buster.png",
+      "ultimate_icon": "/images/9/95/Arts.png",
+      "class_icon": "/images/9/9b/银卡Saber.png"
+    },
+    "local": {
+      "svt_icon": "Servant396.jpg",
+      "card1_icon": "Quick.png",
+      "card2_icon": "Arts.png",
+      "card3_icon": "Arts.png",
+      "card4_icon": "Buster.png",
+      "card5_icon": "Buster.png",
+      "ultimate_icon": "Arts.png",
+      "class_icon": "银卡Saber.png"
+    }
+  },
+  {
     "id": "395",
     "name_cn": "杉谷善住坊",
     "name_jp": "杉谷善住坊",

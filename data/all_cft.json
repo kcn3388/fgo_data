@@ -1,5 +1,24 @@
 [
   {
+    "id": "1935",
+    "name": "導きの赤い糸",
+    "name_link": "導きの赤い糸",
+    "name_other": "",
+    "des": "テセウス(セイバー)装備時のみ、自身がフィールドにいる間、味方全体に〔魔獣型のサーヴァント〕特攻状態を15%付与＆〔巨人〕特攻状態を15%付与",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/d/d7/礼装1935.jpg",
+      "skill_icon": "/images/3/3a/特攻.png"
+    },
+    "local": {
+      "cft_icon": "礼装1935.jpg",
+      "skill_icon": "特攻.png"
+    }
+  },
+  {
     "id": "1934",
     "name": "瞄准，摆好架势，射击",
     "name_link": "瞄准，摆好架势，射击",
