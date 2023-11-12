@@ -2316,3 +2316,26 @@ Traceback (most recent call last):
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 AttributeError: 'NoneType' object has no attribute 'text'
 
+2023-11-12 08:43:43.796194
+'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/home/runner/work/fgo_data/fgo_data/lib_online/lib_svt.py", line 624, in get_pickup
+    img_urls = img_soup.get("srcset").split(",")[-1].strip()
+               ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/work/fgo_data/fgo_data/./__init__.py", line 21, in <module>
+    update_lib()
+  File "/home/runner/work/fgo_data/fgo_data/fgo_lib.py", line 18, in update_lib
+    data = lib_svt(each_svt)
+           ^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/fgo_data/fgo_data/lib_online/lib_svt.py", line 68, in lib_svt
+    get_pickup(svt, soup, url)
+  File "/home/runner/work/fgo_data/fgo_data/lib_online/lib_svt.py", line 626, in get_pickup
+    img_urls = img_soup.get("data-srcset").split(",")[-1].strip()
+               ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+
