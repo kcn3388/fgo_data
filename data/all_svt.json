@@ -1,5 +1,65 @@
 [
   {
+    "id": "398",
+    "name_cn": "永倉新八",
+    "name_jp": "永倉新八",
+    "name_en": "---",
+    "name_link": "永倉新八",
+    "name_other": "",
+    "method": "未知",
+    "tag": "",
+    "online": {
+      "svt_icon": "/images/a/af/Servant398.jpg",
+      "card1_icon": "/images/8/84/Quick.png",
+      "card2_icon": "/images/9/95/Arts.png",
+      "card3_icon": "/images/6/6e/Buster.png",
+      "card4_icon": "/images/6/6e/Buster.png",
+      "card5_icon": "/images/6/6e/Buster.png",
+      "ultimate_icon": "/images/6/6e/Buster.png",
+      "class_icon": "/images/9/9f/金卡Berserker.png"
+    },
+    "local": {
+      "svt_icon": "Servant398.jpg",
+      "card1_icon": "Quick.png",
+      "card2_icon": "Arts.png",
+      "card3_icon": "Buster.png",
+      "card4_icon": "Buster.png",
+      "card5_icon": "Buster.png",
+      "ultimate_icon": "Buster.png",
+      "class_icon": "金卡Berserker.png"
+    }
+  },
+  {
+    "id": "397",
+    "name_cn": "武田晴信",
+    "name_jp": "武田晴信",
+    "name_en": "---",
+    "name_link": "武田晴信",
+    "name_other": "",
+    "method": "未知",
+    "tag": "",
+    "online": {
+      "svt_icon": "/images/0/0d/Servant397.jpg",
+      "card1_icon": "/images/8/84/Quick.png",
+      "card2_icon": "/images/9/95/Arts.png",
+      "card3_icon": "/images/6/6e/Buster.png",
+      "card4_icon": "/images/6/6e/Buster.png",
+      "card5_icon": "/images/6/6e/Buster.png",
+      "ultimate_icon": "/images/6/6e/Buster.png",
+      "class_icon": "/images/5/5f/金卡Rider.png"
+    },
+    "local": {
+      "svt_icon": "Servant397.jpg",
+      "card1_icon": "Quick.png",
+      "card2_icon": "Arts.png",
+      "card3_icon": "Buster.png",
+      "card4_icon": "Buster.png",
+      "card5_icon": "Buster.png",
+      "ultimate_icon": "Buster.png",
+      "class_icon": "金卡Rider.png"
+    }
+  },
+  {
     "id": "396",
     "name_cn": "忒修斯",
     "name_jp": "テセウス",

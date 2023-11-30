@@ -1,5 +1,65 @@
 [
   {
+    "id": "155",
+    "name": "無敵の一ちゃん",
+    "name_link": "無敵の一ちゃん",
+    "name_other": "",
+    "des": "刻印されたカードのクリティカル威力を15%アップ ＋ 刻印されたカードによる攻撃時にスターを2個獲得",
+    "tag": "",
+    "type": "未知",
+    "method": "",
+    "method_link": "",
+    "method_link_text": "",
+    "online": {
+      "cmd_icon": "/images/6/6c/纹章155.png",
+      "skill_icon": "/images/d/db/暴击威力提升.png"
+    },
+    "local": {
+      "cmd_icon": "纹章155.png",
+      "skill_icon": "暴击威力提升.png"
+    }
+  },
+  {
+    "id": "154",
+    "name": "放生月毛",
+    "name_link": "放生月毛",
+    "name_other": "",
+    "des": "刻印されたカードのスター集中度を50%アップ＆クリティカル威力を10%アップ",
+    "tag": "",
+    "type": "未知",
+    "method": "",
+    "method_link": "",
+    "method_link_text": "",
+    "online": {
+      "cmd_icon": "/images/c/cf/纹章154.png",
+      "skill_icon": "/images/7/7a/集星.png"
+    },
+    "local": {
+      "cmd_icon": "纹章154.png",
+      "skill_icon": "集星.png"
+    }
+  },
+  {
+    "id": "153",
+    "name": "ドライノッブ",
+    "name_link": "ドライノッブ",
+    "name_other": "",
+    "des": "Quickカードに刻印時のみ、刻印されたカードによる攻撃時にスターを3個獲得",
+    "tag": "",
+    "type": "未知",
+    "method": "",
+    "method_link": "",
+    "method_link_text": "",
+    "online": {
+      "cmd_icon": "/images/5/55/纹章153.png",
+      "skill_icon": "/images/b/b6/出星.png"
+    },
+    "local": {
+      "cmd_icon": "纹章153.png",
+      "skill_icon": "出星.png"
+    }
+  },
+  {
     "id": "152",
     "name": "君临尽头的大王",
     "name_link": "君临尽头的大王",

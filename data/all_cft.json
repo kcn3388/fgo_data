@@ -1,5 +1,233 @@
 [
   {
+    "id": "1947",
+    "name": "男の意地",
+    "name_link": "男の意地",
+    "name_other": "",
+    "des": "永倉新八(バーサーカー)装備時のみ、自身がフィールドにいる間、味方全体のBusterカードのクリティカル威力を30%アップ",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/1/11/礼装1947.jpg",
+      "skill_icon": "/images/d/db/暴击威力提升.png"
+    },
+    "local": {
+      "cft_icon": "礼装1947.jpg",
+      "skill_icon": "暴击威力提升.png"
+    }
+  },
+  {
+    "id": "1946",
+    "name": "武田の誇り",
+    "name_link": "武田の誇り",
+    "name_other": "",
+    "des": "武田晴信(ライダー)装備時のみ、自身がフィールドにいる間、味方全体のBusterカード性能を10%アップ＆宝具威力を10%アップ",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/5/5c/礼装1946.jpg",
+      "skill_icon": "/images/4/42/红放.png"
+    },
+    "local": {
+      "cft_icon": "礼装1946.jpg",
+      "skill_icon": "红放.png"
+    }
+  },
+  {
+    "id": "1945",
+    "name": "概念礼装EXPカード：雑賀にお任せ",
+    "name_link": "概念礼装EXPカード：雑賀にお任せ",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/8/85/礼装1945.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1945.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1944",
+    "name": "概念礼装EXPカード：ナイス甲斐",
+    "name_link": "概念礼装EXPカード：ナイス甲斐",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/0/04/礼装1944.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1944.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1943",
+    "name": "ハウ・トゥ・ライフ",
+    "name_link": "ハウ・トゥ・ライフ",
+    "name_other": "",
+    "des": "自身のQuickカード性能を8%アップ＆Artsカード性能を8%アップ＆NP獲得量を5%アップ＆NPを30%チャージした状態でバトルを開始する",
+    "des_max": "自身のQuickカード性能を10%アップ＆Artsカード性能を10%アップ＆NP獲得量を8%アップ＆NPを50%チャージした状態でバトルを開始する[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/c/cb/礼装1943.jpg",
+      "skill_icon": "/images/0/0a/蓝绿放.png"
+    },
+    "local": {
+      "cft_icon": "礼装1943.jpg",
+      "skill_icon": "蓝绿放.png"
+    }
+  },
+  {
+    "id": "1942",
+    "name": "富士よりもなお遠くまで",
+    "name_link": "富士よりもなお遠くまで",
+    "name_other": "",
+    "des": "自身に毎ターンスター1個獲得状態を付与＆Quickカード性能を3%アップ",
+    "des_max": "自身に毎ターンスター2個獲得状態を付与＆Quickカード性能を5%アップ[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/b/bc/礼装1942.jpg",
+      "skill_icon": "/images/f/f7/回合出星.png"
+    },
+    "local": {
+      "cft_icon": "礼装1942.jpg",
+      "skill_icon": "回合出星.png"
+    }
+  },
+  {
+    "id": "1941",
+    "name": "北の柳",
+    "name_link": "北の柳",
+    "name_other": "",
+    "des": "自身に毎ターンNP3%獲得状態を付与＆Artsカード性能を3%アップ＆クリティカル威力を10%アップ",
+    "des_max": "自身に毎ターンNP4%獲得状態を付与＆Artsカード性能を5%アップ＆クリティカル威力を15%アップ[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/2/24/礼装1941.jpg",
+      "skill_icon": "/images/e/e2/回合充能.png"
+    },
+    "local": {
+      "cft_icon": "礼装1941.jpg",
+      "skill_icon": "回合充能.png"
+    }
+  },
+  {
+    "id": "1940",
+    "name": "海道流星群",
+    "name_link": "海道流星群",
+    "name_other": "",
+    "des": "自身に無敵貫通状態を付与＆クリティカル威力を15%アップ＆宝具威力を15%アップ",
+    "des_max": "自身に無敵貫通状態を付与＆クリティカル威力を20%アップ＆宝具威力を20%アップ[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/7/7b/礼装1940.jpg",
+      "skill_icon": "/images/4/4a/无敌贯通.png"
+    },
+    "local": {
+      "cft_icon": "礼装1940.jpg",
+      "skill_icon": "无敌贯通.png"
+    }
+  },
+  {
+    "id": "1939",
+    "name": "巡霊の祝祭／陸",
+    "name_link": "巡霊の祝祭／陸",
+    "name_other": "",
+    "des": "サポートで得られるフレンドポイントが＋10される(重複可能)",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/b/bf/礼装1939.jpg",
+      "skill_icon": "/images/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装1939.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "1938",
+    "name": "霧の情景",
+    "name_link": "霧の情景",
+    "name_other": "",
+    "des": "自身のHP回復量を30%アップする",
+    "des_max": "自身のHP回復量を40%アップする[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/9/9b/礼装1938.jpg",
+      "skill_icon": "/images/9/97/回复量提升.png"
+    },
+    "local": {
+      "cft_icon": "礼装1938.jpg",
+      "skill_icon": "回复量提升.png"
+    }
+  },
+  {
+    "id": "1937",
+    "name": "天性の捕食者",
+    "name_link": "天性の捕食者",
+    "name_other": "",
+    "des": "自身に〔人型〕特攻状態を15%付与＆NP獲得量を15%アップ",
+    "des_max": "自身に〔人型〕特攻状態を20%付与＆NP獲得量を20%アップ[最大解放] ",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/4/48/礼装1937.jpg",
+      "skill_icon": "/images/3/3a/特攻.png"
+    },
+    "local": {
+      "cft_icon": "礼装1937.jpg",
+      "skill_icon": "特攻.png"
+    }
+  },
+  {
+    "id": "1936",
+    "name": "空白の男",
+    "name_link": "空白の男",
+    "name_other": "",
+    "des": "自身のArtsカード性能を20%アップ(3ターン)＆クリティカル威力を15%アップ(3ターン)",
+    "des_max": "自身のArtsカード性能を30%アップ(3ターン)＆クリティカル威力を20%アップ(3ターン)[最大解放] ",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/4/40/礼装1936.jpg",
+      "skill_icon": "/images/0/03/蓝放.png"
+    },
+    "local": {
+      "cft_icon": "礼装1936.jpg",
+      "skill_icon": "蓝放.png"
+    }
+  },
+  {
     "id": "1935",
     "name": "引导之红线",
     "name_link": "引导之红线",
