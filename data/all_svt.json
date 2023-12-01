@@ -1,12 +1,42 @@
 [
   {
-    "id": "398",
-    "name_cn": "永倉新八",
-    "name_jp": "永倉新八",
+    "id": "399",
+    "name_cn": "杂贺孙一",
+    "name_jp": "雑賀孫一",
     "name_en": "---",
-    "name_link": "永倉新八",
+    "name_link": "杂贺孙一",
     "name_other": "",
-    "method": "未知",
+    "method": "活动赠送",
+    "tag": "",
+    "online": {
+      "svt_icon": "/images/9/91/Servant399.jpg",
+      "card1_icon": "/images/8/84/Quick.png",
+      "card2_icon": "/images/8/84/Quick.png",
+      "card3_icon": "/images/9/95/Arts.png",
+      "card4_icon": "/images/6/6e/Buster.png",
+      "card5_icon": "/images/6/6e/Buster.png",
+      "ultimate_icon": "/images/8/84/Quick.png",
+      "class_icon": "/images/8/81/金卡Archer.png"
+    },
+    "local": {
+      "svt_icon": "Servant399.jpg",
+      "card1_icon": "Quick.png",
+      "card2_icon": "Quick.png",
+      "card3_icon": "Arts.png",
+      "card4_icon": "Buster.png",
+      "card5_icon": "Buster.png",
+      "ultimate_icon": "Quick.png",
+      "class_icon": "金卡Archer.png"
+    }
+  },
+  {
+    "id": "398",
+    "name_cn": "永仓新八",
+    "name_jp": "永倉新八",
+    "name_en": "Nagakura Shinpachi",
+    "name_link": "永仓新八",
+    "name_other": "",
+    "method": "期间限定",
     "tag": "",
     "online": {
       "svt_icon": "/images/a/af/Servant398.jpg",
@@ -33,10 +63,10 @@
     "id": "397",
     "name_cn": "武田晴信",
     "name_jp": "武田晴信",
-    "name_en": "---",
+    "name_en": "Takeda Harunobu",
     "name_link": "武田晴信",
-    "name_other": "",
-    "method": "未知",
+    "name_other": "武田信玄",
+    "method": "期间限定",
     "tag": "",
     "online": {
       "svt_icon": "/images/0/0d/Servant397.jpg",
