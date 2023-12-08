@@ -2909,3 +2909,29 @@ Traceback (most recent call last):
          ^^^^^^^^^^^
 TypeError: object of type 'ReadTimeout' has no len()
 
+2023-12-08 08:42:50.828268
+'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "/home/runner/work/fgo_data/fgo_data/lib_online/lib_svt.py", line 433, in get_skills
+    title = each_skill_list[0].findParent("div")["title"]
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.0/x64/lib/python3.12/site-packages/bs4/element.py", line 1573, in __getitem__
+    return self.attrs[key]
+           ~~~~~~~~~~^^^^^
+KeyError: 'title'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/work/fgo_data/fgo_data/./__init__.py", line 21, in <module>
+    update_lib()
+  File "/home/runner/work/fgo_data/fgo_data/fgo_lib.py", line 18, in update_lib
+    data = lib_svt(each_svt)
+           ^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/fgo_data/fgo_data/lib_online/lib_svt.py", line 78, in lib_svt
+    get_skills(svt, base, raw_html)
+  File "/home/runner/work/fgo_data/fgo_data/lib_online/lib_svt.py", line 444, in get_skills
+    skills[each_skill_list[0].find_previous("b").text] = [
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+
