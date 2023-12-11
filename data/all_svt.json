@@ -3,10 +3,10 @@
     "id": "400",
     "name_cn": "上杉谦信",
     "name_jp": "上杉謙信",
-    "name_en": "---",
+    "name_en": "Uesugi Kenshin",
     "name_link": "上杉谦信",
     "name_other": "",
-    "method": "未知",
+    "method": "期间限定",
     "tag": "",
     "online": {
       "svt_icon": "/images/9/99/Servant400.jpg",
@@ -35,7 +35,7 @@
     "name_jp": "雑賀孫一",
     "name_en": "Saika Magoichi",
     "name_link": "杂贺孙一",
-    "name_other": "杂贺孙市",
+    "name_other": "杂贺孙市&杂贺萤",
     "method": "活动赠送",
     "tag": "",
     "online": {
