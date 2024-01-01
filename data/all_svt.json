@@ -1,5 +1,35 @@
 [
   {
+    "id": "402",
+    "name_cn": "日本武尊",
+    "name_jp": "ヤマトタケル",
+    "name_en": "Yamato Takeru",
+    "name_link": "日本武尊",
+    "name_other": "",
+    "method": "期间限定",
+    "tag": "",
+    "online": {
+      "svt_icon": "/images/4/49/Servant402.jpg",
+      "card1_icon": "/images/8/84/Quick.png",
+      "card2_icon": "/images/9/95/Arts.png",
+      "card3_icon": "/images/9/95/Arts.png",
+      "card4_icon": "/images/6/6e/Buster.png",
+      "card5_icon": "/images/6/6e/Buster.png",
+      "ultimate_icon": "/images/9/95/Arts.png",
+      "class_icon": "/images/4/41/金卡Saber.png"
+    },
+    "local": {
+      "svt_icon": "Servant402.jpg",
+      "card1_icon": "Quick.png",
+      "card2_icon": "Arts.png",
+      "card3_icon": "Arts.png",
+      "card4_icon": "Buster.png",
+      "card5_icon": "Buster.png",
+      "ultimate_icon": "Arts.png",
+      "class_icon": "金卡Saber.png"
+    }
+  },
+  {
     "id": "401",
     "name_cn": "尼莫〔圣诞〕",
     "name_jp": "ネモ〔サンタ〕",

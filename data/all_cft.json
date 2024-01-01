@@ -1,5 +1,157 @@
 [
   {
+    "id": "1963",
+    "name": "我が愛しき日々",
+    "name_link": "我が愛しき日々",
+    "name_other": "",
+    "des": "ヤマトタケル(セイバー)装備時のみ、自身がフィールドにいる間、味方全体に〔神性〕特攻状態を15%付与＆〔魔性〕特攻状態を15%付与",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/e/e3/礼装1963.jpg",
+      "skill_icon": "/images/3/3a/特攻.png"
+    },
+    "local": {
+      "cft_icon": "礼装1963.jpg",
+      "skill_icon": "特攻.png"
+    }
+  },
+  {
+    "id": "1962",
+    "name": "概念礼装EXPカード：おせちもいいんですけど",
+    "name_link": "概念礼装EXPカード：おせちもいいんですけど",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/6/68/礼装1962.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1962.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1961",
+    "name": "ドラゴン・ダンス",
+    "name_link": "ドラゴン・ダンス",
+    "name_other": "",
+    "des": "自身の宝具威力を15%アップ",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/f/fa/礼装1961.jpg",
+      "skill_icon": "/images/d/d9/宝具威力提升.png"
+    },
+    "local": {
+      "cft_icon": "礼装1961.jpg",
+      "skill_icon": "宝具威力提升.png"
+    }
+  },
+  {
+    "id": "1960",
+    "name": "環太平洋地帯にて",
+    "name_link": "環太平洋地帯にて",
+    "name_other": "",
+    "des": "クエストクリアで得られるQPを2024増やす",
+    "des_max": "クエストクリアで得られるQPを2024増やす ＋ 自身のArtsカード性能を2.4%アップ[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/f/f3/礼装1960.jpg",
+      "skill_icon": "/images/d/d1/QP掉落.png"
+    },
+    "local": {
+      "cft_icon": "礼装1960.jpg",
+      "skill_icon": "QP掉落.png"
+    }
+  },
+  {
+    "id": "1959",
+    "name": "咲初めに鶴",
+    "name_link": "咲初めに鶴",
+    "name_other": "",
+    "des": "自身のスター集中度を200%アップ＆宝具使用時にチャージ段階を1段階分上げる(1回)",
+    "des_max": "自身のスター集中度を300%アップ＆宝具使用時にチャージ段階を1段階分上げる(1回)[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/c/c6/礼装1959.jpg",
+      "skill_icon": "/images/7/7a/集星.png"
+    },
+    "local": {
+      "cft_icon": "礼装1959.jpg",
+      "skill_icon": "集星.png"
+    }
+  },
+  {
+    "id": "1958",
+    "name": "女神の御籤",
+    "name_link": "女神の御籤",
+    "name_other": "",
+    "des": "自身のArtsカード性能を6%アップ＆Busterカード性能を6%アップ＆NPを40%チャージした状態でバトルを開始する ＋ 登場時にスターを12個獲得(1回)",
+    "des_max": "自身のArtsカード性能を8%アップ＆Busterカード性能を8%アップ＆NPを50%チャージした状態でバトルを開始する ＋ 登場時にスターを15個獲得(1回)[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/3/39/礼装1958.jpg",
+      "skill_icon": "/images/1/17/红蓝放.png"
+    },
+    "local": {
+      "cft_icon": "礼装1958.jpg",
+      "skill_icon": "红蓝放.png"
+    }
+  },
+  {
+    "id": "1957",
+    "name": "緋毛の燎原",
+    "name_link": "緋毛の燎原",
+    "name_other": "",
+    "des": "〔原初の産毛〕のドロップ率を5%アップする<元のドロップ率に対して乗算>",
+    "des_max": "〔原初の産毛〕のドロップ率を25%アップする<元のドロップ率に対して乗算>[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/d/d1/礼装1957.jpg",
+      "skill_icon": "/images/0/0f/宝箱.png"
+    },
+    "local": {
+      "cft_icon": "礼装1957.jpg",
+      "skill_icon": "宝箱.png"
+    }
+  },
+  {
+    "id": "1956",
+    "name": "サテライトステーション23-24",
+    "name_link": "サテライトステーション23-24",
+    "name_other": "",
+    "des": "クエストクリア時に得られる魔術礼装EXPを50増やす",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/0/0e/礼装1956.jpg",
+      "skill_icon": "/images/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装1956.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
     "id": "1955",
     "name": "2023年的圣夜快送",
     "name_link": "2023年的圣夜快送",

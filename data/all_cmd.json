@@ -1,5 +1,25 @@
 [
   {
+    "id": "159",
+    "name": "カプセルセイバードラゴン",
+    "name_link": "カプセルセイバードラゴン",
+    "name_other": "",
+    "des": "Busterカードに刻印時のみ、刻印されたカードのスター集中度を100%アップ",
+    "tag": "",
+    "type": "未知",
+    "method": "",
+    "method_link": "",
+    "method_link_text": "",
+    "online": {
+      "cmd_icon": "/images/f/f9/纹章159.png",
+      "skill_icon": "/images/7/74/红卡集星.png"
+    },
+    "local": {
+      "cmd_icon": "纹章159.png",
+      "skill_icon": "红卡集星.png"
+    }
+  },
+  {
     "id": "158",
     "name": "鹤誓相闻歌",
     "name_link": "鹤誓相闻歌",
