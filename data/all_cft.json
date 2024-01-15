@@ -1,5 +1,43 @@
 [
   {
+    "id": "1965",
+    "name": "盈月の儀",
+    "name_link": "盈月の儀",
+    "name_other": "",
+    "des": "クエストクリア時に得られるマスターEXPを50増やす",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/2/22/礼装1965.jpg",
+      "skill_icon": "/images/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装1965.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "1964",
+    "name": "妖精國お正月興行",
+    "name_link": "妖精國お正月興行",
+    "name_other": "",
+    "des": "サポートで得られるフレンドポイントが＋10される(重複可能)",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/1/1a/礼装1964.jpg",
+      "skill_icon": "/images/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装1964.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
     "id": "1963",
     "name": "我珍爱的时光",
     "name_link": "我珍爱的时光",
