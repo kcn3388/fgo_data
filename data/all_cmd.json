@@ -1,5 +1,65 @@
 [
   {
+    "id": "162",
+    "name": "ソラ渉る天元の花",
+    "name_link": "ソラ渉る天元の花",
+    "name_other": "",
+    "des": "刻印されたカードに無敵貫通効果を付与＆クリティカル威力を10%アップ",
+    "tag": "",
+    "type": "未知",
+    "method": "",
+    "method_link": "",
+    "method_link_text": "",
+    "online": {
+      "cmd_icon": "/images/5/52/纹章162.png",
+      "skill_icon": "/images/4/4a/无敌贯通.png"
+    },
+    "local": {
+      "cmd_icon": "纹章162.png",
+      "skill_icon": "无敌贯通.png"
+    }
+  },
+  {
+    "id": "161",
+    "name": "紅玉の書",
+    "name_link": "紅玉の書",
+    "name_other": "",
+    "des": "刻印されたカードによる攻撃時に、敵単体にやけど状態(500ダメージ・3ターン)を付与 ＋ 刻印されたカードのNP獲得量を5%アップ",
+    "tag": "",
+    "type": "未知",
+    "method": "",
+    "method_link": "",
+    "method_link_text": "",
+    "online": {
+      "cmd_icon": "/images/1/11/纹章161.png",
+      "skill_icon": "/images/4/4b/灼伤.png"
+    },
+    "local": {
+      "cmd_icon": "纹章161.png",
+      "skill_icon": "灼伤.png"
+    }
+  },
+  {
+    "id": "160",
+    "name": "窮地のお供",
+    "name_link": "窮地のお供",
+    "name_other": "",
+    "des": "刻印されたカードによる攻撃時に、自身の攻撃弱体状態を1つ解除＆HPを100回復",
+    "tag": "",
+    "type": "未知",
+    "method": "",
+    "method_link": "",
+    "method_link_text": "",
+    "online": {
+      "cmd_icon": "/images/d/d1/纹章160.png",
+      "skill_icon": "/images/e/ea/弱化解除.png"
+    },
+    "local": {
+      "cmd_icon": "纹章160.png",
+      "skill_icon": "弱化解除.png"
+    }
+  },
+  {
     "id": "159",
     "name": "胶囊Saber龙",
     "name_link": "胶囊Saber龙",
