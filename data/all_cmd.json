@@ -4,12 +4,12 @@
     "name": "漂泊虚空的天元之花",
     "name_link": "漂泊虚空的天元之花",
     "name_other": "",
-    "des": "刻印されたカードに無敵貫通効果を付与＆クリティカル威力を10%アップ",
+    "des": "付与被刻印的指令卡无敌贯通效果＆暴击威力提升10%",
     "tag": "",
-    "type": "未知",
-    "method": "",
-    "method_link": "",
-    "method_link_text": "",
+    "type": "活动奖励",
+    "method": "活动%LINK%奖励",
+    "method_link": "盈月剑风帖",
+    "method_link_text": "盈月剑风帖",
     "online": {
       "cmd_icon": "/images/5/52/纹章162.png",
       "skill_icon": "/images/4/4a/无敌贯通.png"
@@ -24,12 +24,12 @@
     "name": "红玉之书",
     "name_link": "红玉之书",
     "name_other": "",
-    "des": "刻印されたカードによる攻撃時に、敵単体にやけど状態(500ダメージ・3ターン)を付与 ＋ 刻印されたカードのNP獲得量を5%アップ",
+    "des": "当使用被刻印的指令卡进行攻击时，付与敌方单体灼伤状态(500伤害·3回合) ＋ 被刻印的指令卡NP获得量提升5%",
     "tag": "",
-    "type": "未知",
-    "method": "",
-    "method_link": "",
-    "method_link_text": "",
+    "type": "活动奖励",
+    "method": "活动%LINK%奖励",
+    "method_link": "盈月剑风帖",
+    "method_link_text": "盈月剑风帖",
     "online": {
       "cmd_icon": "/images/1/11/纹章161.png",
       "skill_icon": "/images/4/4b/灼伤.png"
@@ -44,12 +44,12 @@
     "name": "困境的陪伴",
     "name_link": "困境的陪伴",
     "name_other": "",
-    "des": "刻印されたカードによる攻撃時に、自身の攻撃弱体状態を1つ解除＆HPを100回復",
+    "des": "当使用被刻印的指令卡进行攻击时，解除1个自身的攻击弱化状态＆HP回复100",
     "tag": "",
-    "type": "未知",
-    "method": "",
-    "method_link": "",
-    "method_link_text": "",
+    "type": "活动奖励",
+    "method": "活动%LINK%奖励",
+    "method_link": "盈月剑风帖",
+    "method_link_text": "盈月剑风帖",
     "online": {
       "cmd_icon": "/images/d/d1/纹章160.png",
       "skill_icon": "/images/e/ea/弱化解除.png"
@@ -67,9 +67,9 @@
     "des": "仅当被刻印在Buster指令卡上时，被刻印的指令卡暴击星集中度提升100%",
     "tag": "",
     "type": "活动奖励",
-    "method": "",
-    "method_link": "",
-    "method_link_text": "",
+    "method": "活动%LINK%奖励",
+    "method_link": "2024年新年活动",
+    "method_link_text": "2024年新年活动",
     "online": {
       "cmd_icon": "/images/f/f9/纹章159.png",
       "skill_icon": "/images/7/74/红卡集星.png"
@@ -87,9 +87,9 @@
     "des": "当使用被刻印的指令卡进行攻击时，获得3个暴击星 ＋ 被刻印的指令卡NP获得量提升5%",
     "tag": "",
     "type": "活动奖励",
-    "method": "",
-    "method_link": "",
-    "method_link_text": "",
+    "method": "活动%LINK%奖励",
+    "method_link": "雪原的圣诞快乐2023 ～7days / 8years Snow Carol～",
+    "method_link_text": "雪原的圣诞快乐2023",
     "online": {
       "cmd_icon": "/images/a/a3/纹章158.png",
       "skill_icon": "/images/b/b6/出星.png"
@@ -107,9 +107,9 @@
     "des": "当使用被刻印的指令卡进行攻击时，解除1个敌方单体的暴击威力提升状态 ＋ 被刻印的指令卡暴击威力提升10%",
     "tag": "",
     "type": "活动奖励",
-    "method": "",
-    "method_link": "",
-    "method_link_text": "",
+    "method": "活动%LINK%奖励",
+    "method_link": "雪原的圣诞快乐2023 ～7days / 8years Snow Carol～",
+    "method_link_text": "雪原的圣诞快乐2023",
     "online": {
       "cmd_icon": "/images/5/5a/纹章157.png",
       "skill_icon": "/images/b/bf/封印.png"
@@ -127,9 +127,9 @@
     "des": "当使用被刻印的指令卡进行攻击时，获得1个暴击星＋解除1个自身的封印状态",
     "tag": "",
     "type": "活动奖励",
-    "method": "",
-    "method_link": "",
-    "method_link_text": "",
+    "method": "活动%LINK%奖励",
+    "method_link": "雪原的圣诞快乐2023 ～7days / 8years Snow Carol～",
+    "method_link_text": "雪原的圣诞快乐2023",
     "online": {
       "cmd_icon": "/images/d/d4/纹章156.png",
       "skill_icon": "/images/b/b6/出星.png"
@@ -147,9 +147,9 @@
     "des": "被刻印的指令卡暴击威力提升15% ＋ 当使用被刻印的指令卡进行攻击时，获得2个暴击星",
     "tag": "",
     "type": "活动奖励",
-    "method": "",
-    "method_link": "",
-    "method_link_text": "",
+    "method": "活动%LINK%奖励",
+    "method_link": "激走！川中岛24时 唠唠叨叨超五棱郭 杀人信号是M51",
+    "method_link_text": "唠唠叨叨超五棱郭",
     "online": {
       "cmd_icon": "/images/6/6c/纹章155.png",
       "skill_icon": "/images/d/db/暴击威力提升.png"
@@ -167,9 +167,9 @@
     "des": "被刻印的指令卡暴击星集中度提升50%＆暴击威力提升10%",
     "tag": "",
     "type": "活动奖励",
-    "method": "",
-    "method_link": "",
-    "method_link_text": "",
+    "method": "活动%LINK%奖励",
+    "method_link": "激走！川中岛24时 唠唠叨叨超五棱郭 杀人信号是M51",
+    "method_link_text": "唠唠叨叨超五棱郭",
     "online": {
       "cmd_icon": "/images/c/cf/纹章154.png",
       "skill_icon": "/images/7/7a/集星.png"
@@ -187,9 +187,9 @@
     "des": "仅当被刻印在Quick指令卡上，使用被刻印的指令卡进行攻击时，获得3个暴击星",
     "tag": "",
     "type": "活动奖励",
-    "method": "",
-    "method_link": "",
-    "method_link_text": "",
+    "method": "活动%LINK%奖励",
+    "method_link": "激走！川中岛24时 唠唠叨叨超五棱郭 杀人信号是M51",
+    "method_link_text": "唠唠叨叨超五棱郭",
     "online": {
       "cmd_icon": "/images/5/55/纹章153.png",
       "skill_icon": "/images/b/b6/出星.png"
@@ -207,9 +207,9 @@
     "des": "当使用被刻印的指令卡进行攻击时，己方全体的Buster指令卡性能提升10%(1次·1回合)",
     "tag": "",
     "type": "活动奖励",
-    "method": "",
-    "method_link": "",
-    "method_link_text": "",
+    "method": "活动%LINK%奖励",
+    "method_link": "圣杯战线 ～白天之城，黑夜之城～",
+    "method_link_text": "圣杯战线 ～白天之城，黑夜之城～",
     "online": {
       "cmd_icon": "/images/8/8b/纹章152.png",
       "skill_icon": "/images/4/42/红放.png"
@@ -227,9 +227,9 @@
     "des": "付与被刻印的指令卡10%〔神性〕特攻效果 ＋ 当使用被刻印的指令卡进行攻击时，获得2个暴击星",
     "tag": "",
     "type": "活动奖励",
-    "method": "",
-    "method_link": "",
-    "method_link_text": "",
+    "method": "活动%LINK%奖励",
+    "method_link": "圣杯战线 ～白天之城，黑夜之城～",
+    "method_link_text": "圣杯战线 ～白天之城，黑夜之城～",
     "online": {
       "cmd_icon": "/images/8/8e/纹章151.png",
       "skill_icon": "/images/3/3a/特攻.png"
@@ -247,9 +247,9 @@
     "des": "付与被刻印的指令卡10%〔猛兽〕特攻效果",
     "tag": "",
     "type": "活动奖励",
-    "method": "",
-    "method_link": "",
-    "method_link_text": "",
+    "method": "活动%LINK%奖励",
+    "method_link": "圣杯战线 ～白天之城，黑夜之城～",
+    "method_link_text": "圣杯战线 ～白天之城，黑夜之城～",
     "online": {
       "cmd_icon": "/images/1/14/纹章150.png",
       "skill_icon": "/images/3/3a/特攻.png"
@@ -267,9 +267,9 @@
     "des": "仅在有〔阳光照射〕场地上时，被刻印的指令卡暴击威力提升30%",
     "tag": "",
     "type": "活动奖励",
-    "method": "",
-    "method_link": "",
-    "method_link_text": "",
+    "method": "活动%LINK%奖励",
+    "method_link": "从者·夏日·庆典2023！",
+    "method_link_text": "从者·夏日·庆典2023！",
     "online": {
       "cmd_icon": "/images/2/24/纹章149.png",
       "skill_icon": "/images/d/db/暴击威力提升.png"
@@ -287,9 +287,9 @@
     "des": "付与被刻印的指令卡无视防御效果 ＋ 当使用被刻印的指令卡进行攻击时，获得2个暴击星",
     "tag": "",
     "type": "活动奖励",
-    "method": "",
-    "method_link": "",
-    "method_link_text": "",
+    "method": "活动%LINK%奖励",
+    "method_link": "从者·夏日·庆典2023！",
+    "method_link_text": "从者·夏日·庆典2023！",
     "online": {
       "cmd_icon": "/images/8/8c/纹章148.png",
       "skill_icon": "/images/3/3a/特攻.png"
@@ -307,9 +307,9 @@
     "des": "仅当被刻印在Arts指令卡上时，被刻印的指令卡暴击威力提升10% ＋ 当使用被刻印的指令卡进行攻击时，获得1个暴击星",
     "tag": "",
     "type": "活动奖励",
-    "method": "",
-    "method_link": "",
-    "method_link_text": "",
+    "method": "活动%LINK%奖励",
+    "method_link": "从者·夏日·庆典2023！",
+    "method_link_text": "从者·夏日·庆典2023！",
     "online": {
       "cmd_icon": "/images/d/d5/纹章147.png",
       "skill_icon": "/images/d/db/暴击威力提升.png"
@@ -327,9 +327,9 @@
     "des": "被刻印的指令卡NP获得量提升3% ＋ 当使用被刻印的指令卡进行攻击时，获得1个暴击星",
     "tag": "",
     "type": "活动奖励",
-    "method": "",
-    "method_link": "",
-    "method_link_text": "",
+    "method": "活动%LINK%奖励",
+    "method_link": "Fate/Grand Order ～8th Anniversary～",
+    "method_link_text": "Fate/Grand Order ～8th Anniversary～",
     "online": {
       "cmd_icon": "/images/3/3b/纹章146.png",
       "skill_icon": "/images/4/42/NP获得量提升.png"
