@@ -8,7 +8,7 @@
     "cmd_icon": "纹章162.png",
     "skill_icon": "无敌贯通.png",
     "error": [
-      "cmd162 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd162 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%BC%82%E6%B3%8A%E8%99%9A%E7%A9%BA%E7%9A%84%E5%A4%A9%E5%85%83%E4%B9%8B%E8%8A%B1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -20,7 +20,7 @@
     "cmd_icon": "纹章161.png",
     "skill_icon": "灼伤.png",
     "error": [
-      "cmd161 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd161 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%BA%A2%E7%8E%89%E4%B9%8B%E4%B9%A6 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -32,7 +32,7 @@
     "cmd_icon": "纹章160.png",
     "skill_icon": "弱化解除.png",
     "error": [
-      "cmd160 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd160 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%9B%B0%E5%A2%83%E7%9A%84%E9%99%AA%E4%BC%B4 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -44,7 +44,7 @@
     "cmd_icon": "纹章159.png",
     "skill_icon": "红卡集星.png",
     "error": [
-      "cmd159 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd159 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E8%83%B6%E5%9B%8ASaber%E9%BE%99 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -56,7 +56,7 @@
     "cmd_icon": "纹章158.png",
     "skill_icon": "出星.png",
     "error": [
-      "cmd158 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd158 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E9%B9%A4%E8%AA%93%E7%9B%B8%E9%97%BB%E6%AD%8C (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -68,7 +68,7 @@
     "cmd_icon": "纹章157.png",
     "skill_icon": "封印.png",
     "error": [
-      "cmd157 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd157 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E9%87%91%E8%89%B2%E4%B8%89%E5%8F%89%E6%88%9F (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -80,7 +80,7 @@
     "cmd_icon": "纹章156.png",
     "skill_icon": "出星.png",
     "error": [
-      "cmd156 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd156 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%89%BF%E8%BD%BD%E5%9C%A3%E5%A4%9C%E7%9A%84%E9%A9%AF%E9%B9%BF%E4%B9%8B%E5%B8%BD (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -92,7 +92,7 @@
     "cmd_icon": "纹章155.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd155 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd155 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%97%A0%E6%95%8C%E9%98%BF%E4%B8%80 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -104,7 +104,7 @@
     "cmd_icon": "纹章154.png",
     "skill_icon": "集星.png",
     "error": [
-      "cmd154 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd154 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%94%BE%E7%94%9F%E6%9C%88%E6%AF%9B (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -116,7 +116,7 @@
     "cmd_icon": "纹章153.png",
     "skill_icon": "出星.png",
     "error": [
-      "cmd153 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd153 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E9%A3%99%E8%BD%A6%E4%BF%A1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -128,7 +128,7 @@
     "cmd_icon": "纹章152.png",
     "skill_icon": "红放.png",
     "error": [
-      "cmd152 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd152 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%90%9B%E4%B8%B4%E5%B0%BD%E5%A4%B4%E7%9A%84%E5%A4%A7%E7%8E%8B (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -140,7 +140,7 @@
     "cmd_icon": "纹章151.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd151 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd151 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%89%93%E5%9E%AE%E7%A5%9E%E4%B9%8B%E9%9E%AD (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -152,7 +152,7 @@
     "cmd_icon": "纹章150.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd150 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd150 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%94%AF%E9%85%8D%E8%80%85%E4%B9%8B%E5%B8%BD (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -164,7 +164,7 @@
     "cmd_icon": "纹章149.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd149 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd149 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%A4%AA%E9%98%B3%E5%B0%91%E5%A5%B3%E7%8B%BC (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -176,7 +176,7 @@
     "cmd_icon": "纹章148.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd148 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd148 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%99%AE%E5%88%A9%E5%A4%9A%E6%B8%A9(%E6%8C%87%E4%BB%A4%E7%BA%B9%E7%AB%A0) (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -188,7 +188,7 @@
     "cmd_icon": "纹章147.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd147 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd147 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%A7%90%E5%A7%90%E8%88%AC%E7%9A%84%E5%9C%A3%E5%A5%B3%E7%9A%84%E9%9A%8F%E4%BB%8E (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -200,7 +200,7 @@
     "cmd_icon": "纹章146.png",
     "skill_icon": "NP获得量提升.png",
     "error": [
-      "cmd146 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd146 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E8%99%9A%E6%95%B0%E6%8C%87%E5%8D%97%E9%92%88 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -212,7 +212,7 @@
     "cmd_icon": "纹章145.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd145 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd145 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E4%BA%BA%E9%80%A0%E5%A5%B3%E5%BF%8D%E8%80%85 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -224,7 +224,7 @@
     "cmd_icon": "纹章144.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd144 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd144 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E9%9B%95%E5%88%BB%E7%90%86%E6%83%B3%E7%9A%84%E7%8E%8B%E4%B9%8B%E5%87%BF (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -236,7 +236,7 @@
     "cmd_icon": "纹章143.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd143 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd143 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E9%9B%AA%E4%B9%8B%E5%A9%B4%E5%84%BF%E7%9A%84%E6%88%98%E5%8F%8B (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -248,7 +248,7 @@
     "cmd_icon": "纹章142.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd142 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd142 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%B5%AA%E6%BC%AB%E4%B9%8B%E6%9E%AA (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -260,7 +260,7 @@
     "cmd_icon": "纹章141.png",
     "skill_icon": "NP获得量提升.png",
     "error": [
-      "cmd141 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd141 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%85%A8%E7%9F%A5%E7%9A%84%E7%B2%98%E5%9C%9F%E6%9D%BF (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -272,7 +272,7 @@
     "cmd_icon": "纹章140.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd140 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd140 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E9%9D%92%E7%A2%A7%E7%81%B5%E5%AD%90%E7%9A%84%E4%BB%A4%E5%8D%B0 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -284,7 +284,7 @@
     "cmd_icon": "纹章139.png",
     "skill_icon": "集星.png",
     "error": [
-      "cmd139 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd139 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%94%B5%E7%A3%81%E4%B8%89%E5%91%B3%E7%BA%BF (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -296,7 +296,7 @@
     "cmd_icon": "纹章138.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd138 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd138 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%97%A0%E5%81%BF%E4%B9%8B%E7%88%B1%E7%9A%84%E4%BC%A0%E9%81%93%E8%80%85 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -308,7 +308,7 @@
     "cmd_icon": "纹章137.png",
     "skill_icon": "诅咒.png",
     "error": [
-      "cmd137 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd137 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%B5%85%E7%9C%A0%E7%82%B8%E5%BC%B9 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -320,7 +320,7 @@
     "cmd_icon": "纹章136.png",
     "skill_icon": "封印.png",
     "error": [
-      "cmd136 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd136 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%A5%9E%E5%9C%A3%E7%BA%B8%E8%A2%8B (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -332,7 +332,7 @@
     "cmd_icon": "纹章135.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd135 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd135 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E9%9D%A9%E6%96%B0%E8%80%85%E4%B9%8B%E8%80%B3 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -344,7 +344,7 @@
     "cmd_icon": "纹章134.png",
     "skill_icon": "集星.png",
     "error": [
-      "cmd134 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd134 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/Lady%20Justice (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -356,7 +356,7 @@
     "cmd_icon": "纹章133.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd133 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd133 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E9%BE%99%E7%88%AA%E5%A6%82%E6%B9%96%E5%85%89 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -368,7 +368,7 @@
     "cmd_icon": "纹章132.png",
     "skill_icon": "回血.png",
     "error": [
-      "cmd132 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd132 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E9%AB%98%E8%B7%9F%E9%9E%8B%E5%85%AC%E4%B8%BB (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -380,7 +380,7 @@
     "cmd_icon": "纹章131.png",
     "skill_icon": "诅咒.png",
     "error": [
-      "cmd131 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd131 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%B7%B1%E6%B8%8A%E7%A5%9E%E6%AE%BF%E9%AA%91%E5%A3%AB (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -392,7 +392,7 @@
     "cmd_icon": "纹章130.png",
     "skill_icon": "集星.png",
     "error": [
-      "cmd130 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd130 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E9%9D%92%E9%BE%99%E4%B9%9D%E8%8A%82%E6%A3%8D (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -404,7 +404,7 @@
     "cmd_icon": "纹章129.png",
     "skill_icon": "强化解除耐性提升.png",
     "error": [
-      "cmd129 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd129 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%9B%9B%E4%B8%8D%E7%9B%B8%E5%90%9B (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -416,7 +416,7 @@
     "cmd_icon": "纹章128.png",
     "skill_icon": "灼伤.png",
     "error": [
-      "cmd128 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd128 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%97%A5%E8%BD%AE%E7%9A%84%E5%AE%A0%E5%A7%AC (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -428,7 +428,7 @@
     "cmd_icon": "纹章127.png",
     "skill_icon": "弱化无效.png",
     "error": [
-      "cmd127 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd127 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E4%B9%85%E8%BF%9C%E4%B9%8B%E9%95%9C (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -440,7 +440,7 @@
     "cmd_icon": "纹章126.png",
     "skill_icon": "弱化解除.png",
     "error": [
-      "cmd126 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd126 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E8%8C%B6%E4%BF%A1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -452,7 +452,7 @@
     "cmd_icon": "纹章125.png",
     "skill_icon": "弱化解除.png",
     "error": [
-      "cmd125 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd125 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E9%9B%AA%E5%8E%9F%E7%9A%84%E5%A9%B4%E5%84%BF (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -464,7 +464,7 @@
     "cmd_icon": "纹章124.png",
     "skill_icon": "集星.png",
     "error": [
-      "cmd124 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd124 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%A0%87%E5%89%91%E4%BB%97 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -476,7 +476,7 @@
     "cmd_icon": "纹章123.png",
     "skill_icon": "封印.png",
     "error": [
-      "cmd123 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd123 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%99%9A%E5%AE%89%EF%BC%8C%E7%BB%B4 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -488,7 +488,7 @@
     "cmd_icon": "纹章122.png",
     "skill_icon": "出星.png",
     "error": [
-      "cmd122 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd122 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%8C%AB%E5%92%AA%C2%B7%E7%8C%AB%E5%92%AA%E8%8E%B1%E7%89%B9 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -500,7 +500,7 @@
     "cmd_icon": "纹章121.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd121 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd121 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%B5%81%E7%A6%BB%E5%A4%B1%E6%89%80%E7%9A%84%E7%88%B1%E4%B9%8B%E5%88%83 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -512,7 +512,7 @@
     "cmd_icon": "纹章120.png",
     "skill_icon": "出星.png",
     "error": [
-      "cmd120 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd120 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%97%A5%E8%BD%AE%E7%9A%84%E7%94%BB%E7%AC%94 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -524,7 +524,7 @@
     "cmd_icon": "纹章119.png",
     "skill_icon": "红卡集星.png",
     "error": [
-      "cmd119 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd119 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%8D%A1%E7%93%A6%E6%96%AF%E2%85%A1%E4%B8%96 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -536,7 +536,7 @@
     "cmd_icon": "纹章118.png",
     "skill_icon": "宝具威力提升.png",
     "error": [
-      "cmd118 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd118 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%A0%B4%E5%9D%8F%E4%B9%8B%E6%98%9F (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -548,7 +548,7 @@
     "cmd_icon": "纹章117.png",
     "skill_icon": "封印.png",
     "error": [
-      "cmd117 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd117 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%84%89%E5%BF%AB%E7%9A%84%E4%BC%99%E4%BC%B4%E4%BB%AC (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -560,7 +560,7 @@
     "cmd_icon": "纹章116.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd116 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd116 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E8%93%9D%E8%89%B2%E5%B7%A8%E7%89%9B (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -572,7 +572,7 @@
     "cmd_icon": "纹章115.png",
     "skill_icon": "宝具威力提升.png",
     "error": [
-      "cmd115 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd115 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%A9%BA%E4%B8%AD%E5%BA%AD%E5%9B%AD%E7%9A%84%E5%A5%B3%E5%B8%9D (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -584,7 +584,7 @@
     "cmd_icon": "纹章114.png",
     "skill_icon": "NP获得量提升.png",
     "error": [
-      "cmd114 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd114 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E9%9B%A8%E4%B8%8E%E6%98%9F%E4%B9%8B%E7%AB%A5%E8%AF%9D (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -596,7 +596,7 @@
     "cmd_icon": "纹章113.png",
     "skill_icon": "封印.png",
     "error": [
-      "cmd113 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd113 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%B0%8F%E8%B4%AA (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -608,7 +608,7 @@
     "cmd_icon": "纹章112.png",
     "skill_icon": "宝具威力提升.png",
     "error": [
-      "cmd112 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd112 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E9%97%A8%E6%B4%9B%E5%B8%95%E5%85%8B%E7%9A%84%E9%AD%94%E6%9C%AF%E5%B8%88 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -620,7 +620,7 @@
     "cmd_icon": "纹章111.png",
     "skill_icon": "出星.png",
     "error": [
-      "cmd111 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd111 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%BB%88%E7%84%89%E7%9A%84%E5%A4%A7%E6%9C%A8%E9%A9%AC (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -632,7 +632,7 @@
     "cmd_icon": "纹章110.png",
     "skill_icon": "蓝卡集星.png",
     "error": [
-      "cmd110 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd110 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E4%B8%8A%E6%A0%A1%E5%9E%8B%E8%87%AA%E5%8A%A8%E4%BA%BA%E5%81%B6 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -644,7 +644,7 @@
     "cmd_icon": "纹章109.png",
     "skill_icon": "出星.png",
     "error": [
-      "cmd109 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd109 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%90%AD%E6%A1%A3%E6%88%92%E6%8C%87%E3%80%94SILVER%E3%80%95 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -656,7 +656,7 @@
     "cmd_icon": "纹章108.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd108 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd108 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%86%A5%E7%95%8C%E4%B9%8B%E8%8A%B1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -668,7 +668,7 @@
     "cmd_icon": "纹章107.png",
     "skill_icon": "必中.png",
     "error": [
-      "cmd107 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd107 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E9%80%86%E8%BD%AC%E5%9B%A0%E6%9E%9C%E7%9A%84%E9%AD%94%E6%9E%AA (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -680,7 +680,7 @@
     "cmd_icon": "纹章106.png",
     "skill_icon": "出星.png",
     "error": [
-      "cmd106 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd106 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%90%AD%E6%A1%A3%E6%88%92%E6%8C%87%E3%80%94GOLD%E3%80%95 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -692,7 +692,7 @@
     "cmd_icon": "纹章105.png",
     "skill_icon": "封印.png",
     "error": [
-      "cmd105 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd105 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%BE%8E%E6%B4%B2%E8%B1%B9%E6%88%98%E5%A3%AB (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -704,7 +704,7 @@
     "cmd_icon": "纹章104.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd104 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd104 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E9%9B%80%E4%B9%8B%E6%97%85%E9%A6%86%E7%9A%84%E8%80%81%E6%9D%BF%E5%A8%98 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -716,7 +716,7 @@
     "cmd_icon": "纹章103.png",
     "skill_icon": "回血.png",
     "error": [
-      "cmd103 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd103 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E4%B8%87%E7%96%B5%E5%BF%85%E5%BA%94%E4%BF%AE%E8%A1%A5 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -728,7 +728,7 @@
     "cmd_icon": "纹章102.png",
     "skill_icon": "弱化解除.png",
     "error": [
-      "cmd102 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd102 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E9%98%8E%E9%AD%94%E4%BA%AD%E7%9A%84%E5%AD%A6%E5%BE%92%E4%BB%AC (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -740,7 +740,7 @@
     "cmd_icon": "纹章101.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd101 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd101 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E9%AC%BC%E4%B9%8B%E5%89%AF%E9%95%BF (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -752,7 +752,7 @@
     "cmd_icon": "纹章100.png",
     "skill_icon": "蓝卡集星.png",
     "error": [
-      "cmd100 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd100 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%B8%A9%E6%9F%94%E7%9A%84%E6%84%BF%E6%9C%9B (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -764,7 +764,7 @@
     "cmd_icon": "纹章099.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd99 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd99 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E4%BF%A1%E9%80%89%E7%BB%84 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -776,7 +776,7 @@
     "cmd_icon": "纹章098.png",
     "skill_icon": "出星.png",
     "error": [
-      "cmd98 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd98 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E9%93%B6%E9%92%A5%E7%9A%84%E5%B7%AB%E5%A5%B3 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -788,7 +788,7 @@
     "cmd_icon": "纹章097.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd97 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd97 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%B9%BB%E6%83%B3%E9%93%81%E5%A4%84%E5%A5%B3 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -800,7 +800,7 @@
     "cmd_icon": "纹章096.png",
     "skill_icon": "弱化解除.png",
     "error": [
-      "cmd96 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd96 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E9%85%8D%E5%AF%B9%E7%9A%84%E5%B0%8F%E7%86%8A (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -812,7 +812,7 @@
     "cmd_icon": "纹章095.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd95 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd95 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%8D%83%E4%BB%A3%E7%BA%B8%E5%A4%A7%E9%98%9F%E9%95%BF (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -824,7 +824,7 @@
     "cmd_icon": "纹章094.png",
     "skill_icon": "出星.png",
     "error": [
-      "cmd94 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd94 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E8%BF%B7%E4%BD%A0Border (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -836,7 +836,7 @@
     "cmd_icon": "纹章093.png",
     "skill_icon": "诅咒.png",
     "error": [
-      "cmd93 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd93 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%A6%96%E5%85%BD%E7%9A%84%E7%AC%A6%E5%92%92 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -848,7 +848,7 @@
     "cmd_icon": "纹章092.png",
     "skill_icon": "出星.png",
     "error": [
-      "cmd92 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd92 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E8%B0%9C%E4%B9%8B%E9%9D%A2%E5%85%B7 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -860,7 +860,7 @@
     "cmd_icon": "纹章091.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd91 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd91 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%AF%B9Saber%E7%94%A8%E5%86%B3%E6%88%98%E5%85%B5%E5%99%A8 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -872,7 +872,7 @@
     "cmd_icon": "纹章090.png",
     "skill_icon": "灼伤.png",
     "error": [
-      "cmd90 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd90 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E9%99%A8%E9%93%81%E4%B9%8B%E9%9E%B4 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -884,7 +884,7 @@
     "cmd_icon": "纹章089.png",
     "skill_icon": "封印.png",
     "error": [
-      "cmd89 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd89 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%81%B6%E5%83%8F%E2%98%86%E5%B8%BD%E5%AD%90 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -896,7 +896,7 @@
     "cmd_icon": "纹章088.png",
     "skill_icon": "封印.png",
     "error": [
-      "cmd88 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd88 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E4%BC%98%E9%9B%85%E5%85%B8%E9%9B%85%E7%9A%84%E6%80%AA%E7%9B%97%E5%B8%BD (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -908,7 +908,7 @@
     "cmd_icon": "纹章087.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd87 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd87 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%81%8B%E7%88%B1%E7%9A%84%E6%9C%88%E4%B9%8B%E5%A5%B3%E7%A5%9E (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -920,7 +920,7 @@
     "cmd_icon": "纹章086.png",
     "skill_icon": "弱化解除.png",
     "error": [
-      "cmd86 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd86 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%81%8B%E4%BA%BA%E4%BB%AC%E7%9A%84%E5%9C%A3%E9%AA%B8%E5%B8%83 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -932,7 +932,7 @@
     "cmd_icon": "纹章085.png",
     "skill_icon": "封印.png",
     "error": [
-      "cmd85 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd85 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E8%97%A4%E7%B4%AB%E8%89%B2%E9%AD%94%E5%A5%B3%E7%9A%84%E4%BB%A4%E5%8D%B0 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -944,7 +944,7 @@
     "cmd_icon": "纹章084.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd84 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd84 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E9%9E%8D%E9%A9%AC%E7%9A%84%E5%A4%A9%E6%89%8D (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -956,7 +956,7 @@
     "cmd_icon": "纹章083.png",
     "skill_icon": "封印.png",
     "error": [
-      "cmd83 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd83 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%A4%A9%E7%8B%97%E7%9A%84%E7%BE%BD%E5%9B%A2%E6%89%87 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -968,7 +968,7 @@
     "cmd_icon": "纹章082.png",
     "skill_icon": "出星.png",
     "error": [
-      "cmd82 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd82 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E8%BF%B7%E4%BD%A0%E7%89%9B%E8%8B%A5 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -980,7 +980,7 @@
     "cmd_icon": "纹章081.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd81 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd81 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E8%83%8C%E8%B4%9F%E7%A5%96%E6%AF%8D%E7%9A%84%E5%AD%98%E5%9C%A8 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -992,7 +992,7 @@
     "cmd_icon": "纹章080.png",
     "skill_icon": "出星.png",
     "error": [
-      "cmd80 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd80 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%A4%A9%E6%8E%88%E7%9A%84%E8%8B%B1%E9%9B%84 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1004,7 +1004,7 @@
     "cmd_icon": "纹章079.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd79 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd79 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E9%BE%99%E4%B9%8B%E5%9C%A3%E5%A5%B3%E4%B9%8B%E6%9D%96 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1016,7 +1016,7 @@
     "cmd_icon": "纹章078.png",
     "skill_icon": "毒.png",
     "error": [
-      "cmd78 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd78 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E4%B8%8D%E8%AF%86%E7%88%B1%E7%9A%84%E6%82%B2%E5%93%80%E4%B9%8B%E9%BE%99 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1028,7 +1028,7 @@
     "cmd_icon": "纹章077.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd77 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd77 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%A4%A9%E5%B8%9D%E7%9A%84%E8%B4%B5%E5%A6%83 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1040,7 +1040,7 @@
     "cmd_icon": "纹章076.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd76 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd76 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%83%A6%E6%81%BC%E5%BF%85%E7%81%AD%E4%B9%8B%E6%9D%B5 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1052,7 +1052,7 @@
     "cmd_icon": "纹章075.png",
     "skill_icon": "回血.png",
     "error": [
-      "cmd75 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd75 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%88%A9%E7%BB%B4%E5%9D%A6 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1064,7 +1064,7 @@
     "cmd_icon": "纹章074.png",
     "skill_icon": "集星.png",
     "error": [
-      "cmd74 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd74 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E9%AD%94%E7%A5%9E(%E4%BA%BA)%E5%B0%8F%E5%A7%90 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1076,7 +1076,7 @@
     "cmd_icon": "纹章073.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd73 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd73 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E9%AD%94%E7%8E%8B%E9%93%B3 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1088,7 +1088,7 @@
     "cmd_icon": "纹章072.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd72 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd72 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E8%BF%B7%E4%BD%A0%E4%BF%A1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1100,7 +1100,7 @@
     "cmd_icon": "纹章071.png",
     "skill_icon": "宝具威力提升.png",
     "error": [
-      "cmd71 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd71 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%A4%A7%E5%AE%B6%E7%9A%84%E5%B0%91%E5%A5%B3%E8%BE%BE%C2%B7%E8%8A%AC%E5%A5%87%E4%BA%B2 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1112,7 +1112,7 @@
     "cmd_icon": "纹章070.png",
     "skill_icon": "出星.png",
     "error": [
-      "cmd70 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd70 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E8%BF%9C%E5%BE%81%E4%B8%A4%E4%B8%87%E9%87%8C%E7%9A%84%E9%B9%A6%E9%B9%89%E8%9E%BA (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1124,7 +1124,7 @@
     "cmd_icon": "纹章069.png",
     "skill_icon": "封印.png",
     "error": [
-      "cmd69 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd69 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E8%BF%B7%E4%BD%A0%E5%B0%8F%E5%BA%93(%E6%8C%87%E4%BB%A4%E7%BA%B9%E7%AB%A0) (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1136,7 +1136,7 @@
     "cmd_icon": "纹章068.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd68 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd68 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%9A%87%E5%AE%B6%E5%85%94%E5%A5%B3%E9%83%8E (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1148,7 +1148,7 @@
     "cmd_icon": "纹章067.png",
     "skill_icon": "弱化耐性提升.png",
     "error": [
-      "cmd67 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd67 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%BD%97%E9%BE%99%E9%9D%A2%E5%85%B7 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1160,7 +1160,7 @@
     "cmd_icon": "纹章066.png",
     "skill_icon": "灼伤.png",
     "error": [
-      "cmd66 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd66 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%9C%9F%E7%BA%A2%E4%BB%99%E5%A5%B3%E7%9A%84%E4%BB%A4%E5%8D%B0 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1172,7 +1172,7 @@
     "cmd_icon": "纹章065.png",
     "skill_icon": "NP获得量提升.png",
     "error": [
-      "cmd65 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd65 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%B7%A8%E4%BA%BA%E5%9C%B0%E7%AA%96%E7%9A%84%E7%BA%B9%E7%AB%A0 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1184,7 +1184,7 @@
     "cmd_icon": "纹章064.png",
     "skill_icon": "集星.png",
     "error": [
-      "cmd64 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd64 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%B3%95%E5%85%B0%E8%A5%BF%E4%B8%87%E5%B2%81 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1196,7 +1196,7 @@
     "cmd_icon": "纹章063.png",
     "skill_icon": "出星.png",
     "error": [
-      "cmd63 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd63 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%98%9F%E4%B9%8B%E6%B5%B7%E7%9A%84%E8%88%AA%E6%B5%B7%E8%AF%81 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1208,7 +1208,7 @@
     "cmd_icon": "纹章062.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd62 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd62 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%B7%A1%E9%9D%92%E5%B0%B8%E8%80%85%E7%9A%84%E4%BB%A4%E5%8D%B0 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1220,7 +1220,7 @@
     "cmd_icon": "纹章061.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd61 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd61 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E4%BA%8C%E5%A4%A9%E9%81%93%E4%B9%90%E4%B9%8B%E5%88%80 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1232,7 +1232,7 @@
     "cmd_icon": "纹章060.png",
     "skill_icon": "回血.png",
     "error": [
-      "cmd60 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd60 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%A4%A7%E9%AD%94%E5%A5%B3%E7%9A%84%E9%BA%A6%E7%B2%A5 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1244,7 +1244,7 @@
     "cmd_icon": "纹章059.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd59 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd59 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E8%97%A4%E9%A6%99%E5%BE%A1%E5%B1%80 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1256,7 +1256,7 @@
     "cmd_icon": "纹章058.png",
     "skill_icon": "灼伤.png",
     "error": [
-      "cmd58 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd58 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E9%AD%94%E7%A5%9E%E6%B2%B9%E7%81%AF (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1268,7 +1268,7 @@
     "cmd_icon": "纹章057.png",
     "skill_icon": "封印.png",
     "error": [
-      "cmd57 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd57 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%A7%AC%E8%B7%AF%E8%9D%99%E8%9D%A0 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1280,7 +1280,7 @@
     "cmd_icon": "纹章056.png",
     "skill_icon": "绿卡集星.png",
     "error": [
-      "cmd56 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd56 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E8%BF%90%E8%B4%A2%E8%80%85 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1292,7 +1292,7 @@
     "cmd_icon": "纹章055.png",
     "skill_icon": "回血.png",
     "error": [
-      "cmd55 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd55 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%A5%A5%E5%B0%94%E8%89%AF%E7%9A%84%E5%B0%91%E5%A5%B3 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1304,7 +1304,7 @@
     "cmd_icon": "纹章054.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd54 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd54 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E4%B8%8D%E5%AD%98%E4%B9%8B%E5%B9%BB%E9%A9%AC (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1316,7 +1316,7 @@
     "cmd_icon": "纹章053.png",
     "skill_icon": "封印.png",
     "error": [
-      "cmd53 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd53 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%A4%A9%E4%BD%BF%E4%B9%8B%E5%BA%8A (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1328,7 +1328,7 @@
     "cmd_icon": "纹章052.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd52 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd52 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%A4%A9%E4%B9%8B%E5%A5%B3%E4%B8%BB%E4%BA%BA (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1340,7 +1340,7 @@
     "cmd_icon": "纹章051.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd51 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd51 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%AE%87%E5%AE%99%E5%A4%A9%E7%A7%A4 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1352,7 +1352,7 @@
     "cmd_icon": "纹章050.png",
     "skill_icon": "灼伤.png",
     "error": [
-      "cmd50 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd50 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E8%B5%AB%E9%A1%BB%E7%BB%85%E5%A3%AB%E7%9A%84%E4%BB%A4%E5%8D%B0 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1364,7 +1364,7 @@
     "cmd_icon": "纹章049.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd49 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd49 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%A4%A9%E4%B9%8B%E9%94%81 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1376,7 +1376,7 @@
     "cmd_icon": "纹章048.png",
     "skill_icon": "封印.png",
     "error": [
-      "cmd48 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd48 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%BC%80%E8%BE%9F%E4%B9%8B%E7%90%86 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1388,7 +1388,7 @@
     "cmd_icon": "纹章047.png",
     "skill_icon": "弱化解除.png",
     "error": [
-      "cmd47 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd47 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%82%A8%E5%BF%A0%E5%AE%9E%E7%9A%84%E7%BE%8A (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1400,7 +1400,7 @@
     "cmd_icon": "纹章046.png",
     "skill_icon": "充能.png",
     "error": [
-      "cmd46 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd46 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E8%8A%B1%E4%B9%8B%E9%AD%94%E6%9C%AF%E5%B8%88 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1412,7 +1412,7 @@
     "cmd_icon": "纹章045.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd45 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd45 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%94%BB%E7%8B%82%E7%9A%84%E5%A4%A7%E7%AC%94 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1424,7 +1424,7 @@
     "cmd_icon": "纹章044.png",
     "skill_icon": "封印.png",
     "error": [
-      "cmd44 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd44 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%B5%AE%E4%B8%96%E8%9B%B8 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1436,7 +1436,7 @@
     "cmd_icon": "纹章043.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd43 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd43 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%9F%B3%E9%B8%9F%E7%9A%84%E7%BA%B9%E7%AB%A0 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1448,7 +1448,7 @@
     "cmd_icon": "纹章042.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd42 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd42 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%B0%BE%E5%BC%A0%E7%9A%84%E5%A4%A7%E7%AC%A8%E8%9B%8B (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1460,7 +1460,7 @@
     "cmd_icon": "纹章041.png",
     "skill_icon": "无敌贯通.png",
     "error": [
-      "cmd41 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd41 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%AA%84%E8%BA%AB%E9%94%BB%E9%80%A0%E7%9A%84%E5%90%8D%E5%88%80 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1472,7 +1472,7 @@
     "cmd_icon": "纹章040.png",
     "skill_icon": "蓝卡集星.png",
     "error": [
-      "cmd40 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd40 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%B0%9A%E9%9D%92%E5%B9%BB%E6%83%B3%E7%9A%84%E4%BB%A4%E5%8D%B0 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1484,7 +1484,7 @@
     "cmd_icon": "纹章039.png",
     "skill_icon": "宝具威力提升.png",
     "error": [
-      "cmd39 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd39 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E8%BE%BE%C2%B7%E8%8A%AC%E5%A5%87%E4%BA%B2 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1496,7 +1496,7 @@
     "cmd_icon": "纹章038.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd38 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd38 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%97%A0%E5%BD%A2%E4%B9%8B%E5%8C%A3 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1508,7 +1508,7 @@
     "cmd_icon": "纹章037.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd37 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd37 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E8%B5%A4%E5%BF%83%E8%87%A3%E4%B8%8B%E7%9A%84%E4%BB%A4%E5%8D%B0 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1520,7 +1520,7 @@
     "cmd_icon": "纹章036.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd36 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd36 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%85%88%E7%9C%89%E5%96%84%E7%9B%AE%E7%9A%84%E5%B0%BC%E5%83%A7 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1532,7 +1532,7 @@
     "cmd_icon": "纹章035.png",
     "skill_icon": "出星.png",
     "error": [
-      "cmd35 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd35 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%88%B1%E4%B8%8E%E8%A1%8C%E5%8A%A8%E4%B8%8E%E6%99%BA%E6%85%A7%E4%B9%8B%E6%9E%AA (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1544,7 +1544,7 @@
     "cmd_icon": "纹章034.png",
     "skill_icon": "毒.png",
     "error": [
-      "cmd34 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd34 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%BE%AE%E9%BB%91%E5%A6%84%E6%89%A7%E7%9A%84%E4%BB%A4%E5%8D%B0 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1556,7 +1556,7 @@
     "cmd_icon": "纹章033.png",
     "skill_icon": "封印.png",
     "error": [
-      "cmd33 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd33 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%A4%B1%E8%90%BD%E4%B9%8B%E6%A3%BA (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1568,7 +1568,7 @@
     "cmd_icon": "纹章032.png",
     "skill_icon": "未知技能.png",
     "error": [
-      "cmd32 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd32 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/BB%E8%80%81%E8%99%8E%E6%9C%BA (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1580,7 +1580,7 @@
     "cmd_icon": "纹章031.png",
     "skill_icon": "回血.png",
     "error": [
-      "cmd31 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd31 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%99%BD%E8%94%B7%E8%96%87%E7%9A%84%E6%96%B0%E5%A8%98%20 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1592,7 +1592,7 @@
     "cmd_icon": "纹章030.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd30 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd30 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%96%AD%E6%98%9F%E7%9A%84%E9%82%AA%E5%9C%A3%E5%89%91 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1604,7 +1604,7 @@
     "cmd_icon": "纹章029.png",
     "skill_icon": "封印.png",
     "error": [
-      "cmd29 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd29 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%92%95%E5%92%95%E6%8A%A5 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1616,7 +1616,7 @@
     "cmd_icon": "纹章028.png",
     "skill_icon": "封印.png",
     "error": [
-      "cmd28 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd28 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%B7%A1%E7%BA%A2%E8%89%B2%E8%99%9A%E5%83%8F%E7%9A%84%E4%BB%A4%E5%8D%B0 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1628,7 +1628,7 @@
     "cmd_icon": "纹章027.png",
     "skill_icon": "回复量提升.png",
     "error": [
-      "cmd27 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd27 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E8%B4%A4%E5%A6%BB%E8%89%AF%E7%8B%90 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1640,7 +1640,7 @@
     "cmd_icon": "纹章026.png",
     "skill_icon": "弱化无效.png",
     "error": [
-      "cmd26 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd26 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%85%AB%E5%8F%B6%E4%B9%8B%E9%95%9C (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1652,7 +1652,7 @@
     "cmd_icon": "纹章025.png",
     "skill_icon": "诅咒.png",
     "error": [
-      "cmd25 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd25 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E6%A3%AE%E5%9F%9F%E9%AD%94%E5%85%BD (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1664,7 +1664,7 @@
     "cmd_icon": "纹章024.png",
     "skill_icon": "出星.png",
     "error": [
-      "cmd24 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd24 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%9C%A3%E5%A4%9C%E7%9A%84%E6%9E%81%E5%85%89 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1676,7 +1676,7 @@
     "cmd_icon": "纹章023.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd23 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd23 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E8%B5%B7%E5%A7%8B%E4%B8%8E%E7%BB%88%E7%BB%93%E4%B9%8B%E5%89%91 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1688,7 +1688,7 @@
     "cmd_icon": "纹章022.png",
     "skill_icon": "封印.png",
     "error": [
-      "cmd22 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd22 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E9%BB%91%E8%89%B2%E4%BF%A1%E5%BE%92%E7%9A%84%E4%BB%A4%E5%8D%B0 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1700,7 +1700,7 @@
     "cmd_icon": "纹章021.png",
     "skill_icon": "必中.png",
     "error": [
-      "cmd21 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd21 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%88%B1%E4%B9%8B%E7%8C%8E%E4%BA%BA (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1712,7 +1712,7 @@
     "cmd_icon": "纹章020.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd20 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd20 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E9%BB%84%E6%98%8F%E7%9A%84%E9%AD%94%E9%BE%99 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1724,7 +1724,7 @@
     "cmd_icon": "纹章019.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd19 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd19 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%B1%A0%E9%BE%99%E4%B9%8B%E5%89%91 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1736,7 +1736,7 @@
     "cmd_icon": "纹章018.png",
     "skill_icon": "弱化解除.png",
     "error": [
-      "cmd18 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd18 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%99%BD%E8%89%B2%E5%99%A8%E7%89%A9%E7%9A%84%E4%BB%A4%E5%8D%B0 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1748,7 +1748,7 @@
     "cmd_icon": "纹章017.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd17 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd17 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%A4%A9%E4%B9%8B%E6%A5%94 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1760,7 +1760,7 @@
     "cmd_icon": "纹章016.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd16 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd16 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%BC%9D%E7%A5%9E%E4%B9%8B%E9%94%81 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1772,7 +1772,7 @@
     "cmd_icon": "纹章015.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd15 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd15 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E8%B5%A4%E8%89%B2%E5%AE%9D%E7%9F%B3%E5%B0%8F%E5%A7%90%E7%9A%84%E4%BB%A4%E5%8D%B0 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1784,7 +1784,7 @@
     "cmd_icon": "纹章014.png",
     "skill_icon": "加防.png",
     "error": [
-      "cmd14 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd14 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%AC%AC%E4%B8%80%E4%BD%8D%E4%BB%8E%E8%80%85 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1796,7 +1796,7 @@
     "cmd_icon": "纹章013.png",
     "skill_icon": "集星.png",
     "error": [
-      "cmd13 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd13 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E8%83%9C%E5%88%A9%E7%9A%84%E5%85%B5%E8%A3%85 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1808,7 +1808,7 @@
     "cmd_icon": "纹章012.png",
     "skill_icon": "掉星率增加.png",
     "error": [
-      "cmd12 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd12 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E4%BA%BA%E7%90%86%E7%9A%84%E7%BA%B9%E7%AB%A0 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1820,7 +1820,7 @@
     "cmd_icon": "纹章011.png",
     "skill_icon": "回血.png",
     "error": [
-      "cmd11 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd11 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%B9%B8%E8%BF%90%E4%B9%8B%E5%85%BD (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1832,7 +1832,7 @@
     "cmd_icon": "纹章010.png",
     "skill_icon": "弱化解除.png",
     "error": [
-      "cmd10 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd10 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%BA%B9%E7%AB%A0%EF%BC%9A%E6%B2%BB%E6%84%88 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1844,7 +1844,7 @@
     "cmd_icon": "纹章009.png",
     "skill_icon": "集星.png",
     "error": [
-      "cmd9 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd9 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%BA%B9%E7%AB%A0%EF%BC%9A%E9%9B%86%E4%B8%AD (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1856,7 +1856,7 @@
     "cmd_icon": "纹章008.png",
     "skill_icon": "暴击威力提升.png",
     "error": [
-      "cmd8 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd8 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%BA%B9%E7%AB%A0%EF%BC%9A%E7%88%86%E8%A3%82 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1868,7 +1868,7 @@
     "cmd_icon": "纹章007.png",
     "skill_icon": "掉星率增加.png",
     "error": [
-      "cmd7 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd7 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%BA%B9%E7%AB%A0%EF%BC%9A%E9%97%AA%E8%80%80 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1880,7 +1880,7 @@
     "cmd_icon": "纹章006.png",
     "skill_icon": "回血.png",
     "error": [
-      "cmd6 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd6 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%BA%B9%E7%AB%A0%EF%BC%9A%E7%A5%9D%E7%A6%8F (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1892,7 +1892,7 @@
     "cmd_icon": "纹章005.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd5 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd5 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%BA%B9%E7%AB%A0%EF%BC%9A%E5%85%89%E8%BD%AE (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1904,7 +1904,7 @@
     "cmd_icon": "纹章004.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd4 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd4 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%BA%B9%E7%AB%A0%EF%BC%9A%E9%82%AA%E6%81%B6 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1916,7 +1916,7 @@
     "cmd_icon": "纹章003.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd3 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd3 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%BA%B9%E7%AB%A0%EF%BC%9A%E6%AD%BB%E5%B0%B8 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1928,7 +1928,7 @@
     "cmd_icon": "纹章002.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd2 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd2 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%BA%B9%E7%AB%A0%EF%BC%9A%E9%87%8E%E5%85%BD (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   },
   {
@@ -1940,7 +1940,7 @@
     "cmd_icon": "纹章001.png",
     "skill_icon": "特攻.png",
     "error": [
-      "cmd1 first bs error: 'NoneType' object has no attribute 'find'"
+      "cmd1 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E7%BA%B9%E7%AB%A0%EF%BC%9A%E4%BA%BA%E7%B1%BB (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
     ]
   }
 ]
