@@ -1,5 +1,65 @@
 [
   {
+    "id": "165",
+    "name": "砂の海の蜃気楼",
+    "name_link": "砂の海の蜃気楼",
+    "name_other": "",
+    "des": "刻印されたカードによる攻撃時に、自身の宝具威力を10%アップ(1ターン) ＋ 刻印されたカードのクリティカル威力を10%アップ",
+    "tag": "",
+    "type": "未知",
+    "method": "",
+    "method_link": "",
+    "method_link_text": "",
+    "online": {
+      "cmd_icon": "/images/1/1f/纹章165.png",
+      "skill_icon": "/images/d/d9/宝具威力提升.png"
+    },
+    "local": {
+      "cmd_icon": "纹章165.png",
+      "skill_icon": "宝具威力提升.png"
+    }
+  },
+  {
+    "id": "164",
+    "name": "サンタマリア・ボランテ",
+    "name_link": "サンタマリア・ボランテ",
+    "name_other": "",
+    "des": "刻印されたカードによる攻撃時にスターを2個獲得＋敵単体のクリティカル発生率アップ状態を1つ解除",
+    "tag": "",
+    "type": "未知",
+    "method": "",
+    "method_link": "",
+    "method_link_text": "",
+    "online": {
+      "cmd_icon": "/images/a/a2/纹章164.png",
+      "skill_icon": "/images/b/b6/出星.png"
+    },
+    "local": {
+      "cmd_icon": "纹章164.png",
+      "skill_icon": "出星.png"
+    }
+  },
+  {
+    "id": "163",
+    "name": "雷霆運ぶ天の馬",
+    "name_link": "雷霆運ぶ天の馬",
+    "name_other": "",
+    "des": "刻印されたカードのスター集中度を25%アップ ＋ 刻印されたカードによる攻撃時にスターを1個獲得",
+    "tag": "",
+    "type": "未知",
+    "method": "",
+    "method_link": "",
+    "method_link_text": "",
+    "online": {
+      "cmd_icon": "/images/e/e2/纹章163.png",
+      "skill_icon": "/images/7/7a/集星.png"
+    },
+    "local": {
+      "cmd_icon": "纹章163.png",
+      "skill_icon": "集星.png"
+    }
+  },
+  {
     "id": "162",
     "name": "漂泊虚空的天元之花",
     "name_link": "漂泊虚空的天元之花",

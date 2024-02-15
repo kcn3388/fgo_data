@@ -1,5 +1,727 @@
 [
   {
+    "id": "2018",
+    "name": "ＢＦＦロックチョコ",
+    "name_link": "ＢＦＦロックチョコ",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/e/ee/礼装2018.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装2018.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "2017",
+    "name": "仏像（たくさん）",
+    "name_link": "仏像（たくさん）",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/1/1b/礼装2017.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装2017.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "2016",
+    "name": "枯山水チョコレート",
+    "name_link": "枯山水チョコレート",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/8/8b/礼装2016.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装2016.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "2015",
+    "name": "黒鎧面頬",
+    "name_link": "黒鎧面頬",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/a/a7/礼装2015.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装2015.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "2014",
+    "name": "護りの勾玉",
+    "name_link": "護りの勾玉",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/c/c4/礼装2014.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装2014.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "2013",
+    "name": "朝餉一膳",
+    "name_link": "朝餉一膳",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/8/8c/礼装2013.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装2013.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "2012",
+    "name": "トリトンギフトカード",
+    "name_link": "トリトンギフトカード",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/c/cc/礼装2012.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装2012.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "2011",
+    "name": "一盃の酒とお塩チョコ",
+    "name_link": "一盃の酒とお塩チョコ",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/f/f6/礼装2011.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装2011.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "2010",
+    "name": "銃と蛍とチョコレート",
+    "name_link": "銃と蛍とチョコレート",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/6/67/礼装2010.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装2010.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "2009",
+    "name": "デッパツ活動写真館",
+    "name_link": "デッパツ活動写真館",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/7/7c/礼装2009.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装2009.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "2008",
+    "name": "甲斐の赤",
+    "name_link": "甲斐の赤",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/0/08/礼装2008.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装2008.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "2007",
+    "name": "あみぐるみ（アステリオス）",
+    "name_link": "あみぐるみ（アステリオス）",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/7/78/礼装2007.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装2007.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "2006",
+    "name": "般若湯ボンボン",
+    "name_link": "般若湯ボンボン",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/7/7e/礼装2006.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装2006.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "2005",
+    "name": "図書館の鍵と羅針盤",
+    "name_link": "図書館の鍵と羅針盤",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/c/c5/礼装2005.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装2005.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "2004",
+    "name": "ビッグコアラチョコ",
+    "name_link": "ビッグコアラチョコ",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/e/e8/礼装2004.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装2004.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "2003",
+    "name": "ヌンノス合体チョコ",
+    "name_link": "ヌンノス合体チョコ",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/6/6f/礼装2003.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装2003.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "2002",
+    "name": "ロコモコＵＤＫ",
+    "name_link": "ロコモコＵＤＫ",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/f/f3/礼装2002.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装2002.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "2001",
+    "name": "ブルースカイ・バニラカクテル",
+    "name_link": "ブルースカイ・バニラカクテル",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/0/0b/礼装2001.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装2001.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "2000",
+    "name": "ブリリアント・クイーンハート",
+    "name_link": "ブリリアント・クイーンハート",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/5/55/礼装2000.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装2000.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1999",
+    "name": "ファンからの差し入れ",
+    "name_link": "ファンからの差し入れ",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/c/c7/礼装1999.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1999.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1998",
+    "name": "手作り友チョコ",
+    "name_link": "手作り友チョコ",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/c/c3/礼装1998.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1998.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1997",
+    "name": "シャイニー・トランペット",
+    "name_link": "シャイニー・トランペット",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/c/c1/礼装1997.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1997.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1996",
+    "name": "モルガニア物語",
+    "name_link": "モルガニア物語",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/7/7d/礼装1996.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1996.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1995",
+    "name": "ケルベロスチョコ",
+    "name_link": "ケルベロスチョコ",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/d/d2/礼装1995.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1995.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1994",
+    "name": "トリシューラチョコ",
+    "name_link": "トリシューラチョコ",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/4/44/礼装1994.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1994.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1993",
+    "name": "偉大なるわし様が選んだ最高の帯",
+    "name_link": "偉大なるわし様が選んだ最高の帯",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/b/b5/礼装1993.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1993.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1992",
+    "name": "ビーマのスペシャルフルコース",
+    "name_link": "ビーマのスペシャルフルコース",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/8/85/礼装1992.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1992.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1991",
+    "name": "絡繰素体（無貌）",
+    "name_link": "絡繰素体（無貌）",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/c/c1/礼装1991.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1991.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1990",
+    "name": "ぶっ叩き券",
+    "name_link": "ぶっ叩き券",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/5/57/礼装1990.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1990.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1989",
+    "name": "つまらないものですが",
+    "name_link": "つまらないものですが",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/9/9a/礼装1989.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1989.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1988",
+    "name": "今は甘き辺獄の美味",
+    "name_link": "今は甘き辺獄の美味",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/1/1e/礼装1988.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1988.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1987",
+    "name": "みんなで食べてね",
+    "name_link": "みんなで食べてね",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/a/a5/礼装1987.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1987.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1986",
+    "name": "花の魁",
+    "name_link": "花の魁",
+    "name_other": "",
+    "des": "効果なし",
+    "des_max": "",
+    "tag": "",
+    "type": "情人节",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/4/4c/礼装1986.jpg",
+      "skill_icon": "/images/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装1986.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "1985",
+    "name": "神託の鎖",
+    "name_link": "神託の鎖",
+    "name_other": "",
+    "des": "アンドロメダ(ライダー)装備時のみ、自身の宝具威力を30%アップ＆ガッツ状態を付与(1回・HP20%回復・他のガッツ状態と重複可能)",
+    "des_max": "",
+    "tag": "",
+    "type": "牵绊",
+    "event": "0",
+    "online": {
+      "cft_icon": "/images/e/e9/礼装1985.jpg",
+      "skill_icon": "/images/3/3a/毅力.png"
+    },
+    "local": {
+      "cft_icon": "礼装1985.jpg",
+      "skill_icon": "毅力.png"
+    }
+  },
+  {
+    "id": "1984",
+    "name": "ご褒美は勉強の後で",
+    "name_link": "ご褒美は勉強の後で",
+    "name_other": "",
+    "des": "自身のArtsカード性能を8%アップ＆〔悪〕特攻状態を15%付与＆NPを30%チャージした状態でバトルを開始する",
+    "des_max": "自身のArtsカード性能を10%アップ＆〔悪〕特攻状態を20%付与＆NPを50%チャージした状態でバトルを開始する[最大解放]",
+    "tag": "",
+    "type": "活动奖励",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/c/c9/礼装1984.jpg",
+      "skill_icon": "/images/0/03/蓝放.png"
+    },
+    "local": {
+      "cft_icon": "礼装1984.jpg",
+      "skill_icon": "蓝放.png"
+    }
+  },
+  {
+    "id": "1983",
+    "name": "スイート・フラワー",
+    "name_link": "スイート・フラワー",
+    "name_other": "",
+    "des": "自身に毎ターンNP1%獲得状態を付与＆被ダメージを100カットする状態を付与",
+    "des_max": "自身に毎ターンNP2%獲得状態を付与＆被ダメージを200カットする状態を付与[最大解放]",
+    "tag": "",
+    "type": "期间限定",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/2/20/礼装1983.jpg",
+      "skill_icon": "/images/e/e2/回合充能.png"
+    },
+    "local": {
+      "cft_icon": "礼装1983.jpg",
+      "skill_icon": "回合充能.png"
+    }
+  },
+  {
+    "id": "1982",
+    "name": "チョコ・ラフティング",
+    "name_link": "チョコ・ラフティング",
+    "name_other": "",
+    "des": "自身の登場時にスターを10個獲得(1回)＆Busterカード性能を3%アップ＆宝具威力を5%アップ",
+    "des_max": "自身の登場時にスターを12個獲得(1回)＆Busterカード性能を5%アップ＆宝具威力を10%アップ[最大解放]",
+    "tag": "",
+    "type": "期间限定",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/c/cd/礼装1982.jpg",
+      "skill_icon": "/images/b/b6/出星.png"
+    },
+    "local": {
+      "cft_icon": "礼装1982.jpg",
+      "skill_icon": "出星.png"
+    }
+  },
+  {
+    "id": "1981",
+    "name": "ミルキー・ウェイ",
+    "name_link": "ミルキー・ウェイ",
+    "name_other": "",
+    "des": "自身に毎ターンNP4%獲得状態を付与＆NP獲得量を10%アップ＆宝具使用時にチャージ段階を2段階分上げる(1回)",
+    "des_max": "自身に毎ターンNP5%獲得状態を付与＆NP獲得量を15%アップ＆宝具使用時にチャージ段階を2段階分上げる(1回)[最大解放]",
+    "tag": "",
+    "type": "期间限定",
+    "event": "1",
+    "online": {
+      "cft_icon": "/images/4/43/礼装1981.jpg",
+      "skill_icon": "/images/e/e2/回合充能.png"
+    },
+    "local": {
+      "cft_icon": "礼装1981.jpg",
+      "skill_icon": "回合充能.png"
+    }
+  },
+  {
     "id": "1980",
     "name": "巡灵的祝祭／柒",
     "name_link": "巡灵的祝祭／柒",
@@ -31636,8 +32358,8 @@
   },
   {
     "id": "315",
-    "name": "无我识 心空妙有",
-    "name_link": "无我识 心空妙有",
+    "name": "无我识　心空妙有",
+    "name_link": "无我识　心空妙有",
     "name_other": "",
     "des": "两仪式(Saber)装备，且自身在场时，己方全体的Arts指令卡性能提升15%",
     "des_max": "",

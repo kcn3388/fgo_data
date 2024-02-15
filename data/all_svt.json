@@ -1,5 +1,35 @@
 [
   {
+    "id": "406",
+    "name_cn": "安德洛墨达",
+    "name_jp": "アンドロメダ",
+    "name_en": "---",
+    "name_link": "安德洛墨达",
+    "name_other": "",
+    "method": "未知",
+    "tag": "",
+    "online": {
+      "svt_icon": "/images/2/2b/Servant406.jpg",
+      "card1_icon": "/images/8/84/Quick.png",
+      "card2_icon": "/images/8/84/Quick.png",
+      "card3_icon": "/images/9/95/Arts.png",
+      "card4_icon": "/images/9/95/Arts.png",
+      "card5_icon": "/images/6/6e/Buster.png",
+      "ultimate_icon": "/images/8/84/Quick.png",
+      "class_icon": "/images/5/5f/金卡Rider.png"
+    },
+    "local": {
+      "svt_icon": "Servant406.jpg",
+      "card1_icon": "Quick.png",
+      "card2_icon": "Quick.png",
+      "card3_icon": "Arts.png",
+      "card4_icon": "Arts.png",
+      "card5_icon": "Buster.png",
+      "ultimate_icon": "Quick.png",
+      "class_icon": "金卡Rider.png"
+    }
+  },
+  {
     "id": "405",
     "name_cn": "宫本伊织",
     "name_jp": "宮本伊織",
