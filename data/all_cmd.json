@@ -352,11 +352,11 @@
     "method_link_text": "从者·夏日·庆典2023！",
     "online": {
       "cmd_icon": "/images/8/8c/纹章148.png",
-      "skill_icon": "/images/3/3a/特攻.png"
+      "skill_icon": "/images/1/13/未知技能.png"
     },
     "local": {
       "cmd_icon": "纹章148.png",
-      "skill_icon": "特攻.png"
+      "skill_icon": "未知技能.png"
     }
   },
   {
@@ -992,11 +992,11 @@
     "method_link_text": "连续武剧神话 密西西比·神话编撰者们",
     "online": {
       "cmd_icon": "/images/c/c2/纹章116.png",
-      "skill_icon": "/images/3/3a/特攻.png"
+      "skill_icon": "/images/1/13/未知技能.png"
     },
     "local": {
       "cmd_icon": "纹章116.png",
-      "skill_icon": "特攻.png"
+      "skill_icon": "未知技能.png"
     }
   },
   {
