@@ -5325,3 +5325,18 @@ Traceback (most recent call last):
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 AttributeError: 'NoneType' object has no attribute 'text'
 
+2024-03-13 08:40:30.991038
+list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/fgo_data/fgo_data/./__init__.py", line 21, in <module>
+    update_lib()
+  File "/home/runner/work/fgo_data/fgo_data/fgo_lib.py", line 18, in update_lib
+    data = lib_svt(each_svt)
+           ^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/fgo_data/fgo_data/lib_online/lib_svt.py", line 60, in lib_svt
+    get_card_url(svt, raw_html, soup)
+  File "/home/runner/work/fgo_data/fgo_data/lib_online/lib_svt.py", line 208, in get_card_url
+    real_artists[cards[index]] = artists[index]
+                 ~~~~~^^^^^^^
+IndexError: list index out of range
+
