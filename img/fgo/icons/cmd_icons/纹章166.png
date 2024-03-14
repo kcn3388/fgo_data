@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="none">
+<title>404 Not Found</title>
+<style>
+	body{
+		background-color:#000;
+	}
+*{font-family:"Microsoft Yahei";margin:0;font-weight:lighter;text-decoration:none;text-align:center;line-height:2.2em;}
+html,body{height:90%;}
+h1{font-size:100px;line-height:1em;color:#eee;
+display:block;
+padding: 30px 100px 30px 100px;
+background:#FF0000;
+}
+h2{color:#eee;}
+h3{color:#eee;}
+h4{color:#63B8FF;}
+table{width:100%;height:100%;border:0;}
+</style>
+</head>
+<body>
+<table cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td>
+<table cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td>
+<h1>MOONCELL WARNING</h1>
+<h2>404</h2>
+<h3>灵子转移出现异常<br>
+Rayshift Failure</h3>
+<p><h3>你访问的页面好像不小心掉进月之里侧了<br>
+The page you visited seems to have accidentally fallen into the inner side of moon.<br>
+<a href="https://fgo.wiki"><h4>点击返回主站</h4></a></h3>
+</p>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+</body></html>
