@@ -1,15 +1,15 @@
 [
   {
     "id": "166",
-    "name": "王勇示す輝剣",
-    "name_link": "王勇示す輝剣",
+    "name": "彰显王威的辉剑",
+    "name_link": "彰显王威的辉剑",
     "name_other": "",
-    "des": "刻印されたカードの〔悪〕特性に対するクリティカル威力を25%アップ",
+    "des": "被刻印的指令卡对〔恶〕特性的暴击威力提升25%",
     "tag": "",
-    "type": "未知",
-    "method": "",
-    "method_link": "",
-    "method_link_text": "",
+    "type": "活动奖励",
+    "method": "活动%LINK%奖励",
+    "method_link": "CBC2024 查理曼的Montjoie骑士道！",
+    "method_link_text": "CBC2024",
     "online": {
       "cmd_icon": "/images/e/e1/纹章166.png",
       "skill_icon": "/images/d/db/暴击威力提升.png"
