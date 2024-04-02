@@ -5805,3 +5805,30 @@ Traceback (most recent call last):
                  ~~~~~^^^^^^^
 IndexError: list index out of range
 
+2024-04-02 08:42:07.970939
+'NoneType' object has no attribute 'group'
+Traceback (most recent call last):
+  File "/home/runner/work/fgo_data/fgo_data/./__init__.py", line 13, in <module>
+    get_all_mooncell()
+  File "/home/runner/work/fgo_data/fgo_data/fgo_fetch_all.py", line 9, in get_all_mooncell
+    get_all_svt()
+  File "/home/runner/work/fgo_data/fgo_data/get/get_all_svt.py", line 33, in get_all_svt
+    all_svt_icons = re.search(rule_all_cmd, raw_data).group(0).split(",")
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+
+2024-04-02 08:42:07.970939
+list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/fgo_data/fgo_data/./__init__.py", line 21, in <module>
+    update_lib()
+  File "/home/runner/work/fgo_data/fgo_data/fgo_lib.py", line 18, in update_lib
+    data = lib_svt(each_svt)
+           ^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/fgo_data/fgo_data/lib_online/lib_svt.py", line 60, in lib_svt
+    get_card_url(svt, raw_html, soup)
+  File "/home/runner/work/fgo_data/fgo_data/lib_online/lib_svt.py", line 208, in get_card_url
+    real_artists[cards[index]] = artists[index]
+                 ~~~~~^^^^^^^
+IndexError: list index out of range
+
