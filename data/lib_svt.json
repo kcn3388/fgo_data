@@ -1,5 +1,21 @@
 [
   {
+    "id": "406",
+    "name_cn": "安德洛墨达",
+    "name_jp": "アンドロメダ",
+    "name_en": "Andromeda",
+    "name_link": "安德洛墨达",
+    "name_other": [
+      "仙女座"
+    ],
+    "method": "期间限定",
+    "svt_icon": "Servant406.jpg",
+    "class_icon": "金卡Rider.png",
+    "error": [
+      "svt406 aiorequest error: HTTPSConnectionPool(host='fgo.wiki', port=443): Max retries exceeded with url: /w/%E5%AE%89%E5%BE%B7%E6%B4%9B%E5%A2%A8%E8%BE%BE (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))"
+    ]
+  },
+  {
     "id": "405",
     "name_cn": "宫本伊织",
     "name_jp": "宮本伊織",
