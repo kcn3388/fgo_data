@@ -7897,3 +7897,47 @@ Traceback (most recent call last):
                  ~~~~~^^^^^^^
 IndexError: list index out of range
 
+2024-06-18 09:51:16.858239
+[Errno 2] No such file or directory: '/home/runner/work/fgo_data/fgo_data/data/all_svt.json'
+Traceback (most recent call last):
+  File "/home/runner/work/fgo_data/fgo_data/./__init__.py", line 13, in <module>
+    get_all_mooncell()
+  File "/home/runner/work/fgo_data/fgo_data/fgo_fetch_all.py", line 89, in get_all_mooncell
+    get_all_svt()
+  File "/home/runner/work/fgo_data/fgo_data/get/get_all_svt.py", line 111, in get_all_svt
+    with open(all_servant_path, "w", encoding="utf-8") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/fgo_data/fgo_data/data/all_svt.json'
+
+2024-06-18 09:51:16.858239
+[Errno 2] No such file or directory: '/home/runner/work/fgo_data/fgo_data/data/all_svt.json'
+Traceback (most recent call last):
+  File "/home/runner/work/fgo_data/fgo_data/./__init__.py", line 21, in <module>
+    update_lib()
+  File "/home/runner/work/fgo_data/fgo_data/fgo_lib.py", line 9, in update_lib
+    with open(all_servant_path, 'r', encoding="utf-8") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/fgo_data/fgo_data/data/all_svt.json'
+
+2024-06-18 09:51:16.858239
+[Errno 2] No such file or directory: '/home/runner/work/fgo_data/fgo_data/data/all_svt.json'
+Traceback (most recent call last):
+  File "/home/runner/work/fgo_data/fgo_data/./__init__.py", line 29, in <module>
+    down_all_card_res()
+  File "/home/runner/work/fgo_data/fgo_data/fgo_fetch_all.py", line 97, in down_all_card_res
+    download_svt()
+  File "/home/runner/work/fgo_data/fgo_data/download/download_all_res.py", line 17, in download_svt
+    with open(all_servant_path, 'r', encoding="utf-8") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/fgo_data/fgo_data/data/all_svt.json'
+
+2024-06-18 09:51:16.858239
+[Errno 2] No such file or directory: '/home/runner/work/fgo_data/fgo_data/data/all_svt.json'
+Traceback (most recent call last):
+  File "/home/runner/work/fgo_data/fgo_data/./__init__.py", line 37, in <module>
+    download_icons()
+  File "/home/runner/work/fgo_data/fgo_data/download/download_icons.py", line 16, in download_icons
+    with open(all_servant_path, 'r', encoding="utf-8") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/fgo_data/fgo_data/data/all_svt.json'
+
