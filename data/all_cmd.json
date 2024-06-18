@@ -1,5 +1,65 @@
 [
   {
+    "id": "169",
+    "name": "机关妖术师",
+    "name_link": "机关妖术师",
+    "name_other": "",
+    "des": "付与被刻印的指令卡20%〔〔束缚〕·〔眩晕〕·〔石化〕〕状态特攻效果 ＋ 当使用被刻印的指令卡进行攻击时，获得3个暴击星",
+    "tag": "",
+    "type": "活动奖励",
+    "method": "活动%LINK%奖励",
+    "method_link": "魔法使之夜 After Night／隈乃温泉杀人事件 ～知更鸟是证人！ 魔法使的两次死亡～",
+    "method_link_text": "魔法使之夜 After Night／隈乃温泉杀人事件",
+    "online": {
+      "cmd_icon": "https://media.fgo.wiki/1/13/纹章169.png",
+      "skill_icon": "https://media.fgo.wiki/3/3a/特攻.png"
+    },
+    "local": {
+      "cmd_icon": "纹章169.png",
+      "skill_icon": "特攻.png"
+    }
+  },
+  {
+    "id": "168",
+    "name": "对魔术装甲火箭筒",
+    "name_link": "对魔术装甲火箭筒",
+    "name_other": "",
+    "des": "付与被刻印的指令卡20%〔恶〕特攻效果",
+    "tag": "",
+    "type": "活动奖励",
+    "method": "活动%LINK%奖励",
+    "method_link": "魔法使之夜 After Night／隈乃温泉杀人事件 ～知更鸟是证人！ 魔法使的两次死亡～",
+    "method_link_text": "魔法使之夜 After Night／隈乃温泉杀人事件",
+    "online": {
+      "cmd_icon": "https://media.fgo.wiki/1/1f/纹章168.png",
+      "skill_icon": "https://media.fgo.wiki/3/3a/特攻.png"
+    },
+    "local": {
+      "cmd_icon": "纹章168.png",
+      "skill_icon": "特攻.png"
+    }
+  },
+  {
+    "id": "167",
+    "name": "幸运的蓝色小鸟",
+    "name_link": "幸运的蓝色小鸟",
+    "name_other": "",
+    "des": "被刻印的指令卡暴击星集中度提升25%＆NP获得量提升3%",
+    "tag": "",
+    "type": "活动奖励",
+    "method": "活动%LINK%奖励",
+    "method_link": "魔法使之夜 After Night／隈乃温泉杀人事件 ～知更鸟是证人！ 魔法使的两次死亡～",
+    "method_link_text": "魔法使之夜 After Night／隈乃温泉杀人事件",
+    "online": {
+      "cmd_icon": "https://media.fgo.wiki/e/e5/纹章167.png",
+      "skill_icon": "https://media.fgo.wiki/7/7a/集星.png"
+    },
+    "local": {
+      "cmd_icon": "纹章167.png",
+      "skill_icon": "集星.png"
+    }
+  },
+  {
     "id": "166",
     "name": "彰显王威的辉剑",
     "name_link": "彰显王威的辉剑",
@@ -421,14 +481,14 @@
   },
   {
     "id": "145",
-    "name": "人造女忍者",
-    "name_link": "人造女忍者",
+    "name": "人造女忍",
+    "name_link": "人造女忍",
     "name_other": "",
     "des": "付与被刻印的指令卡15%〔魔性〕特攻效果 ＋ 当使用被刻印的指令卡进行攻击时，获得2个暴击星",
     "tag": "",
     "type": "活动奖励",
     "method": "活动%LINK%奖励",
-    "method_link": "风云机关伊莉雅城 ～果心居士的小小野心～",
+    "method_link": "风云机关伊莉雅城 ～果心居士微不足道的野心～",
     "method_link_text": "风云机关伊莉雅城",
     "online": {
       "cmd_icon": "https://media.fgo.wiki/d/d8/纹章145.png",
@@ -448,7 +508,7 @@
     "tag": "",
     "type": "活动奖励",
     "method": "活动%LINK%奖励",
-    "method_link": "风云机关伊莉雅城 ～果心居士的小小野心～",
+    "method_link": "风云机关伊莉雅城 ～果心居士微不足道的野心～",
     "method_link_text": "风云机关伊莉雅城",
     "online": {
       "cmd_icon": "https://media.fgo.wiki/1/15/纹章144.png",
@@ -468,7 +528,7 @@
     "tag": "",
     "type": "活动奖励",
     "method": "活动%LINK%奖励",
-    "method_link": "风云机关伊莉雅城 ～果心居士的小小野心～",
+    "method_link": "风云机关伊莉雅城 ～果心居士微不足道的野心～",
     "method_link_text": "风云机关伊莉雅城",
     "online": {
       "cmd_icon": "https://media.fgo.wiki/9/97/纹章143.png",
@@ -501,8 +561,8 @@
   },
   {
     "id": "141",
-    "name": "全知的粘土板",
-    "name_link": "全知的粘土板",
+    "name": "全知的泥板",
+    "name_link": "全知的泥板",
     "name_other": "",
     "des": "被刻印的指令卡NP获得量提升5%＆暴击星掉落率提升30%",
     "tag": "",
@@ -521,8 +581,8 @@
   },
   {
     "id": "140",
-    "name": "青碧灵子的令印",
-    "name_link": "青碧灵子的令印",
+    "name": "碧色灵子的令印",
+    "name_link": "碧色灵子的令印",
     "name_other": "",
     "des": "被刻印的指令卡暴击威力提升5% ＋ 当使用被刻印的指令卡进行攻击时，敌方单体的暴击发生率下降10%(1回合)",
     "tag": "",

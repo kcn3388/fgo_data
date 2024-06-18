@@ -1,5 +1,233 @@
 [
   {
+    "id": "2052",
+    "name": "报告审查",
+    "name_link": "报告审查",
+    "name_other": "",
+    "des": "关卡通关时〔秩序且善〕特性获得的牵绊值提升4%",
+    "des_max": "关卡通关时〔秩序且善〕特性获得的牵绊值提升20%[最大解放]",
+    "tag": "",
+    "type": "兑换",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/e/e5/礼装2052.jpg",
+      "skill_icon": "https://media.fgo.wiki/c/c5/牵绊获得量提升.png"
+    },
+    "local": {
+      "cft_icon": "礼装2052.jpg",
+      "skill_icon": "牵绊获得量提升.png"
+    }
+  },
+  {
+    "id": "2051",
+    "name": "黑脂的暗沼",
+    "name_link": "黑脂的暗沼",
+    "name_other": "",
+    "des": "〔黑兽脂〕的掉落率提升5%<对原本掉落率进行乘算>",
+    "des_max": "〔黑兽脂〕的掉落率提升25%<对原本掉落率进行乘算>[最大解放]",
+    "tag": "",
+    "type": "掉落加成",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/b/ba/礼装2051.jpg",
+      "skill_icon": "https://media.fgo.wiki/0/0f/宝箱.png"
+    },
+    "local": {
+      "cft_icon": "礼装2051.jpg",
+      "skill_icon": "宝箱.png"
+    }
+  },
+  {
+    "id": "2050",
+    "name": "谁杀死了知更鸟",
+    "name_link": "谁杀死了知更鸟",
+    "name_other": "",
+    "des": "久远寺有珠(Caster)装备时，自身的宝具威力提升30%＆付与「付与〔替身〕状态时，弱化无效」的状态",
+    "des_max": "",
+    "tag": "",
+    "type": "牵绊",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/e/ec/礼装2050.jpg",
+      "skill_icon": "https://media.fgo.wiki/3/3a/弱化无效.png"
+    },
+    "local": {
+      "cft_icon": "礼装2050.jpg",
+      "skill_icon": "弱化无效.png"
+    }
+  },
+  {
+    "id": "2049",
+    "name": "秘传员工餐",
+    "name_link": "秘传员工餐",
+    "name_other": "",
+    "des": "静希草十郎(Berserker)装备时，自身的宝具威力提升30%＆付与毅力状态(1次·HP回复20%)",
+    "des_max": "",
+    "tag": "",
+    "type": "牵绊",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/0/09/礼装2049.jpg",
+      "skill_icon": "https://media.fgo.wiki/3/3a/毅力.png"
+    },
+    "local": {
+      "cft_icon": "礼装2049.jpg",
+      "skill_icon": "毅力.png"
+    }
+  },
+  {
+    "id": "2048",
+    "name": "waiting in the sky",
+    "name_link": "waiting in the sky",
+    "name_other": "",
+    "des": "苍崎青子(Foreigner)装备时，自身的宝具威力提升30%＆付与「每回合付与1个〔魔弹〕状态」的状态",
+    "des_max": "",
+    "tag": "",
+    "type": "牵绊",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/2/29/礼装2048.jpg",
+      "skill_icon": "https://media.fgo.wiki/0/03/每回合魔弹.png"
+    },
+    "local": {
+      "cft_icon": "礼装2048.jpg",
+      "skill_icon": "每回合魔弹.png"
+    }
+  },
+  {
+    "id": "2047",
+    "name": "概念礼装EXP卡：多嘴的知更鸟侦探",
+    "name_link": "概念礼装EXP卡：多嘴的知更鸟侦探",
+    "name_other": "",
+    "des": "提供18000点概念礼装经验值",
+    "des_max": "无效果",
+    "tag": "",
+    "type": "EXP卡",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/f/fe/礼装2047.jpg",
+      "skill_icon": "https://media.fgo.wiki/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装2047.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "2046",
+    "name": "概念礼装EXP卡：奇趣双子",
+    "name_link": "概念礼装EXP卡：奇趣双子",
+    "name_other": "",
+    "des": "提供30000点概念礼装经验值",
+    "des_max": "无效果",
+    "tag": "",
+    "type": "EXP卡",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/d/dc/礼装2046.jpg",
+      "skill_icon": "https://media.fgo.wiki/d/d7/空白效果.png"
+    },
+    "local": {
+      "cft_icon": "礼装2046.jpg",
+      "skill_icon": "空白效果.png"
+    }
+  },
+  {
+    "id": "2045",
+    "name": "温泉球争",
+    "name_link": "温泉球争",
+    "name_other": "",
+    "des": "自身的Quick指令卡性能提升6%＆Buster指令卡性能提升6%＆付与对〔混沌〕15%的特攻状态＆以NP已达30%的状态开始战斗",
+    "des_max": "自身的Quick指令卡性能提升8%＆Buster指令卡性能提升8%＆付与对〔混沌〕20%的特攻状态＆以NP已达50%的状态开始战斗[最大解放]",
+    "tag": "",
+    "type": "活动奖励",
+    "event": "1",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/8/8f/礼装2045.jpg",
+      "skill_icon": "https://media.fgo.wiki/1/11/红绿放.png"
+    },
+    "local": {
+      "cft_icon": "礼装2045.jpg",
+      "skill_icon": "红绿放.png"
+    }
+  },
+  {
+    "id": "2044",
+    "name": "三咲的校舍",
+    "name_link": "三咲的校舍",
+    "name_other": "",
+    "des": "付与自身每回合HP回复50的状态＆付与每回合获得1个暴击星的状态＆NP获得量提升3%",
+    "des_max": "付与自身每回合HP回复100的状态＆付与每回合获得2个暴击星的状态＆NP获得量提升5%[最大解放]",
+    "tag": "",
+    "type": "期间限定",
+    "event": "1",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/9/95/礼装2044.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/bc/每回合回复.png"
+    },
+    "local": {
+      "cft_icon": "礼装2044.jpg",
+      "skill_icon": "每回合回复.png"
+    }
+  },
+  {
+    "id": "2043",
+    "name": "夜的见证者们",
+    "name_link": "夜的见证者们",
+    "name_other": "",
+    "des": "自身的Arts指令卡性能提升8%＆暴击威力提升5%＆HP回复量提升10%",
+    "des_max": "自身的Arts指令卡性能提升10%＆暴击威力提升10%＆HP回复量提升20%[最大解放]",
+    "tag": "",
+    "type": "期间限定",
+    "event": "1",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/3/33/礼装2043.jpg",
+      "skill_icon": "https://media.fgo.wiki/0/03/蓝放.png"
+    },
+    "local": {
+      "cft_icon": "礼装2043.jpg",
+      "skill_icon": "蓝放.png"
+    }
+  },
+  {
+    "id": "2042",
+    "name": "幻想种的美食寻访",
+    "name_link": "幻想种的美食寻访",
+    "name_other": "",
+    "des": "自身登场时获得10个暴击星(1次)＆暴击威力提升5%＆付与被伤害减免100的状态",
+    "des_max": "自身登场时获得12个暴击星(1次)＆暴击威力提升10%＆付与被伤害减免200的状态[最大解放]",
+    "tag": "",
+    "type": "期间限定",
+    "event": "1",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/4/43/礼装2042.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b6/出星.png"
+    },
+    "local": {
+      "cft_icon": "礼装2042.jpg",
+      "skill_icon": "出星.png"
+    }
+  },
+  {
+    "id": "2041",
+    "name": "人偶师的休憩",
+    "name_link": "人偶师的休憩",
+    "name_other": "",
+    "des": "自身的Arts指令卡性能提升8%＆Buster指令卡性能提升8%＆NP获得量提升8%＆使用宝具时充能阶段上升2级(1次)",
+    "des_max": "自身的Arts指令卡性能提升10%＆Buster指令卡性能提升10%＆NP获得量提升10%＆使用宝具时充能阶段上升2级(1次)[最大解放]",
+    "tag": "",
+    "type": "期间限定",
+    "event": "1",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/c/c6/礼装2041.jpg",
+      "skill_icon": "https://media.fgo.wiki/1/17/红蓝放.png"
+    },
+    "local": {
+      "cft_icon": "礼装2041.jpg",
+      "skill_icon": "红蓝放.png"
+    }
+  },
+  {
     "id": "2040",
     "name": "巡灵的祝祭／捌",
     "name_link": "巡灵的祝祭／捌",
@@ -4029,8 +4257,8 @@
   },
   {
     "id": "1828",
-    "name": "熹微的冥想",
-    "name_link": "熹微的冥想",
+    "name": "暮景冥想",
+    "name_link": "暮景冥想",
     "name_other": "",
     "des": "支援中获得的友情点＋5(可以重复)＆战斗中掉落的QP量增加0.5%＆关卡通关时获得的魔术礼装经验增加0.5%",
     "des_max": "支援中获得的友情点＋25(可以重复)＆战斗中掉落的QP量增加2.5%＆关卡通关时获得的魔术礼装经验增加2.5%[最大解放]",
@@ -4067,8 +4295,8 @@
   },
   {
     "id": "1826",
-    "name": "浮上眼帘",
-    "name_link": "浮上眼帘",
+    "name": "浮现眼帘",
+    "name_link": "浮现眼帘",
     "name_other": "",
     "des": "果心居士(Assassin)装备，且自身在场时，付与己方全体对〔束缚〕30%的特攻状态",
     "des_max": "",
@@ -4086,8 +4314,8 @@
   },
   {
     "id": "1825",
-    "name": "胜者的视线",
-    "name_link": "胜者的视线",
+    "name": "胜者之眼",
+    "name_link": "胜者之眼",
     "name_other": "",
     "des": "付与自身对〔骑乘技能〕25%的特攻状态＆以NP已达30%的状态开始战斗",
     "des_max": "付与自身对〔骑乘技能〕30%的特攻状态＆以NP已达50%的状态开始战斗[最大解放]",
@@ -4124,8 +4352,8 @@
   },
   {
     "id": "1823",
-    "name": "机巧大师",
-    "name_link": "机巧大师",
+    "name": "机关大师",
+    "name_link": "机关大师",
     "name_other": "",
     "des": "付与自身被伤害减免100的状态＆NP获得量提升5%",
     "des_max": "付与自身被伤害减免200的状态＆NP获得量提升10%[最大解放]",
@@ -4181,8 +4409,8 @@
   },
   {
     "id": "1820",
-    "name": "嗥叫的幼犬",
-    "name_link": "嗥叫的幼犬",
+    "name": "低吼的幼犬",
+    "name_link": "低吼的幼犬",
     "name_other": "",
     "des": "瑟坦特(Saber)装备，且自身在场时，己方全体的Quick指令卡性能提升10%＆付与对〔猛兽〕10%的特攻状态",
     "des_max": "",
@@ -4200,8 +4428,8 @@
   },
   {
     "id": "1819",
-    "name": "众神之御馔",
-    "name_link": "众神之御馔",
+    "name": "诸神的肴馔",
+    "name_link": "诸神的肴馔",
     "name_other": "",
     "des": "洛库斯塔(Assassin)装备，且自身在场时，付与己方全体对〔毒〕20%的特攻状态 ＋ 付与自身毒状态(500伤害)【负面效果】",
     "des_max": "",
@@ -4222,7 +4450,7 @@
     "name": "终末之火",
     "name_link": "终末之火",
     "name_other": "",
-    "des": "所多玛之兽／德拉科(Beast)装备时，自身的宝具威力提升30%＆〔拥有圣杯〕状态中攻击时一定概率自身的宝具威力提升10%(3回合)",
+    "des": "所多玛之兽／德拉科(Beast)装备时，自身的宝具威力提升30%＆〔持有圣杯〕状态中攻击时一定概率自身的宝具威力提升10%(3回合)",
     "des_max": "",
     "tag": "",
     "type": "牵绊",
@@ -34831,7 +35059,7 @@
     "name": "猫咪围裙",
     "name_link": "猫咪围裙",
     "name_other": "",
-    "des": "玉藻猫(Berserker)装备，且自身在场时，己方全体最大HP提升2000",
+    "des": "玉藻猫(Berserker)装备，且自身在场时，己方全体最大HP增加2000",
     "des_max": "",
     "tag": "",
     "type": "牵绊",
