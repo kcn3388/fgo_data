@@ -7980,3 +7980,34 @@ Traceback (most recent call last):
                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 RecursionError: maximum recursion depth exceeded
 
+2024-06-18 10:05:18.836081
+[Errno 2] No such file or directory: '/home/runner/work/fgo_data/fgo_data/data/data/mooncell'
+Traceback (most recent call last):
+  File "/home/runner/work/fgo_data/fgo_data/./__init__.py", line 13, in <module>
+    get_all_mooncell()
+  File "/home/runner/work/fgo_data/fgo_data/fgo_fetch_all.py", line 93, in get_all_mooncell
+    fetch_mooncell(i)
+  File "/home/runner/work/fgo_data/fgo_data/fgo_fetch_all.py", line 10, in fetch_mooncell
+    os.mkdir(mc_path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/fgo_data/fgo_data/data/data/mooncell'
+
+2024-06-18 10:05:18.836081
+[Errno 2] No such file or directory: '/home/runner/work/fgo_data/fgo_data/img/fgo'
+Traceback (most recent call last):
+  File "/home/runner/work/fgo_data/fgo_data/./__init__.py", line 29, in <module>
+    down_all_card_res()
+  File "/home/runner/work/fgo_data/fgo_data/fgo_fetch_all.py", line 97, in down_all_card_res
+    download_svt()
+  File "/home/runner/work/fgo_data/fgo_data/download/download_all_res.py", line 12, in download_svt
+    os.mkdir(each)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/fgo_data/fgo_data/img/fgo'
+
+2024-06-18 10:05:18.836081
+[Errno 2] No such file or directory: '/home/runner/work/fgo_data/fgo_data/img/fgo/icons/svt_icons'
+Traceback (most recent call last):
+  File "/home/runner/work/fgo_data/fgo_data/./__init__.py", line 37, in <module>
+    download_icons()
+  File "/home/runner/work/fgo_data/fgo_data/download/download_icons.py", line 9, in download_icons
+    os.mkdir(svt_path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/fgo_data/fgo_data/img/fgo/icons/svt_icons'
+
