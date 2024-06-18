@@ -11,7 +11,6 @@ def download_svt():
         if not os.path.exists(each):
             os.mkdir(each)
 
-    print("开始下载从者相关……")
     if os.path.exists(svt_path):
         try:
             with open(all_servant_path, 'r', encoding="utf-8") as f:
@@ -60,7 +59,6 @@ def download_cft():
         if not os.path.exists(each):
             os.mkdir(each)
 
-    print("开始下载礼装相关……")
     if os.path.exists(cft_path):
         try:
             with open(all_craft_path, 'r', encoding="utf-8") as f:
@@ -98,7 +96,6 @@ def download_cmd():
         if not os.path.exists(each):
             os.mkdir(each)
 
-    print("开始下载纹章相关……")
     if os.path.exists(cmd_path):
         try:
             with open(all_command_path, 'r', encoding="utf-8") as f:
