@@ -1,13 +1,13 @@
-import datetime
 import traceback
 
 from fgo_lib import *
+from datetime import datetime
 from fgo_fetch_all import *
 from download.download_icons import *
 
 if __name__ == "__main__":
     warning_log = os.path.join(os.path.dirname(__file__), 'warning.log')
-    now = datetime.datetime.now()
+    now = datetime.now()
 
     try:
         get_all_mooncell()

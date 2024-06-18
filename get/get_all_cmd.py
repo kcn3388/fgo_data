@@ -29,12 +29,14 @@ def get_all_cmd():
         except json.decoder.JSONDecodeError:
             old_all_cmd = []
 
-    rule_all_cmd = re.compile(r"raw_str(\s)?=(\s)?\"id.+/images/.+\.(png|jpg)")
+    rule_all_cmd = re.compile(r"raw_str(\s)?=(\s)?\"id.+//media.fgo.wiki/.+\.(png|jpg)")
     all_cmd_icons = re.search(rule_all_cmd, raw_data).group(0).split(",")
-    rule_png = re.compile(r"/images/.+\.(png|jpg)")
+    rule_png = re.compile(r"//media.fgo.wiki/.+\.(png|jpg)")
     for i in range(len(all_cmd_icons) - 1, -1, -1):
         if not re.match(rule_png, all_cmd_icons[i]):
             all_cmd_icons.pop(i)
+        else:
+            all_cmd_icons[i] = all_cmd_icons[i].replace("//", "https://")
 
     for i in range(0, len(data), 10):
         cmd = {
@@ -51,7 +53,7 @@ def get_all_cmd():
         }
         cid = cmd["id"]
         cid = cid.zfill(3)
-        rule_cmd = re.compile(rf"/images/.+纹章{cid}\.(png|jpg)")
+        rule_cmd = re.compile(rf"https://media.fgo.wiki/.+纹章{cid}\.(png|jpg)")
         for each in all_cmd_icons:
             if re.match(rule_cmd, each):
                 i_each = all_cmd_icons.index(each)
@@ -64,7 +66,7 @@ def get_all_cmd():
                     "skill_icon": all_cmd_icons[i_each + 1].split("/").pop()
                 }
         if cmd not in old_all_cmd:
-            updated_commands.append(cmd["id"])
+            updated_commands.append(int(cmd["id"]))
         commands.append(cmd)
 
     if old_all_cmd == commands:

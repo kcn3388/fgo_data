@@ -7,8 +7,11 @@ headers = {
 }
 
 
-def download(url: str, path: str):
-    png = get_content(url)
+def download(url: str, path):
+    try:
+        png = requests.get(url, timeout=20, headers=headers).content
+    except Exception as e:
+        return e
     if isinstance(png, Exception):
         return png
     if not os.path.exists(path):

@@ -10,9 +10,12 @@ headers = {
     "Accept-Language": "zh-cn"
 }
 
-banned_id = ["333", "240", "168", "151", "152", "149", "83"]
+banned_id = ["412", "411", "333", "240", "168", "151", "152", "149", "83"]
 
 runtime_path = os.path.dirname(__file__)
+
+data_path = os.path.join(runtime_path, 'data')
+mc_path = os.path.join(data_path, "data", "mooncell")
 
 basic_path = os.path.join(runtime_path, "img", "fgo")
 icon_path = os.path.join(basic_path, "icons")
@@ -23,9 +26,10 @@ cmd_path = os.path.join(icon_path, "cmd_icons")
 card_path = os.path.join(icon_path, "card_icons")
 class_path = os.path.join(icon_path, "class_icons")
 
-res_paths = [basic_path, icon_path, svt_path, cft_path, skill_path, cmd_path, card_path, class_path]
-
-data_path = os.path.join(runtime_path, 'data')
+res_paths = [
+    basic_path, icon_path, svt_path, cft_path, skill_path,
+    cmd_path, card_path, class_path
+]
 news_img_path = os.path.join(runtime_path, 'news')
 banner_path = os.path.join(data_path, 'banner.json')
 config_path = os.path.join(data_path, 'config.json')
@@ -34,8 +38,7 @@ gacha_path = os.path.join(data_path, 'gacha.json')
 lucky_path = os.path.join(data_path, 'lucky_bag.json')
 banner_data_path = os.path.join(data_path, 'b_data.json')
 update_data_path = os.path.join(data_path, 'update.json')
-
-old_pools_path = os.path.join(runtime_path, 'data/old_pools.json')
+old_pools_path = os.path.join(data_path, 'old_pools.json')
 
 news_path = os.path.join(data_path, 'news.json')
 news_detail_path = os.path.join(data_path, 'news_detail.json')
@@ -47,9 +50,6 @@ back_path = os.path.join(static_path, 'back.jpg')
 back_cn_path = os.path.join(static_path, 'back_cn.png')
 mask_path = os.path.join(static_path, 'mask.png')
 font_path = os.path.join(static_path, 'SourceHanSansSC-Regular.otf')
-
-crt_folder_path = os.path.join(runtime_path, "crt")
-crt_path = "ca-certificates.crt"
 
 all_servant_path = os.path.join(data_path, "all_svt.json")
 all_command_path = os.path.join(data_path, "all_cmd.json")
@@ -67,9 +67,4 @@ all_json = [
     lib_servant_path, lib_command_path, lib_craft_path
 ]
 
-
-def get_content(url: str) -> Union[Exception, bytes]:
-    try:
-        return requests.get(url, timeout=20, headers=headers).content
-    except Exception as e:
-        return e
+week_list = ["星期一", "星期二", "星期三", "星期四", "星期五", "星期六", "星期日"]

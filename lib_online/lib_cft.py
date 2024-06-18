@@ -1,21 +1,18 @@
-import copy
 import re
-
-from bs4 import BeautifulSoup
-
-from lib_online.lib_json import *
 from path_and_json import *
+from urllib.parse import quote, unquote
 
 
 def lib_cft(cft_data: dict) -> dict:
-    url = "https://fgo.wiki/w/" + cft_data["name_link"]
     print("查询礼装" + cft_data["id"] + "……")
     cft = {
         "id": cft_data["id"],
         "name": cft_data["name"],
+        "name_jp": cft_data["name"],
         "name_other": None,
         "name_link": cft_data["name_link"],
-        "type": cft_data["type"]
+        "type": cft_data["type"],
+        "error": []
     }
 
     if "local" in cft_data:
@@ -33,76 +30,50 @@ def lib_cft(cft_data: dict) -> dict:
     if len(cft["name_other"]) == 1 and cft["name_other"][0] == "":
         cft["name_other"] = []
 
-    try:
-        response = requests.get(url, timeout=20, headers=headers)
-    except Exception as e:
-        cft["error"] = [f"cft{cft['id']} aiorequest error: {e}"]
+    local_data_path = os.path.join(mc_path, "cft", f'{cft_data["id"]}.txt')
+    local_html_path = os.path.join(mc_path, "cft", f'{cft_data["id"]}.html')
+
+    if os.path.exists(local_data_path):
+        raw_data = open(local_data_path, "r", encoding="utf-8").read().replace("魔{{jin}}", "魔神(人)")
+        raw_html = open(local_html_path, "r", encoding="utf-8").read()
+    else:
+        cft["error"].append(f"cft{cft['id']} init error: no local res")
         return cft
 
-    raw_html = response.text
-    soup = BeautifulSoup(response.content, 'html.parser')
-    try:
-        cfts = soup.find(class_="wikitable nodesktop").find("tbody")
-    except Exception as e:
-        cft["error"] = [f"cft{cft['id']} first bs error: {e}"]
-        return cft
+    painter = re.search(r"\|画师=(.+)", raw_data)
+    cost = re.search(r"\|cost=(.+)", raw_data, re.I)
+    name_jp = re.search(r"\|日文名称=(.+)", raw_data)
+    hp = re.search(r"\|HP=(.+)", raw_data, re.I)
+    atk = re.search(r"\|ATK=(.+)", raw_data, re.I)
+    icon = re.search(r"\|图标=(.+)", raw_data)
+    skills = re.search(r"\|持有技能=\n?([\s\S]+?)\n\|", raw_data)
+    desc_cn = re.search(r"\|解说=\n?([\s\S]+?)\n\n?\n?\|", raw_data)
+    desc_jp = re.search(r"\|日文解说=\n?([\s\S]+?)\n[|<]", raw_data)
+    rare = re.search(r"\|稀有度=(.)", raw_data)
+    raw_card_name = re.search(r"\|图片名=(.+)", raw_data)
+    if not raw_card_name or cft["id"] == "657":
+        raw_card_name = re.search(r"\|名称=(.+)", raw_data)
 
-    info = [cfts.find("a", title="画师一览").text.strip() if cfts.find("a", title="画师一览") else ""]
-    effect_soup = cfts.find_all("th")
-    rule_effect = re.compile(r"Cost|HP|ATK")
-    for each_es in effect_soup:
-        next_es = each_es.find_next("td")
-        if re.match(rule_effect, each_es.text.strip()):
-            info.append(next_es.text.strip())
+    cft["name_jp"] = name_jp.group(1) if name_jp else ""
+    cft_detail = {
+        "画师": painter.group(1) if painter else "",
+        "Cost": cost.group(1) if cost else "",
+        "初始/满级HP": hp.group(1) if hp else "",
+        "初始/满级ATK": atk.group(1) if atk else "",
+        "图标": icon.group(1) if icon else "",
+        "持有技能": skills.group(1) if skills else "",
+        "解说": desc_cn.group(1) if desc_cn else "",
+        "日文解说": desc_jp.group(1) if desc_jp else ""
+    }
 
-    info_soup = cfts.find_all("div", class_="poem")
-    for each_is in info_soup:
-        next_p = each_is.find_next("p")
-        if next_p:
-            info.append(next_p.text.strip())
-        else:
-            info.append("")
+    card_name = raw_card_name.group(1).strip().replace(" ", "_").replace("‎", "") if raw_card_name else ""
+    raw_file = re.search(rf"(https://media.fgo.wiki/./../){quote(card_name)}.png", raw_html, re.I)
+    if not raw_file:
+        cft["error"].append("cards_url not found")
+    cft["detail"] = cft_detail
+    cft["rare"] = f"{rare.group(1)}星" if rare else "-"
+    cft["cards_url"] = unquote(raw_file.group(0)) if raw_file else ""
 
-    detail_counter = 0
-    single_cft_detail = copy.deepcopy(cft_detail)
-    for each_cd in single_cft_detail:
-        single_cft_detail[each_cd] = info[detail_counter]
-        detail_counter += 1
-    cft["detail"] = single_cft_detail
-
-    card_url = ""
-    curl_soup = cfts.find_all("span")
-    for each_cls in curl_soup:
-        if each_cls.text.strip() == "卡面为游戏资源原始图片，未经任何处理。":
-            curl_soup = each_cls
-            break
-
-    try:
-        curl_soup = curl_soup.find_next("img").get("data-srcset")
-        rule_card = re.compile(r"/images/.+?.\.(?:png|jpg)")
-        card_set = re.findall(rule_card, curl_soup)
-        card_url = card_set[-1]
-    except Exception as e:
-        if "error" in cft:
-            cft["error"].append(f"cft{cft['id']} get card img error: {e}")
-        else:
-            cft["error"] = [f"cft{cft['id']} get card img error: {e}"]
-        pass
-
-    cft["cards_url"] = card_url
-
-    star = ""
-    try:
-        rule_star = re.compile(r"wgCategories.+星")
-        star = re.search(rule_star, raw_html).group(0)
-        star = star.split("\"")[-1].split("星")[0]
-    except Exception as e:
-        if "error" in cft:
-            cft["error"].append(f"cft{cft['id']} get star error: {e}")
-        else:
-            cft["error"] = [f"cft{cft['id']} get star error: {e}"]
-        pass
-
-    cft["rare"] = star + "星"
-
+    if not cft["error"]:
+        cft.pop("error")
     return cft
