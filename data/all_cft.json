@@ -1,5 +1,100 @@
 [
   {
+    "id": "2057",
+    "name": "おそろいエプロン",
+    "name_link": "おそろいエプロン",
+    "name_other": "",
+    "des": "ひびき＆千鍵(アルターエゴ)装備時のみ、自身がフィールドにいる間、味方全体のQuickカード性能を8%アップ＆Busterカード性能を8%アップ＆NP獲得量を10%アップ",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/b/bd/礼装2057.jpg",
+      "skill_icon": "https://media.fgo.wiki/1/11/红绿放.png"
+    },
+    "local": {
+      "cft_icon": "礼装2057.jpg",
+      "skill_icon": "红绿放.png"
+    }
+  },
+  {
+    "id": "2056",
+    "name": "ミスター・レッドガジェット",
+    "name_link": "ミスター・レッドガジェット",
+    "name_other": "",
+    "des": "自身に防御無視状態を付与＆Artsカード性能を4%アップ＆Busterカード性能を4%アップ＆NPを30%チャージした状態でバトルを開始する",
+    "des_max": "自身に防御無視状態を付与＆Artsカード性能を6%アップ＆Busterカード性能を6%アップ＆NPを50%チャージした状態でバトルを開始する[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "1",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/1/18/礼装2056.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b5/无视防御.png"
+    },
+    "local": {
+      "cft_icon": "礼装2056.jpg",
+      "skill_icon": "无视防御.png"
+    }
+  },
+  {
+    "id": "2055",
+    "name": "巨獣来航",
+    "name_link": "巨獣来航",
+    "name_other": "",
+    "des": "自身のBusterカード性能を3%アップ＆クリティカル威力を3%アップ＆宝具威力を3%アップ",
+    "des_max": "自身のBusterカード性能を5%アップ＆クリティカル威力を5%アップ＆宝具威力を5%アップ[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "1",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/8/8d/礼装2055.jpg",
+      "skill_icon": "https://media.fgo.wiki/4/42/红放.png"
+    },
+    "local": {
+      "cft_icon": "礼装2055.jpg",
+      "skill_icon": "红放.png"
+    }
+  },
+  {
+    "id": "2054",
+    "name": "海底宴席",
+    "name_link": "海底宴席",
+    "name_other": "",
+    "des": "自身に毎ターンNP3%獲得状態を付与＆NP獲得量を5%アップ＆クリティカル威力を5%アップ",
+    "des_max": "自身に毎ターンNP4%獲得状態を付与＆NP獲得量を10%アップ＆クリティカル威力を10%アップ[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "1",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/9/91/礼装2054.jpg",
+      "skill_icon": "https://media.fgo.wiki/e/e2/回合充能.png"
+    },
+    "local": {
+      "cft_icon": "礼装2054.jpg",
+      "skill_icon": "回合充能.png"
+    }
+  },
+  {
+    "id": "2053",
+    "name": "いつか星の河を越えて",
+    "name_link": "いつか星の河を越えて",
+    "name_other": "",
+    "des": "自身のQuickカード性能を6%アップ＆Busterカード性能を6%アップ＆クリティカル威力を10%アップ＆毎ターンスター3個獲得状態を付与",
+    "des_max": "自身のQuickカード性能を8%アップ＆Busterカード性能を8%アップ＆クリティカル威力を15%アップ＆毎ターンスター4個獲得状態を付与[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "1",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/d/da/礼装2053.jpg",
+      "skill_icon": "https://media.fgo.wiki/1/11/红绿放.png"
+    },
+    "local": {
+      "cft_icon": "礼装2053.jpg",
+      "skill_icon": "红绿放.png"
+    }
+  },
+  {
     "id": "2052",
     "name": "报告审查",
     "name_link": "报告审查",

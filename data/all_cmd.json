@@ -1,5 +1,65 @@
 [
   {
+    "id": "172",
+    "name": "アルスターの猛犬",
+    "name_link": "アルスターの猛犬",
+    "name_other": "",
+    "des": "刻印されたカードに必中効果を付与＆クリティカル威力を15%アップ",
+    "tag": "",
+    "type": "未知",
+    "method": "",
+    "method_link": "",
+    "method_link_text": "",
+    "online": {
+      "cmd_icon": "https://media.fgo.wiki/d/d0/纹章172.png",
+      "skill_icon": "https://media.fgo.wiki/9/90/必中.png"
+    },
+    "local": {
+      "cmd_icon": "纹章172.png",
+      "skill_icon": "必中.png"
+    }
+  },
+  {
+    "id": "171",
+    "name": "妖気漂う大骨刀",
+    "name_link": "妖気漂う大骨刀",
+    "name_other": "",
+    "des": "刻印されたカードによる攻撃時に、敵単体にやけど状態(500ダメージ・3ターン)を付与 ＋ 刻印されたカードのクリティカル威力を10%アップ",
+    "tag": "",
+    "type": "未知",
+    "method": "",
+    "method_link": "",
+    "method_link_text": "",
+    "online": {
+      "cmd_icon": "https://media.fgo.wiki/e/e6/纹章171.png",
+      "skill_icon": "https://media.fgo.wiki/4/4b/灼伤.png"
+    },
+    "local": {
+      "cmd_icon": "纹章171.png",
+      "skill_icon": "灼伤.png"
+    }
+  },
+  {
+    "id": "170",
+    "name": "スマホさん",
+    "name_link": "スマホさん",
+    "name_other": "",
+    "des": "刻印されたカードのNP獲得量を3%アップ＆スター発生率を20%アップ",
+    "tag": "",
+    "type": "未知",
+    "method": "",
+    "method_link": "",
+    "method_link_text": "",
+    "online": {
+      "cmd_icon": "https://media.fgo.wiki/0/02/纹章170.png",
+      "skill_icon": "https://media.fgo.wiki/4/42/NP获得量提升.png"
+    },
+    "local": {
+      "cmd_icon": "纹章170.png",
+      "skill_icon": "NP获得量提升.png"
+    }
+  },
+  {
     "id": "169",
     "name": "机关妖术师",
     "name_link": "机关妖术师",
