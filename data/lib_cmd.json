@@ -1,11 +1,11 @@
 [
   {
     "id": "172",
-    "name": "アルスターの猛犬",
+    "name": "阿尔斯特的猛犬",
     "name_jp": "アルスターの猛犬",
     "name_other": [],
-    "name_link": "アルスターの猛犬",
-    "type": "未知",
+    "name_link": "阿尔斯特的猛犬",
+    "type": "活动奖励",
     "cmd_icon": "纹章172.png",
     "skill_icon": "必中.png",
     "detail": {
@@ -20,11 +20,11 @@
   },
   {
     "id": "171",
-    "name": "妖気漂う大骨刀",
+    "name": "妖气浮动的大骨刀",
     "name_jp": "妖気漂う大骨刀",
     "name_other": [],
-    "name_link": "妖気漂う大骨刀",
-    "type": "未知",
+    "name_link": "妖气浮动的大骨刀",
+    "type": "活动奖励",
     "cmd_icon": "纹章171.png",
     "skill_icon": "灼伤.png",
     "detail": {
@@ -39,11 +39,11 @@
   },
   {
     "id": "170",
-    "name": "スマホさん",
+    "name": "手机先生",
     "name_jp": "スマホさん",
     "name_other": [],
-    "name_link": "スマホさん",
-    "type": "未知",
+    "name_link": "手机先生",
+    "type": "活动奖励",
     "cmd_icon": "纹章170.png",
     "skill_icon": "NP获得量提升.png",
     "detail": {

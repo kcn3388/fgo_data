@@ -1,15 +1,15 @@
 [
   {
     "id": "172",
-    "name": "アルスターの猛犬",
-    "name_link": "アルスターの猛犬",
+    "name": "阿尔斯特的猛犬",
+    "name_link": "阿尔斯特的猛犬",
     "name_other": "",
-    "des": "刻印されたカードに必中効果を付与＆クリティカル威力を15%アップ",
+    "des": "付与被刻印的指令卡必中效果＆暴击威力提升15%",
     "tag": "",
-    "type": "未知",
-    "method": "",
-    "method_link": "",
-    "method_link_text": "",
+    "type": "活动奖励",
+    "method": "活动%LINK%奖励",
+    "method_link": "舞动龙宫城！ ～深海公主与两颗宝玉～",
+    "method_link_text": "舞动龙宫城！",
     "online": {
       "cmd_icon": "https://media.fgo.wiki/d/d0/纹章172.png",
       "skill_icon": "https://media.fgo.wiki/9/90/必中.png"
@@ -21,15 +21,15 @@
   },
   {
     "id": "171",
-    "name": "妖気漂う大骨刀",
-    "name_link": "妖気漂う大骨刀",
+    "name": "妖气浮动的大骨刀",
+    "name_link": "妖气浮动的大骨刀",
     "name_other": "",
-    "des": "刻印されたカードによる攻撃時に、敵単体にやけど状態(500ダメージ・3ターン)を付与 ＋ 刻印されたカードのクリティカル威力を10%アップ",
+    "des": "当使用被刻印的指令卡进行攻击时，付与敌方单体灼伤状态(500伤害·3回合) ＋ 被刻印的指令卡暴击威力提升10%",
     "tag": "",
-    "type": "未知",
-    "method": "",
-    "method_link": "",
-    "method_link_text": "",
+    "type": "活动奖励",
+    "method": "活动%LINK%奖励",
+    "method_link": "舞动龙宫城！ ～深海公主与两颗宝玉～",
+    "method_link_text": "舞动龙宫城！",
     "online": {
       "cmd_icon": "https://media.fgo.wiki/e/e6/纹章171.png",
       "skill_icon": "https://media.fgo.wiki/4/4b/灼伤.png"
@@ -41,15 +41,15 @@
   },
   {
     "id": "170",
-    "name": "スマホさん",
-    "name_link": "スマホさん",
+    "name": "手机先生",
+    "name_link": "手机先生",
     "name_other": "",
-    "des": "刻印されたカードのNP獲得量を3%アップ＆スター発生率を20%アップ",
+    "des": "被刻印的指令卡NP获得量提升3%＆暴击星发生率提升20%",
     "tag": "",
-    "type": "未知",
-    "method": "",
-    "method_link": "",
-    "method_link_text": "",
+    "type": "活动奖励",
+    "method": "活动%LINK%奖励",
+    "method_link": "舞动龙宫城！ ～深海公主与两颗宝玉～",
+    "method_link_text": "舞动龙宫城！",
     "online": {
       "cmd_icon": "https://media.fgo.wiki/0/02/纹章170.png",
       "skill_icon": "https://media.fgo.wiki/4/42/NP获得量提升.png"

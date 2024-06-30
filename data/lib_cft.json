@@ -1,11 +1,11 @@
 [
   {
     "id": "2057",
-    "name": "おそろいエプロン",
+    "name": "同款围裙",
     "name_jp": "おそろいエプロン",
     "name_other": [],
-    "name_link": "おそろいエプロン",
-    "type": "未知",
+    "name_link": "同款围裙",
+    "type": "牵绊",
     "cft_icon": "礼装2057.jpg",
     "skill_icon": "红绿放.png",
     "detail": {
@@ -23,11 +23,11 @@
   },
   {
     "id": "2056",
-    "name": "ミスター・レッドガジェット",
+    "name": "红色机巧先生",
     "name_jp": "ミスター・レッドガジェット",
     "name_other": [],
-    "name_link": "ミスター・レッドガジェット",
-    "type": "未知",
+    "name_link": "红色机巧先生",
+    "type": "活动奖励",
     "cft_icon": "礼装2056.jpg",
     "skill_icon": "无视防御.png",
     "detail": {
@@ -45,11 +45,11 @@
   },
   {
     "id": "2055",
-    "name": "巨獣来航",
+    "name": "巨兽来航",
     "name_jp": "巨獣来航",
     "name_other": [],
-    "name_link": "巨獣来航",
-    "type": "未知",
+    "name_link": "巨兽来航",
+    "type": "期间限定",
     "cft_icon": "礼装2055.jpg",
     "skill_icon": "红放.png",
     "detail": {
@@ -71,7 +71,7 @@
     "name_jp": "海底宴席",
     "name_other": [],
     "name_link": "海底宴席",
-    "type": "未知",
+    "type": "期间限定",
     "cft_icon": "礼装2054.jpg",
     "skill_icon": "回合充能.png",
     "detail": {
@@ -89,11 +89,11 @@
   },
   {
     "id": "2053",
-    "name": "いつか星の河を越えて",
+    "name": "横渡星河终有时",
     "name_jp": "いつか星の河を越えて",
     "name_other": [],
-    "name_link": "いつか星の河を越えて",
-    "type": "未知",
+    "name_link": "横渡星河终有时",
+    "type": "期间限定",
     "cft_icon": "礼装2053.jpg",
     "skill_icon": "红绿放.png",
     "detail": {
