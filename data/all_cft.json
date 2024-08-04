@@ -1,5 +1,803 @@
 [
   {
+    "id": "2099",
+    "name": "英灵博装：幼体／提亚马特",
+    "name_link": "英灵博装：幼体／提亚马特",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/4/42/礼装2099.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2099.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2098",
+    "name": "英灵博装：耀星哈桑",
+    "name_link": "英灵博装：耀星哈桑",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/b/b8/礼装2098.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2098.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2097",
+    "name": "英灵博装：妖精骑士崔斯坦",
+    "name_link": "英灵博装：妖精骑士崔斯坦",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/6/6a/礼装2097.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2097.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2096",
+    "name": "英灵博装：UDK-巴格斯特",
+    "name_link": "英灵博装：UDK-巴格斯特",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/9/98/礼装2096.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2096.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2095",
+    "name": "英灵博装：由井正雪",
+    "name_link": "英灵博装：由井正雪",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/6/6b/礼装2095.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2095.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2094",
+    "name": "英灵博装：森长可",
+    "name_link": "英灵博装：森长可",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/c/ce/礼装2094.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2094.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2093",
+    "name": "英灵博装：梅柳齐娜",
+    "name_link": "英灵博装：梅柳齐娜",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/8/88/礼装2093.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2093.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2092",
+    "name": "英灵博装：源赖光",
+    "name_link": "英灵博装：源赖光",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/3/30/礼装2092.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2092.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2091",
+    "name": "英灵博装：玛丽·安托瓦内特",
+    "name_link": "英灵博装：玛丽·安托瓦内特",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/2/2e/礼装2091.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2091.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2090",
+    "name": "英灵博装：赫费斯提翁",
+    "name_link": "英灵博装：赫费斯提翁",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/1/19/礼装2090.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2090.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2089",
+    "name": "英灵博装：贝德维尔",
+    "name_link": "英灵博装：贝德维尔",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/7/79/礼装2089.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2089.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2088",
+    "name": "英灵博装：布里托玛特",
+    "name_link": "英灵博装：布里托玛特",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/6/6a/礼装2088.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2088.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2087",
+    "name": "英灵博装：托勒密",
+    "name_link": "英灵博装：托勒密",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/5/59/礼装2087.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2087.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2086",
+    "name": "英灵博装：风魔小太郎",
+    "name_link": "英灵博装：风魔小太郎",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/f/f6/礼装2086.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2086.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2085",
+    "name": "英灵博装：布狄卡",
+    "name_link": "英灵博装：布狄卡",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/4/4a/礼装2085.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2085.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2084",
+    "name": "英灵博装：诺克娜蕾·雅兰杜",
+    "name_link": "英灵博装：诺克娜蕾·雅兰杜",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/4/4e/礼装2084.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2084.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2083",
+    "name": "英灵博装：谜之女主角X",
+    "name_link": "英灵博装：谜之女主角X",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/c/cb/礼装2083.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2083.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2082",
+    "name": "英灵博装：永仓新八",
+    "name_link": "英灵博装：永仓新八",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/6/61/礼装2082.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2082.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2081",
+    "name": "英灵博装：武田信玄",
+    "name_link": "英灵博装：武田信玄",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/d/d4/礼装2081.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2081.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2080",
+    "name": "英灵博装：高杉晋作",
+    "name_link": "英灵博装：高杉晋作",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/5/53/礼装2080.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2080.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2079",
+    "name": "英灵博装：千利休",
+    "name_link": "英灵博装：千利休",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/b/bf/礼装2079.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2079.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2078",
+    "name": "英灵博装：清少纳言",
+    "name_link": "英灵博装：清少纳言",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/1/1d/礼装2078.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2078.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2077",
+    "name": "英灵博装：新免武藏守藤原玄信",
+    "name_link": "英灵博装：新免武藏守藤原玄信",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/3/36/礼装2077.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2077.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2076",
+    "name": "英灵博装：佐佐木小次郎",
+    "name_link": "英灵博装：佐佐木小次郎",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/d/d1/礼装2076.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2076.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2075",
+    "name": "英灵博装：坂本龙马",
+    "name_link": "英灵博装：坂本龙马",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/f/fd/礼装2075.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2075.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2074",
+    "name": "英灵博装：坂田金时",
+    "name_link": "英灵博装：坂田金时",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/5/5c/礼装2074.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2074.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2073",
+    "name": "英灵博装：库·丘林",
+    "name_link": "英灵博装：库·丘林",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/1/19/礼装2073.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2073.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2072",
+    "name": "英灵博装：岩窟王　基督山",
+    "name_link": "英灵博装：岩窟王 基督山",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/7/7c/礼装2072.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2072.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2071",
+    "name": "英灵博装：葛饰北斋",
+    "name_link": "英灵博装：葛饰北斋",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/7/70/礼装2071.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2071.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2070",
+    "name": "英灵博装：迦摩",
+    "name_link": "英灵博装：迦摩",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/4/44/礼装2070.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2070.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2069",
+    "name": "英灵博装：奥伯龙",
+    "name_link": "英灵博装：奥伯龙",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/1/14/礼装2069.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2069.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2068",
+    "name": "英灵博装：织田信长",
+    "name_link": "英灵博装：织田信长",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/f/f0/礼装2068.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2068.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2067",
+    "name": "英灵博装：燕青",
+    "name_link": "英灵博装：燕青",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/4/49/礼装2067.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2067.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2066",
+    "name": "英灵博装：出云阿国",
+    "name_link": "英灵博装：出云阿国",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/7/7a/礼装2066.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2066.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2065",
+    "name": "英灵博装：伊阿宋",
+    "name_link": "英灵博装：伊阿宋",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/1/1e/礼装2065.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2065.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2064",
+    "name": "英灵博装：安德洛墨达",
+    "name_link": "英灵博装：安德洛墨达",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/6/65/礼装2064.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2064.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2063",
+    "name": "英灵博装：安东尼奥·萨列里",
+    "name_link": "英灵博装：安东尼奥·萨列里",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/8/8b/礼装2063.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2063.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2062",
+    "name": "英灵博装：雨之魔女梣",
+    "name_link": "英灵博装：雨之魔女梣",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/0/08/礼装2062.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2062.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2061",
+    "name": "英灵博装：天草四郎",
+    "name_link": "英灵博装：天草四郎",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/8/8c/礼装2061.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2061.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2060",
+    "name": "英灵博装：阿比盖尔·威廉姆斯",
+    "name_link": "英灵博装：阿比盖尔·威廉姆斯",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/f/fb/礼装2060.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2060.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2059",
+    "name": "英灵博装：阿斯托尔福",
+    "name_link": "英灵博装：阿斯托尔福",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/3/30/礼装2059.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2059.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
+    "id": "2058",
+    "name": "英灵博装：阿斯克勒庇俄斯",
+    "name_link": "英灵博装：阿斯克勒庇俄斯",
+    "name_other": "",
+    "des": "支援中获得的友情点＋10(可以重复)",
+    "des_max": "",
+    "tag": "",
+    "type": "纪念",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/c/c0/礼装2058.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2058.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
     "id": "2057",
     "name": "同款围裙",
     "name_link": "同款围裙",
