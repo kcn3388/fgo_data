@@ -1,5 +1,119 @@
 [
   {
+    "id": "2105",
+    "name": "星剣のエピタフ",
+    "name_link": "星剣のエピタフ",
+    "name_other": "",
+    "des": "エレシュキガル(ビースト)装備時のみ、自身の宝具威力を30%アップ＆〔サーヴァント〕に対するクリティカル威力を30%アップ＆マスター好感度を1レベルアップ",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/3/35/礼装2105.jpg",
+      "skill_icon": "https://media.fgo.wiki/d/db/暴击威力提升.png"
+    },
+    "local": {
+      "cft_icon": "礼装2105.jpg",
+      "skill_icon": "暴击威力提升.png"
+    }
+  },
+  {
+    "id": "2104",
+    "name": "シンジタンク出撃！",
+    "name_link": "シンジタンク出撃！",
+    "name_other": "",
+    "des": "自身の弱体付与成功率を12%アップ＆クリティカル威力を5%アップ",
+    "des_max": "自身の弱体付与成功率を15%アップ＆クリティカル威力を10%アップ[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/1/1b/礼装2104.jpg",
+      "skill_icon": "https://media.fgo.wiki/6/69/弱化成功率提升.png"
+    },
+    "local": {
+      "cft_icon": "礼装2104.jpg",
+      "skill_icon": "弱化成功率提升.png"
+    }
+  },
+  {
+    "id": "2103",
+    "name": "月海原学園の王",
+    "name_link": "月海原学園の王",
+    "name_other": "",
+    "des": "自身の登場時に一度だけ味方全体の攻撃力を10%アップ(3ターン)",
+    "des_max": "自身の登場時に一度だけ味方全体の攻撃力を15%アップ(3ターン)[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/a/a2/礼装2103.jpg",
+      "skill_icon": "https://media.fgo.wiki/e/e9/加攻.png"
+    },
+    "local": {
+      "cft_icon": "礼装2103.jpg",
+      "skill_icon": "加攻.png"
+    }
+  },
+  {
+    "id": "2102",
+    "name": "ウェルカム・トゥ・エキスポ",
+    "name_link": "ウェルカム・トゥ・エキスポ",
+    "name_other": "",
+    "des": "自身に毎ターンスター1個獲得状態を付与＆クリティカル威力を3%アップ＆宝具威力を3%アップ",
+    "des_max": "自身に毎ターンスター2個獲得状態を付与＆クリティカル威力を5%アップ＆宝具威力を5%アップ[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/3/35/礼装2102.jpg",
+      "skill_icon": "https://media.fgo.wiki/f/f7/回合出星.png"
+    },
+    "local": {
+      "cft_icon": "礼装2102.jpg",
+      "skill_icon": "回合出星.png"
+    }
+  },
+  {
+    "id": "2101",
+    "name": "クラウン＆オーギュスト",
+    "name_link": "クラウン＆オーギュスト",
+    "name_other": "",
+    "des": "自身のスター集中度を300%アップ＆Artsカード性能を3%アップ＆宝具威力を5%アップ",
+    "des_max": "自身のスター集中度を400%アップ＆Artsカード性能を5%アップ＆宝具威力を10%アップ[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/1/10/礼装2101.jpg",
+      "skill_icon": "https://media.fgo.wiki/7/7a/集星.png"
+    },
+    "local": {
+      "cft_icon": "礼装2101.jpg",
+      "skill_icon": "集星.png"
+    }
+  },
+  {
+    "id": "2100",
+    "name": "喝采の焔",
+    "name_link": "喝采の焔",
+    "name_other": "",
+    "des": "自身のNPを50%チャージした状態でバトルを開始する＆宝具使用時にチャージ段階を1段階分上げる(1回)＆クリティカル威力を5%アップ",
+    "des_max": "自身のNPを60%チャージした状態でバトルを開始する＆宝具使用時にチャージ段階を1段階分上げる(1回)＆クリティカル威力を10%アップ[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/f/f1/礼装2100.jpg",
+      "skill_icon": "https://media.fgo.wiki/1/14/充能.png"
+    },
+    "local": {
+      "cft_icon": "礼装2100.jpg",
+      "skill_icon": "充能.png"
+    }
+  },
+  {
     "id": "2099",
     "name": "英灵博装：幼体／提亚马特",
     "name_link": "英灵博装：幼体／提亚马特",
