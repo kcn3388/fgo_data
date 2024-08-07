@@ -1,5 +1,18 @@
 [
   {
+    "id": "2106",
+    "name": "「FGO 藤丸立香はわからない」Season2",
+    "name_jp": "「FGO 藤丸立香はわからない」Season2",
+    "name_other": [],
+    "name_link": "「FGO 藤丸立香はわからない」Season2",
+    "type": "未知",
+    "error": [
+      "cft2106 init error: no local res"
+    ],
+    "cft_icon": "礼装2106.jpg",
+    "skill_icon": "经验增加.png"
+  },
+  {
     "id": "2105",
     "name": "星剣のエピタフ",
     "name_jp": "星剣のエピタフ",

@@ -1,5 +1,24 @@
 [
   {
+    "id": "2106",
+    "name": "「FGO 藤丸立香はわからない」Season2",
+    "name_link": "「FGO 藤丸立香はわからない」Season2",
+    "name_other": "",
+    "des": "クエストクリア時に得られるマスターEXPを50増やす",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/c/cd/礼装2106.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b3/经验增加.png"
+    },
+    "local": {
+      "cft_icon": "礼装2106.jpg",
+      "skill_icon": "经验增加.png"
+    }
+  },
+  {
     "id": "2105",
     "name": "星剣のエピタフ",
     "name_link": "星剣のエピタフ",
