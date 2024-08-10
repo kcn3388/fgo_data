@@ -1,15 +1,15 @@
 [
   {
     "id": "173",
-    "name": "冥主の槍檻",
-    "name_link": "冥主の槍檻",
+    "name": "冥主的枪槛",
+    "name_link": "冥主的枪槛",
     "name_other": "",
-    "des": "刻印されたカードに〔死霊〕特攻効果を10%付与＆NP獲得量を5%アップ",
+    "des": "付与被刻印的指令卡10%〔死灵〕特攻效果＆NP获得量提升5%",
     "tag": "",
-    "type": "未知",
-    "method": "",
-    "method_link": "",
-    "method_link_text": "",
+    "type": "活动奖励",
+    "method": "活动%LINK%奖励",
+    "method_link": "Fate/Grand Order ～9th Anniversary～",
+    "method_link_text": "Fate/Grand Order ～9th Anniversary～",
     "online": {
       "cmd_icon": "https://media.fgo.wiki/b/bb/纹章173.png",
       "skill_icon": "https://media.fgo.wiki/3/3a/特攻.png"
@@ -521,8 +521,8 @@
   },
   {
     "id": "147",
-    "name": "姐姐般的圣女的随从",
-    "name_link": "姐姐般的圣女的随从",
+    "name": "圣女姐姐的随从",
+    "name_link": "圣女姐姐的随从",
     "name_other": "",
     "des": "仅当被刻印在Arts指令卡上时，被刻印的指令卡暴击威力提升10% ＋ 当使用被刻印的指令卡进行攻击时，获得1个暴击星",
     "tag": "",

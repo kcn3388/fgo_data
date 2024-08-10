@@ -1,11 +1,11 @@
 [
   {
     "id": "173",
-    "name": "冥主の槍檻",
+    "name": "冥主的枪槛",
     "name_jp": "冥主の槍檻",
     "name_other": [],
-    "name_link": "冥主の槍檻",
-    "type": "未知",
+    "name_link": "冥主的枪槛",
+    "type": "活动奖励",
     "cmd_icon": "纹章173.png",
     "skill_icon": "特攻.png",
     "detail": {
@@ -495,10 +495,10 @@
   },
   {
     "id": "147",
-    "name": "姐姐般的圣女的随从",
+    "name": "圣女姐姐的随从",
     "name_jp": "姉なる聖女の従者",
     "name_other": [],
-    "name_link": "姐姐般的圣女的随从",
+    "name_link": "圣女姐姐的随从",
     "type": "活动奖励",
     "cmd_icon": "纹章147.png",
     "skill_icon": "暴击威力提升.png",
