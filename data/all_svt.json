@@ -1,5 +1,35 @@
 [
   {
+    "id": "417",
+    "name_cn": "埃列什基伽勒",
+    "name_jp": "エレシュキガル",
+    "name_en": "Ereshkigal",
+    "name_link": "埃列什基伽勒(Beast)",
+    "name_other": "",
+    "method": "期间限定",
+    "tag": "",
+    "online": {
+      "svt_icon": "https://media.fgo.wiki/6/6d/Servant417.jpg",
+      "card1_icon": "https://media.fgo.wiki/8/84/Quick.png",
+      "card2_icon": "https://media.fgo.wiki/9/95/Arts.png",
+      "card3_icon": "https://media.fgo.wiki/9/95/Arts.png",
+      "card4_icon": "https://media.fgo.wiki/6/6e/Buster.png",
+      "card5_icon": "https://media.fgo.wiki/6/6e/Buster.png",
+      "ultimate_icon": "https://media.fgo.wiki/9/95/Arts.png",
+      "class_icon": "https://media.fgo.wiki/d/d2/金卡Beast.png"
+    },
+    "local": {
+      "svt_icon": "Servant417.jpg",
+      "card1_icon": "Quick.png",
+      "card2_icon": "Arts.png",
+      "card3_icon": "Arts.png",
+      "card4_icon": "Buster.png",
+      "card5_icon": "Buster.png",
+      "ultimate_icon": "Arts.png",
+      "class_icon": "金卡Beast.png"
+    }
+  },
+  {
     "id": "416",
     "name_cn": "响＆千键",
     "name_jp": "ひびき＆千鍵",
