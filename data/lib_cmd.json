@@ -457,10 +457,10 @@
   },
   {
     "id": "149",
-    "name": "太阳少女狼",
+    "name": "太阳之少女狼",
     "name_jp": "太陽の乙女狼",
     "name_other": [],
-    "name_link": "太阳少女狼",
+    "name_link": "太阳之少女狼",
     "type": "活动奖励",
     "cmd_icon": "纹章149.png",
     "skill_icon": "暴击威力提升.png",
@@ -497,7 +497,9 @@
     "id": "147",
     "name": "圣女姐姐的随从",
     "name_jp": "姉なる聖女の従者",
-    "name_other": [],
+    "name_other": [
+      "圣女姐姐的从者"
+    ],
     "name_link": "圣女姐姐的随从",
     "type": "活动奖励",
     "cmd_icon": "纹章147.png",
@@ -742,10 +744,12 @@
   },
   {
     "id": "134",
-    "name": "Lady Justice",
+    "name": "正义女神",
     "name_jp": "レディ・ジャスティス",
-    "name_other": [],
-    "name_link": "Lady Justice",
+    "name_other": [
+      "正义女士"
+    ],
+    "name_link": "正义女神",
     "type": "活动奖励",
     "cmd_icon": "纹章134.png",
     "skill_icon": "集星.png",
@@ -1447,7 +1451,9 @@
     "id": "97",
     "name": "幻想铁处女",
     "name_jp": "幻想の鉄処女",
-    "name_other": [],
+    "name_other": [
+      "幻象的铁处女"
+    ],
     "name_link": "幻想铁处女",
     "type": "活动奖励",
     "cmd_icon": "纹章097.png",
@@ -1542,7 +1548,9 @@
     "id": "92",
     "name": "谜之面具",
     "name_jp": "謎の仮面",
-    "name_other": [],
+    "name_other": [
+      "迷之假面"
+    ],
     "name_link": "谜之面具",
     "type": "活动奖励",
     "cmd_icon": "纹章092.png",

@@ -2888,7 +2888,9 @@
     "id": "1976",
     "name": "英灵逢魔：骑兵",
     "name_jp": "英霊逢魔：騎乗兵",
-    "name_other": [],
+    "name_other": [
+      "英灵逢魔：骑乘兵"
+    ],
     "name_link": "英灵逢魔：骑兵",
     "type": "纪念",
     "cft_icon": "礼装1976.jpg",
@@ -11598,10 +11600,12 @@
   },
   {
     "id": "1580",
-    "name": "秘密会社暗匿者",
+    "name": "秘密会社 Assassin",
     "name_jp": "ひみつ会社 アサシン",
-    "name_other": [],
-    "name_link": "秘密会社暗匿者",
+    "name_other": [
+      "秘密会社暗匿者"
+    ],
+    "name_link": "秘密会社 Assassin",
     "type": "期间限定",
     "cft_icon": "礼装1580.jpg",
     "skill_icon": "绿放.png",
@@ -14152,7 +14156,9 @@
     "id": "1464",
     "name": "两千四百年后的约定",
     "name_jp": "２千４百年後の約束",
-    "name_other": [],
+    "name_other": [
+      "2千4百年后的约定"
+    ],
     "name_link": "两千四百年后的约定",
     "type": "牵绊",
     "cft_icon": "礼装1464.jpg",
