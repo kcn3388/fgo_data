@@ -1,5 +1,214 @@
 [
   {
+    "id": "2118",
+    "name": "夕焼け空に私はぐるぐる",
+    "name_link": "夕焼け空に私はぐるぐる",
+    "name_other": "",
+    "des": "徐福(アヴェンジャー)装備時のみ、自身がフィールドにいる間、味方全体の宝具威力を10%アップ＆〔人の力を持つ敵〕特攻状態を10%付与",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/8/80/礼装2118.jpg",
+      "skill_icon": "https://media.fgo.wiki/d/d9/宝具威力提升.png"
+    },
+    "local": {
+      "cft_icon": "礼装2118.jpg",
+      "skill_icon": "宝具威力提升.png"
+    }
+  },
+  {
+    "id": "2117",
+    "name": "タタールの槍",
+    "name_link": "タタールの槍",
+    "name_other": "",
+    "des": "ドブルイニャ・ニキチッチ(ランサー)装備時のみ、自身がフィールドにいる間、味方全体に〔竜〕特攻状態を10%付与＆〔地の力を持つ敵〕特攻状態を10%付与",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/d/d3/礼装2117.jpg",
+      "skill_icon": "https://media.fgo.wiki/3/3a/特攻.png"
+    },
+    "local": {
+      "cft_icon": "礼装2117.jpg",
+      "skill_icon": "特攻.png"
+    }
+  },
+  {
+    "id": "2116",
+    "name": "ムーン・ボゥ",
+    "name_link": "ムーン・ボゥ",
+    "name_other": "",
+    "des": "謎の代行者C.I.E.L(ムーンキャンサー)装備時のみ、自身の宝具威力を30%アップ＆毎ターンNP5%獲得状態を付与＆毎ターンHP500回復状態を付与",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/2/28/礼装2116.jpg",
+      "skill_icon": "https://media.fgo.wiki/e/e2/回合充能.png"
+    },
+    "local": {
+      "cft_icon": "礼装2116.jpg",
+      "skill_icon": "回合充能.png"
+    }
+  },
+  {
+    "id": "2115",
+    "name": "黄昏の風に吹かれて",
+    "name_link": "黄昏の風に吹かれて",
+    "name_other": "",
+    "des": "自身に防御無視状態を付与＆Quickカード性能を4%アップ＆Busterカード性能を4%アップ＆毎ターンスター3個獲得状態を付与",
+    "des_max": "自身に防御無視状態を付与＆Quickカード性能を6%アップ＆Busterカード性能を6%アップ＆毎ターンスター4個獲得状態を付与[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "1",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/2/2b/礼装2115.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/b5/无视防御.png"
+    },
+    "local": {
+      "cft_icon": "礼装2115.jpg",
+      "skill_icon": "无视防御.png"
+    }
+  },
+  {
+    "id": "2114",
+    "name": "眺望絶佳、神韻縹渺",
+    "name_link": "眺望絶佳、神韻縹渺",
+    "name_other": "",
+    "des": "自身のArtsカード性能を6%アップ＆Busterカード性能を6%アップ＆宝具威力を8%アップ＆NPを30%チャージした状態でバトルを開始する",
+    "des_max": "自身のArtsカード性能を8%アップ＆Busterカード性能を8%アップ＆宝具威力を10%アップ＆NPを50%チャージした状態でバトルを開始する[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "1",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/5/5b/礼装2114.jpg",
+      "skill_icon": "https://media.fgo.wiki/1/17/红蓝放.png"
+    },
+    "local": {
+      "cft_icon": "礼装2114.jpg",
+      "skill_icon": "红蓝放.png"
+    }
+  },
+  {
+    "id": "2113",
+    "name": "ザ・スーク",
+    "name_link": "ザ・スーク",
+    "name_other": "",
+    "des": "自身に毎ターンNP1%獲得状態を付与＆NP獲得量を3%アップ＆宝具威力を3%アップ",
+    "des_max": "自身に毎ターンNP2%獲得状態を付与＆NP獲得量を5%アップ＆宝具威力を5%アップ[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "1",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/3/38/礼装2113.jpg",
+      "skill_icon": "https://media.fgo.wiki/e/e2/回合充能.png"
+    },
+    "local": {
+      "cft_icon": "礼装2113.jpg",
+      "skill_icon": "回合充能.png"
+    }
+  },
+  {
+    "id": "2112",
+    "name": "クイーン・キラー",
+    "name_link": "クイーン・キラー",
+    "name_other": "",
+    "des": "自身の宝具使用時にチャージ段階を1段階分上げる(1回)＆宝具威力を5%アップ＆NP獲得量を5%アップ",
+    "des_max": "自身の宝具使用時にチャージ段階を1段階分上げる(1回)＆宝具威力を10%アップ＆NP獲得量を10%アップ[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "1",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/a/a3/礼装2112.jpg",
+      "skill_icon": "https://media.fgo.wiki/4/4a/充能阶段上升.png"
+    },
+    "local": {
+      "cft_icon": "礼装2112.jpg",
+      "skill_icon": "充能阶段上升.png"
+    }
+  },
+  {
+    "id": "2111",
+    "name": "ブライト・ブルー",
+    "name_link": "ブライト・ブルー",
+    "name_other": "",
+    "des": "自身に無敵状態(2回)を付与＆宝具威力を15%アップ＆クリティカル威力を5%アップ",
+    "des_max": "自身に無敵状態(2回)を付与＆宝具威力を20%アップ＆クリティカル威力を10%アップ[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "1",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/e/ef/礼装2111.jpg",
+      "skill_icon": "https://media.fgo.wiki/6/6b/无敌.png"
+    },
+    "local": {
+      "cft_icon": "礼装2111.jpg",
+      "skill_icon": "无敌.png"
+    }
+  },
+  {
+    "id": "2110",
+    "name": "モーダカ・ポータブル",
+    "name_link": "モーダカ・ポータブル",
+    "name_other": "",
+    "des": "自身に毎ターンHP50回復状態を付与＆Artsカード性能を3%アップ",
+    "des_max": "自身に毎ターンHP100回復状態を付与＆Artsカード性能を5%アップ[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "1",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/6/65/礼装2110.jpg",
+      "skill_icon": "https://media.fgo.wiki/b/bc/每回合回复.png"
+    },
+    "local": {
+      "cft_icon": "礼装2110.jpg",
+      "skill_icon": "每回合回复.png"
+    }
+  },
+  {
+    "id": "2109",
+    "name": "プールサイド・メイド",
+    "name_link": "プールサイド・メイド",
+    "name_other": "",
+    "des": "自身のHP回復量を15%アップ＆NP獲得量を5%アップ＆宝具威力を5%アップ",
+    "des_max": "自身のHP回復量を20%アップ＆NP獲得量を10%アップ＆宝具威力を10%アップ[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "1",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/c/ca/礼装2109.jpg",
+      "skill_icon": "https://media.fgo.wiki/9/97/回复量提升.png"
+    },
+    "local": {
+      "cft_icon": "礼装2109.jpg",
+      "skill_icon": "回复量提升.png"
+    }
+  },
+  {
+    "id": "2108",
+    "name": "ウィズ・ザ・ムーン",
+    "name_link": "ウィズ・ザ・ムーン",
+    "name_other": "",
+    "des": "自身のArtsカード性能を10%アップ＆宝具威力を10%アップ＆NP獲得量を15%アップ",
+    "des_max": "自身のArtsカード性能を15%アップ＆宝具威力を15%アップ＆NP獲得量を20%アップ[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "1",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/b/b9/礼装2108.jpg",
+      "skill_icon": "https://media.fgo.wiki/0/03/蓝放.png"
+    },
+    "local": {
+      "cft_icon": "礼装2108.jpg",
+      "skill_icon": "蓝放.png"
+    }
+  },
+  {
     "id": "2107",
     "name": "Fate/stay night REMASTERED",
     "name_link": "Fate/stay night REMASTERED",
