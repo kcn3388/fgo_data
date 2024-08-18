@@ -1,11 +1,11 @@
 [
   {
     "id": "2118",
-    "name": "夕焼け空に私はぐるぐる",
+    "name": "在晚霞的天空下我骨碌骨碌地转",
     "name_jp": "夕焼け空に私はぐるぐる",
     "name_other": [],
-    "name_link": "夕焼け空に私はぐるぐる",
-    "type": "未知",
+    "name_link": "在晚霞的天空下我骨碌骨碌地转",
+    "type": "牵绊",
     "cft_icon": "礼装2118.jpg",
     "skill_icon": "宝具威力提升.png",
     "detail": {
@@ -23,11 +23,11 @@
   },
   {
     "id": "2117",
-    "name": "タタールの槍",
+    "name": "鞑靼人的枪",
     "name_jp": "タタールの槍",
     "name_other": [],
-    "name_link": "タタールの槍",
-    "type": "未知",
+    "name_link": "鞑靼人的枪",
+    "type": "牵绊",
     "cft_icon": "礼装2117.jpg",
     "skill_icon": "特攻.png",
     "detail": {
@@ -45,11 +45,11 @@
   },
   {
     "id": "2116",
-    "name": "ムーン・ボゥ",
+    "name": "月之虹",
     "name_jp": "ムーン・ボゥ",
     "name_other": [],
-    "name_link": "ムーン・ボゥ",
-    "type": "未知",
+    "name_link": "月之虹",
+    "type": "牵绊",
     "cft_icon": "礼装2116.jpg",
     "skill_icon": "回合充能.png",
     "detail": {
@@ -67,11 +67,11 @@
   },
   {
     "id": "2115",
-    "name": "黄昏の風に吹かれて",
+    "name": "吹着黄昏的风",
     "name_jp": "黄昏の風に吹かれて",
     "name_other": [],
-    "name_link": "黄昏の風に吹かれて",
-    "type": "未知",
+    "name_link": "吹着黄昏的风",
+    "type": "活动奖励",
     "cft_icon": "礼装2115.jpg",
     "skill_icon": "无视防御.png",
     "detail": {
@@ -89,11 +89,11 @@
   },
   {
     "id": "2114",
-    "name": "眺望絶佳、神韻縹渺",
+    "name": "眺望绝景，神韵缥缈",
     "name_jp": "眺望絶佳、神韻縹渺",
     "name_other": [],
-    "name_link": "眺望絶佳、神韻縹渺",
-    "type": "未知",
+    "name_link": "眺望绝景，神韵缥缈",
+    "type": "活动奖励",
     "cft_icon": "礼装2114.jpg",
     "skill_icon": "红蓝放.png",
     "detail": {
@@ -111,11 +111,11 @@
   },
   {
     "id": "2113",
-    "name": "ザ・スーク",
+    "name": "集市",
     "name_jp": "ザ・スーク",
     "name_other": [],
-    "name_link": "ザ・スーク",
-    "type": "未知",
+    "name_link": "集市",
+    "type": "期间限定",
     "cft_icon": "礼装2113.jpg",
     "skill_icon": "回合充能.png",
     "detail": {
@@ -133,11 +133,11 @@
   },
   {
     "id": "2112",
-    "name": "クイーン・キラー",
+    "name": "王后杀手",
     "name_jp": "クイーン・キラー",
     "name_other": [],
-    "name_link": "クイーン・キラー",
-    "type": "未知",
+    "name_link": "王后杀手",
+    "type": "期间限定",
     "cft_icon": "礼装2112.jpg",
     "skill_icon": "充能阶段上升.png",
     "detail": {
@@ -155,11 +155,11 @@
   },
   {
     "id": "2111",
-    "name": "ブライト・ブルー",
+    "name": "明亮之蓝",
     "name_jp": "ブライト・ブルー",
     "name_other": [],
-    "name_link": "ブライト・ブルー",
-    "type": "未知",
+    "name_link": "明亮之蓝",
+    "type": "期间限定",
     "cft_icon": "礼装2111.jpg",
     "skill_icon": "无敌.png",
     "detail": {
@@ -177,11 +177,11 @@
   },
   {
     "id": "2110",
-    "name": "モーダカ・ポータブル",
+    "name": "便携式甜蒸饺",
     "name_jp": "モーダカ・ポータブル",
     "name_other": [],
-    "name_link": "モーダカ・ポータブル",
-    "type": "未知",
+    "name_link": "便携式甜蒸饺",
+    "type": "期间限定",
     "cft_icon": "礼装2110.jpg",
     "skill_icon": "每回合回复.png",
     "detail": {
@@ -199,11 +199,11 @@
   },
   {
     "id": "2109",
-    "name": "プールサイド・メイド",
+    "name": "池边女仆",
     "name_jp": "プールサイド・メイド",
     "name_other": [],
-    "name_link": "プールサイド・メイド",
-    "type": "未知",
+    "name_link": "池边女仆",
+    "type": "期间限定",
     "cft_icon": "礼装2109.jpg",
     "skill_icon": "回复量提升.png",
     "detail": {
@@ -221,11 +221,11 @@
   },
   {
     "id": "2108",
-    "name": "ウィズ・ザ・ムーン",
+    "name": "伴月",
     "name_jp": "ウィズ・ザ・ムーン",
     "name_other": [],
-    "name_link": "ウィズ・ザ・ムーン",
-    "type": "未知",
+    "name_link": "伴月",
+    "type": "期间限定",
     "cft_icon": "礼装2108.jpg",
     "skill_icon": "蓝放.png",
     "detail": {
@@ -485,10 +485,10 @@
   },
   {
     "id": "2096",
-    "name": "英灵博装：UDK-巴格斯特",
+    "name": "英灵博装：UDK－巴格斯特",
     "name_jp": "英霊博装：ＵＤＫ－バーゲスト",
     "name_other": [],
-    "name_link": "英灵博装：UDK-巴格斯特",
+    "name_link": "英灵博装：UDK－巴格斯特",
     "type": "纪念",
     "cft_icon": "礼装2096.jpg",
     "skill_icon": "经验增加.png",
@@ -4384,10 +4384,10 @@
   },
   {
     "id": "1919",
-    "name": "EVER DARK -永夜战线-",
+    "name": "EVER DARK －永夜战线－",
     "name_jp": "EVER DARK －永夜戦線－",
     "name_other": [],
-    "name_link": "EVER DARK -永夜战线-",
+    "name_link": "EVER DARK －永夜战线－",
     "type": "活动奖励",
     "cft_icon": "礼装1919.jpg",
     "skill_icon": "空白效果.png",
@@ -4626,10 +4626,10 @@
   },
   {
     "id": "1908",
-    "name": "泡影-Phantasma-莫德雷德写真集",
+    "name": "泡影－Phantasma－莫德雷德写真集",
     "name_jp": "泡影－Phantasma－モードレッド写真集",
     "name_other": [],
-    "name_link": "泡影-Phantasma-莫德雷德写真集",
+    "name_link": "泡影－Phantasma－莫德雷德写真集",
     "type": "活动奖励",
     "cft_icon": "礼装1908.jpg",
     "skill_icon": "空白效果.png",

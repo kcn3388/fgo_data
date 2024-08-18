@@ -1,11 +1,11 @@
 [
   {
     "id": "176",
-    "name": "ファニー・ヴァンプ",
+    "name": "Funny Vamp",
     "name_jp": "ファニー・ヴァンプ",
     "name_other": [],
-    "name_link": "ファニー・ヴァンプ",
-    "type": "未知",
+    "name_link": "Funny Vamp",
+    "type": "活动奖励",
     "cmd_icon": "纹章176.png",
     "skill_icon": "特攻.png",
     "detail": {
@@ -20,11 +20,11 @@
   },
   {
     "id": "175",
-    "name": "ＫＭＲ３０００－ＭＨ",
+    "name": "KMR3000－MH",
     "name_jp": "ＫＭＲ３０００－ＭＨ",
     "name_other": [],
-    "name_link": "ＫＭＲ３０００－ＭＨ",
-    "type": "未知",
+    "name_link": "KMR3000－MH",
+    "type": "活动奖励",
     "cmd_icon": "纹章175.png",
     "skill_icon": "出星.png",
     "detail": {
@@ -39,11 +39,11 @@
   },
   {
     "id": "174",
-    "name": "ぐっ様人形",
+    "name": "虞大人人偶",
     "name_jp": "ぐっ様人形",
     "name_other": [],
-    "name_link": "ぐっ様人形",
-    "type": "未知",
+    "name_link": "虞大人人偶",
+    "type": "活动奖励",
     "cmd_icon": "纹章174.png",
     "skill_icon": "诅咒.png",
     "detail": {

@@ -1,15 +1,15 @@
 [
   {
     "id": "176",
-    "name": "ファニー・ヴァンプ",
-    "name_link": "ファニー・ヴァンプ",
+    "name": "Funny Vamp",
+    "name_link": "Funny Vamp",
     "name_other": "",
-    "des": "刻印されたカードに〔混沌〕特攻効果を20%付与＆NP獲得量を5%アップ",
+    "des": "付与被刻印的指令卡20%〔混沌〕特攻效果＆NP获得量提升5%",
     "tag": "",
-    "type": "未知",
-    "method": "",
-    "method_link": "",
-    "method_link_text": "",
+    "type": "活动奖励",
+    "method": "活动%LINK%奖励",
+    "method_link": "BB出品☆名流夏日体验！ ～反击的迪拜～",
+    "method_link_text": "BB出品☆名流夏日体验！",
     "online": {
       "cmd_icon": "https://media.fgo.wiki/9/97/纹章176.png",
       "skill_icon": "https://media.fgo.wiki/3/3a/特攻.png"
@@ -21,15 +21,15 @@
   },
   {
     "id": "175",
-    "name": "ＫＭＲ３０００－ＭＨ",
-    "name_link": "ＫＭＲ３０００－ＭＨ",
+    "name": "KMR3000－MH",
+    "name_link": "KMR3000－MH",
     "name_other": "",
-    "des": "刻印されたカードによる攻撃時にスターを3個獲得",
+    "des": "当使用被刻印的指令卡进行攻击时，获得3个暴击星",
     "tag": "",
-    "type": "未知",
-    "method": "",
-    "method_link": "",
-    "method_link_text": "",
+    "type": "活动奖励",
+    "method": "活动%LINK%奖励",
+    "method_link": "BB出品☆名流夏日体验！ ～反击的迪拜～",
+    "method_link_text": "BB出品☆名流夏日体验！",
     "online": {
       "cmd_icon": "https://media.fgo.wiki/c/c2/纹章175.png",
       "skill_icon": "https://media.fgo.wiki/b/b6/出星.png"
@@ -41,15 +41,15 @@
   },
   {
     "id": "174",
-    "name": "ぐっ様人形",
-    "name_link": "ぐっ様人形",
+    "name": "虞大人人偶",
+    "name_link": "虞大人人偶",
     "name_other": "",
-    "des": "刻印されたカードによる攻撃時に、敵単体に呪い状態(300ダメージ・3ターン)を付与＋自身のHPを100回復",
+    "des": "当使用被刻印的指令卡进行攻击时，付与敌方单体诅咒状态(300伤害·3回合)＋自身的HP回复100",
     "tag": "",
-    "type": "未知",
-    "method": "",
-    "method_link": "",
-    "method_link_text": "",
+    "type": "活动奖励",
+    "method": "活动%LINK%奖励",
+    "method_link": "BB出品☆名流夏日体验！ ～反击的迪拜～",
+    "method_link_text": "BB出品☆名流夏日体验！",
     "online": {
       "cmd_icon": "https://media.fgo.wiki/f/fd/纹章174.png",
       "skill_icon": "https://media.fgo.wiki/c/c5/诅咒.png"
