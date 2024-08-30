@@ -1,5 +1,100 @@
 [
   {
+    "id": "2123",
+    "name": "逃避の始まり",
+    "name_link": "逃避の始まり",
+    "name_other": "",
+    "des": "自身のArtsカードのスター集中度を300%アップ＆ダメージを300カットする状態を付与",
+    "des_max": "自身のArtsカードのスター集中度を400%アップ＆ダメージを400カットする状態を付与[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/7/77/礼装2123.jpg",
+      "skill_icon": "https://media.fgo.wiki/8/8f/蓝卡集星.png"
+    },
+    "local": {
+      "cft_icon": "礼装2123.jpg",
+      "skill_icon": "蓝卡集星.png"
+    }
+  },
+  {
+    "id": "2122",
+    "name": "法悦の浄土",
+    "name_link": "法悦の浄土",
+    "name_other": "",
+    "des": "自身のArtsカード性能を8%アップ＆NPを40%チャージした状態でバトルを開始する＆宝具使用時にチャージ段階を2段階分上げる(1回)",
+    "des_max": "自身のArtsカード性能を10%アップ＆NPを50%チャージした状態でバトルを開始する＆宝具使用時にチャージ段階を2段階分上げる(1回)[最大解放]",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/7/75/礼装2122.jpg",
+      "skill_icon": "https://media.fgo.wiki/0/03/蓝放.png"
+    },
+    "local": {
+      "cft_icon": "礼装2122.jpg",
+      "skill_icon": "蓝放.png"
+    }
+  },
+  {
+    "id": "2121",
+    "name": "トリックマスター",
+    "name_link": "トリックマスター",
+    "name_other": "",
+    "des": "謎のヒロインXX〔オルタ〕(フォーリナー)装備時のみ、自身がフィールドにいる間、味方全体に〔秩序〕特攻状態を15%付与＆〔善〕特攻状態を15%付与",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/8/84/礼装2121.jpg",
+      "skill_icon": "https://media.fgo.wiki/3/3a/特攻.png"
+    },
+    "local": {
+      "cft_icon": "礼装2121.jpg",
+      "skill_icon": "特攻.png"
+    }
+  },
+  {
+    "id": "2120",
+    "name": "月への移転届",
+    "name_link": "月への移転届",
+    "name_other": "",
+    "des": "テノチティトラン(ムーンキャンサー)装備時のみ、自身がフィールドにいる間、味方全体の宝具威力を10%アップ＆〔超巨大〕特攻状態を15%付与",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/2/2c/礼装2120.jpg",
+      "skill_icon": "https://media.fgo.wiki/d/d9/宝具威力提升.png"
+    },
+    "local": {
+      "cft_icon": "礼装2120.jpg",
+      "skill_icon": "宝具威力提升.png"
+    }
+  },
+  {
+    "id": "2119",
+    "name": "ゴールデン☆セレブナイト",
+    "name_link": "ゴールデン☆セレブナイト",
+    "name_other": "",
+    "des": "ＢＢドバイ(ムーンキャンサー)装備時のみ、自身に〔保護対象外〕特攻状態を20%付与 ＋ 自身がフィールドにいる間、自身を除く〔保護対象〕特性の味方全体のNP獲得量を20%アップ",
+    "des_max": "",
+    "tag": "",
+    "type": "未知",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/0/02/礼装2119.jpg",
+      "skill_icon": "https://media.fgo.wiki/3/3a/特攻.png"
+    },
+    "local": {
+      "cft_icon": "礼装2119.jpg",
+      "skill_icon": "特攻.png"
+    }
+  },
+  {
     "id": "2118",
     "name": "在晚霞的天空下我骨碌骨碌地转",
     "name_link": "在晚霞的天空下我骨碌骨碌地转",
