@@ -1,11 +1,24 @@
 [
   {
+    "id": "2124",
+    "name": "手稿の翼",
+    "name_jp": "手稿の翼",
+    "name_other": [],
+    "name_link": "手稿の翼",
+    "type": "未知",
+    "error": [
+      "cft2124 init error: no local res"
+    ],
+    "cft_icon": "礼装2124.jpg",
+    "skill_icon": "牵绊获得量提升.png"
+  },
+  {
     "id": "2123",
-    "name": "逃避の始まり",
+    "name": "逃避的起点",
     "name_jp": "逃避の始まり",
     "name_other": [],
-    "name_link": "逃避の始まり",
-    "type": "未知",
+    "name_link": "逃避的起点",
+    "type": "卡池常驻",
     "cft_icon": "礼装2123.jpg",
     "skill_icon": "蓝卡集星.png",
     "detail": {
@@ -23,11 +36,11 @@
   },
   {
     "id": "2122",
-    "name": "法悦の浄土",
+    "name": "法悦净土",
     "name_jp": "法悦の浄土",
     "name_other": [],
-    "name_link": "法悦の浄土",
-    "type": "未知",
+    "name_link": "法悦净土",
+    "type": "卡池常驻",
     "cft_icon": "礼装2122.jpg",
     "skill_icon": "蓝放.png",
     "detail": {
@@ -45,11 +58,11 @@
   },
   {
     "id": "2121",
-    "name": "トリックマスター",
+    "name": "捣蛋鬼",
     "name_jp": "トリックマスター",
     "name_other": [],
-    "name_link": "トリックマスター",
-    "type": "未知",
+    "name_link": "捣蛋鬼",
+    "type": "牵绊",
     "cft_icon": "礼装2121.jpg",
     "skill_icon": "特攻.png",
     "detail": {
@@ -67,11 +80,11 @@
   },
   {
     "id": "2120",
-    "name": "月への移転届",
+    "name": "月球移居申请",
     "name_jp": "月への移転届",
     "name_other": [],
-    "name_link": "月への移転届",
-    "type": "未知",
+    "name_link": "月球移居申请",
+    "type": "牵绊",
     "cft_icon": "礼装2120.jpg",
     "skill_icon": "宝具威力提升.png",
     "detail": {
@@ -89,11 +102,11 @@
   },
   {
     "id": "2119",
-    "name": "ゴールデン☆セレブナイト",
+    "name": "黄金☆名流之夜",
     "name_jp": "ゴールデン☆セレブナイト",
     "name_other": [],
-    "name_link": "ゴールデン☆セレブナイト",
-    "type": "未知",
+    "name_link": "黄金☆名流之夜",
+    "type": "牵绊",
     "cft_icon": "礼装2119.jpg",
     "skill_icon": "特攻.png",
     "detail": {
