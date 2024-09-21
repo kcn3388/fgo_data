@@ -1,5 +1,65 @@
 [
   {
+    "id": "425",
+    "name_cn": "岸波白野",
+    "name_jp": "岸波白野",
+    "name_en": "Kishinami Hakuno",
+    "name_link": "岸波白野(女性)",
+    "name_other": "",
+    "method": "活动赠送",
+    "tag": "",
+    "online": {
+      "svt_icon": "https://media.fgo.wiki/b/bd/Servant425.jpg",
+      "card1_icon": "https://media.fgo.wiki/8/84/Quick.png",
+      "card2_icon": "https://media.fgo.wiki/9/95/Arts.png",
+      "card3_icon": "https://media.fgo.wiki/9/95/Arts.png",
+      "card4_icon": "https://media.fgo.wiki/6/6e/Buster.png",
+      "card5_icon": "https://media.fgo.wiki/6/6e/Buster.png",
+      "ultimate_icon": "https://media.fgo.wiki/6/6e/Buster.png",
+      "class_icon": "https://media.fgo.wiki/c/c3/金卡MoonCancer.png"
+    },
+    "local": {
+      "svt_icon": "Servant425.jpg",
+      "card1_icon": "Quick.png",
+      "card2_icon": "Arts.png",
+      "card3_icon": "Arts.png",
+      "card4_icon": "Buster.png",
+      "card5_icon": "Buster.png",
+      "ultimate_icon": "Buster.png",
+      "class_icon": "金卡MoonCancer.png"
+    }
+  },
+  {
+    "id": "424",
+    "name_cn": "岸波白野",
+    "name_jp": "岸波白野",
+    "name_en": "Kishinami Hakuno",
+    "name_link": "岸波白野(男性)",
+    "name_other": "",
+    "method": "活动赠送",
+    "tag": "",
+    "online": {
+      "svt_icon": "https://media.fgo.wiki/b/b5/Servant424.jpg",
+      "card1_icon": "https://media.fgo.wiki/8/84/Quick.png",
+      "card2_icon": "https://media.fgo.wiki/9/95/Arts.png",
+      "card3_icon": "https://media.fgo.wiki/9/95/Arts.png",
+      "card4_icon": "https://media.fgo.wiki/6/6e/Buster.png",
+      "card5_icon": "https://media.fgo.wiki/6/6e/Buster.png",
+      "ultimate_icon": "https://media.fgo.wiki/6/6e/Buster.png",
+      "class_icon": "https://media.fgo.wiki/c/c3/金卡MoonCancer.png"
+    },
+    "local": {
+      "svt_icon": "Servant424.jpg",
+      "card1_icon": "Quick.png",
+      "card2_icon": "Arts.png",
+      "card3_icon": "Arts.png",
+      "card4_icon": "Buster.png",
+      "card5_icon": "Buster.png",
+      "ultimate_icon": "Buster.png",
+      "class_icon": "金卡MoonCancer.png"
+    }
+  },
+  {
     "id": "423",
     "name_cn": "谜之女主角XX〔Alter〕",
     "name_jp": "謎のヒロインXX〔オルタ〕",
