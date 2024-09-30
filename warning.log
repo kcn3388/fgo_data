@@ -2854,3 +2854,31 @@ Traceback (most recent call last):
                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 RecursionError: maximum recursion depth exceeded
 
+2024-09-30 08:56:42.391380
+maximum recursion depth exceeded
+Traceback (most recent call last):
+  File "/home/runner/work/fgo_data/fgo_data/./__init__.py", line 29, in <module>
+    down_all_card_res()
+  File "/home/runner/work/fgo_data/fgo_data/fgo_fetch_all.py", line 100, in down_all_card_res
+    down_all_card_res()
+  File "/home/runner/work/fgo_data/fgo_data/fgo_fetch_all.py", line 100, in down_all_card_res
+    down_all_card_res()
+  File "/home/runner/work/fgo_data/fgo_data/fgo_fetch_all.py", line 100, in down_all_card_res
+    down_all_card_res()
+  [Previous line repeated 991 more times]
+  File "/home/runner/work/fgo_data/fgo_data/fgo_fetch_all.py", line 97, in down_all_card_res
+    download_svt()
+  File "/home/runner/work/fgo_data/fgo_data/download/download_all_res.py", line 17, in download_svt
+    svt = json.load(f)
+          ^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.6/x64/lib/python3.12/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.6/x64/lib/python3.12/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.6/x64/lib/python3.12/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RecursionError: maximum recursion depth exceeded
+
