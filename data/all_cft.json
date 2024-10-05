@@ -1,5 +1,62 @@
 [
   {
+    "id": "2130",
+    "name": "偽りの誓約",
+    "name_link": "偽りの誓約",
+    "name_other": "",
+    "des": "付与自身每回合获得NP4%的状态＆Quick指令卡性能提升3%＆Arts指令卡性能提升3%＆NP获得量提升3%",
+    "des_max": "付与自身每回合获得NP5%的状态＆Quick指令卡性能提升5%＆Arts指令卡性能提升5%＆NP获得量提升5%[最大解放]",
+    "tag": "",
+    "type": "卡池常驻",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/5/56/礼装2130.jpg",
+      "skill_icon": "https://media.fgo.wiki/e/e2/回合充能.png"
+    },
+    "local": {
+      "cft_icon": "礼装2130.jpg",
+      "skill_icon": "回合充能.png"
+    }
+  },
+  {
+    "id": "2129",
+    "name": "乾いた拳",
+    "name_link": "乾いた拳",
+    "name_other": "",
+    "des": "自身的暴击星集中度提升100%＆Quick指令卡性能提升8%＆Arts指令卡性能提升8%＆Buster指令卡性能提升8%",
+    "des_max": "自身的暴击星集中度提升200%＆Quick指令卡性能提升10%＆Arts指令卡性能提升10%＆Buster指令卡性能提升10%[最大解放]",
+    "tag": "",
+    "type": "卡池常驻",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/4/42/礼装2129.jpg",
+      "skill_icon": "https://media.fgo.wiki/7/7a/集星.png"
+    },
+    "local": {
+      "cft_icon": "礼装2129.jpg",
+      "skill_icon": "集星.png"
+    }
+  },
+  {
+    "id": "2128",
+    "name": "鉱石科の君主",
+    "name_link": "鉱石科の君主",
+    "name_other": "",
+    "des": "付与自身无敌状态(3次)＆强化解除耐性提升10%",
+    "des_max": "付与自身无敌状态(3次)＆强化解除耐性提升20%[最大解放]",
+    "tag": "",
+    "type": "卡池常驻",
+    "event": "0",
+    "online": {
+      "cft_icon": "https://media.fgo.wiki/6/6f/礼装2128.jpg",
+      "skill_icon": "https://media.fgo.wiki/6/6b/无敌.png"
+    },
+    "local": {
+      "cft_icon": "礼装2128.jpg",
+      "skill_icon": "无敌.png"
+    }
+  },
+  {
     "id": "2127",
     "name": "作为毕业的证明",
     "name_link": "作为毕业的证明(女性)",
