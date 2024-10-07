@@ -1,5 +1,18 @@
 [
   {
+    "id": "177",
+    "name": "妖精王の冠",
+    "name_jp": "妖精王の冠",
+    "name_other": [],
+    "name_link": "妖精王の冠",
+    "type": "未知",
+    "error": [
+      "cmd177 init error: no local res"
+    ],
+    "cmd_icon": "纹章177.png",
+    "skill_icon": "特攻.png"
+  },
+  {
     "id": "176",
     "name": "Funny Vamp",
     "name_jp": "ファニー・ヴァンプ",
