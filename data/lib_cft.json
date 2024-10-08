@@ -1,10 +1,10 @@
 [
   {
     "id": "2130",
-    "name": "偽りの誓約",
+    "name": "虚假的誓约",
     "name_jp": "偽りの誓約",
     "name_other": [],
-    "name_link": "偽りの誓約",
+    "name_link": "虚假的誓约",
     "type": "卡池常驻",
     "cft_icon": "礼装2130.jpg",
     "skill_icon": "回合充能.png",
@@ -23,10 +23,10 @@
   },
   {
     "id": "2129",
-    "name": "乾いた拳",
+    "name": "枯涸的拳",
     "name_jp": "乾いた拳",
     "name_other": [],
-    "name_link": "乾いた拳",
+    "name_link": "枯涸的拳",
     "type": "卡池常驻",
     "cft_icon": "礼装2129.jpg",
     "skill_icon": "集星.png",
@@ -45,10 +45,10 @@
   },
   {
     "id": "2128",
-    "name": "鉱石科の君主",
+    "name": "矿石科的君主",
     "name_jp": "鉱石科の君主",
     "name_other": [],
-    "name_link": "鉱石科の君主",
+    "name_link": "矿石科的君主",
     "type": "卡池常驻",
     "cft_icon": "礼装2128.jpg",
     "skill_icon": "无敌.png",

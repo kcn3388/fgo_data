@@ -1,15 +1,15 @@
 [
   {
     "id": "177",
-    "name": "妖精王の冠",
-    "name_link": "妖精王の冠",
+    "name": "妖精王之冠",
+    "name_link": "妖精王之冠",
     "name_other": "",
-    "des": "刻印されたカードに〔秩序〕特攻効果を15%付与＆NP獲得量を5%アップ",
+    "des": "付与被刻印的指令卡15%〔秩序〕特攻效果＆NP获得量提升5%",
     "tag": "",
-    "type": "未知",
-    "method": "",
-    "method_link": "",
-    "method_link_text": "",
+    "type": "活动奖励",
+    "method": "活动%LINK%奖励",
+    "method_link": "3000万下载突破纪念活动",
+    "method_link_text": "3000万下载突破纪念活动",
     "online": {
       "cmd_icon": "https://media.fgo.wiki/c/cf/纹章177.png",
       "skill_icon": "https://media.fgo.wiki/3/3a/特攻.png"
