@@ -1,11 +1,11 @@
 [
   {
     "id": "2135",
-    "name": "足洗邸の余分な一時",
+    "name": "足洗邸中的余暇片刻",
     "name_jp": "足洗邸の余分な一時",
     "name_other": [],
-    "name_link": "足洗邸の余分な一時",
-    "type": "未知",
+    "name_link": "足洗邸中的余暇片刻",
+    "type": "牵绊",
     "cft_icon": "礼装2135.jpg",
     "skill_icon": "暴击威力提升.png",
     "detail": {
@@ -23,11 +23,11 @@
   },
   {
     "id": "2134",
-    "name": "ウィズ・マイ・ファーザー",
+    "name": "与我的父亲",
     "name_jp": "ウィズ・マイ・ファーザー",
     "name_other": [],
-    "name_link": "ウィズ・マイ・ファーザー",
-    "type": "未知",
+    "name_link": "与我的父亲",
+    "type": "活动赠送",
     "cft_icon": "礼装2134.jpg",
     "skill_icon": "无视防御.png",
     "detail": {
@@ -45,11 +45,11 @@
   },
   {
     "id": "2133",
-    "name": "親父の料理",
+    "name": "老爹的料理",
     "name_jp": "親父の料理",
     "name_other": [],
-    "name_link": "親父の料理",
-    "type": "未知",
+    "name_link": "老爹的料理",
+    "type": "期间限定",
     "cft_icon": "礼装2133.jpg",
     "skill_icon": "必中.png",
     "detail": {
@@ -67,11 +67,11 @@
   },
   {
     "id": "2132",
-    "name": "まどろみのうた",
+    "name": "浅眠之歌",
     "name_jp": "まどろみのうた",
     "name_other": [],
-    "name_link": "まどろみのうた",
-    "type": "未知",
+    "name_link": "浅眠之歌",
+    "type": "期间限定",
     "cft_icon": "礼装2132.jpg",
     "skill_icon": "回合充能.png",
     "detail": {
@@ -89,11 +89,11 @@
   },
   {
     "id": "2131",
-    "name": "この世のいかなる宝石より",
+    "name": "胜过此世一切宝石",
     "name_jp": "この世のいかなる宝石より",
     "name_other": [],
-    "name_link": "この世のいかなる宝石より",
-    "type": "未知",
+    "name_link": "胜过此世一切宝石",
+    "type": "期间限定",
     "cft_icon": "礼装2131.jpg",
     "skill_icon": "红放.png",
     "detail": {

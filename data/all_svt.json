@@ -1,5 +1,35 @@
 [
   {
+    "id": "426",
+    "name_cn": "Kazuradrop",
+    "name_jp": "カズラドロップ",
+    "name_en": "Kazuradrop",
+    "name_link": "Kazuradrop",
+    "name_other": "缪瑞恩&糖果藤蔓",
+    "method": "期间限定",
+    "tag": "泳装&水着",
+    "online": {
+      "svt_icon": "https://media.fgo.wiki/c/c9/Servant426.jpg",
+      "card1_icon": "https://media.fgo.wiki/8/84/Quick.png",
+      "card2_icon": "https://media.fgo.wiki/8/84/Quick.png",
+      "card3_icon": "https://media.fgo.wiki/9/95/Arts.png",
+      "card4_icon": "https://media.fgo.wiki/9/95/Arts.png",
+      "card5_icon": "https://media.fgo.wiki/6/6e/Buster.png",
+      "ultimate_icon": "https://media.fgo.wiki/8/84/Quick.png",
+      "class_icon": "https://media.fgo.wiki/f/ff/金卡Alterego.png"
+    },
+    "local": {
+      "svt_icon": "Servant426.jpg",
+      "card1_icon": "Quick.png",
+      "card2_icon": "Quick.png",
+      "card3_icon": "Arts.png",
+      "card4_icon": "Arts.png",
+      "card5_icon": "Buster.png",
+      "ultimate_icon": "Quick.png",
+      "class_icon": "金卡Alterego.png"
+    }
+  },
+  {
     "id": "425",
     "name_cn": "岸波白野",
     "name_jp": "岸波白野",
@@ -6437,7 +6467,7 @@
     "name_jp": "沖田総司〔オルタ〕",
     "name_en": "Okita Souji (Alter)",
     "name_link": "冲田总司〔Alter〕",
-    "name_other": "魔神总司",
+    "name_other": "魔神总司&炼狱Alter",
     "method": "期间限定",
     "tag": "",
     "online": {
