@@ -5,7 +5,7 @@
     "name_jp": "カズラドロップ",
     "name_en": "Kazuradrop",
     "name_link": "Kazuradrop",
-    "name_other": "缪瑞恩&糖果藤蔓",
+    "name_other": "缪瑞恩&糖果藤蔓&藤蔓之滴&猪笼草",
     "method": "期间限定",
     "tag": "泳装&水着",
     "online": {
@@ -36,7 +36,7 @@
     "name_en": "Kishinami Hakuno",
     "name_link": "岸波白野(女性)",
     "name_other": "扎比子",
-    "method": "活动赠送",
+    "method": "活动赠送<br>期间限定",
     "tag": "",
     "online": {
       "svt_icon": "https://media.fgo.wiki/b/bd/Servant425.jpg",
@@ -66,7 +66,7 @@
     "name_en": "Kishinami Hakuno",
     "name_link": "岸波白野(男性)",
     "name_other": "扎比夫",
-    "method": "活动赠送",
+    "method": "活动赠送<br>期间限定",
     "tag": "",
     "online": {
       "svt_icon": "https://media.fgo.wiki/b/b5/Servant424.jpg",
@@ -7805,7 +7805,7 @@
     "name_jp": "パッションリップ",
     "name_en": "Passionlip",
     "name_link": "Passionlip",
-    "name_other": "lip&帕森莉普",
+    "name_other": "Lip&帕森莉普&热情迷唇&西番莲&郁金香",
     "method": "期间限定",
     "tag": "",
     "online": {
@@ -7835,7 +7835,7 @@
     "name_jp": "メルトリリス",
     "name_en": "Meltryllis",
     "name_link": "Meltryllis",
-    "name_other": "莉莉丝&Melt Lilith",
+    "name_other": "溶解莉莉丝&梅尔特莉莉丝&Melt Lilith&孤挺花",
     "method": "期间限定",
     "tag": "",
     "online": {
