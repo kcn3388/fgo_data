@@ -1,5 +1,65 @@
 [
   {
+    "id": "180",
+    "name": "武成王",
+    "name_link": "武成王",
+    "name_other": "",
+    "des": "刻印されたカードによる攻撃時にスターを3個獲得 ＋ 自身が〔秩序〕特性の時、刻印されたカードのクリティカル威力を10%アップ＆〔混沌〕特性の時、刻印されたカードのNP獲得量を5%アップ",
+    "tag": "",
+    "type": "未知",
+    "method": "",
+    "method_link": "",
+    "method_link_text": "",
+    "online": {
+      "cmd_icon": "https://media.fgo.wiki/c/cf/纹章180.png",
+      "skill_icon": "https://media.fgo.wiki/b/b6/出星.png"
+    },
+    "local": {
+      "cmd_icon": "纹章180.png",
+      "skill_icon": "出星.png"
+    }
+  },
+  {
+    "id": "179",
+    "name": "子を救いし英雄の弩",
+    "name_link": "子を救いし英雄の弩",
+    "name_other": "",
+    "des": "刻印されたカードに必中効果を付与 ＋ 刻印されたカードによる攻撃時にスターを2個獲得",
+    "tag": "",
+    "type": "未知",
+    "method": "",
+    "method_link": "",
+    "method_link_text": "",
+    "online": {
+      "cmd_icon": "https://media.fgo.wiki/1/1c/纹章179.png",
+      "skill_icon": "https://media.fgo.wiki/9/90/必中.png"
+    },
+    "local": {
+      "cmd_icon": "纹章179.png",
+      "skill_icon": "必中.png"
+    }
+  },
+  {
+    "id": "178",
+    "name": "千鳥飾りの和傘",
+    "name_link": "千鳥飾りの和傘",
+    "name_other": "",
+    "des": "Quickカードに刻印時のみ、刻印されたカードのクリティカル威力を10%アップ ＋ 刻印されたカードによる攻撃時にスターを1個獲得",
+    "tag": "",
+    "type": "未知",
+    "method": "",
+    "method_link": "",
+    "method_link_text": "",
+    "online": {
+      "cmd_icon": "https://media.fgo.wiki/d/d9/纹章178.png",
+      "skill_icon": "https://media.fgo.wiki/d/db/暴击威力提升.png"
+    },
+    "local": {
+      "cmd_icon": "纹章178.png",
+      "skill_icon": "暴击威力提升.png"
+    }
+  },
+  {
     "id": "177",
     "name": "妖精王之冠",
     "name_link": "妖精王之冠",
